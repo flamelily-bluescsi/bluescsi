@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Developer Essentials
+title: BlueSCSI Shop
 description: >- # this means to ignore newlines until "baseurl:"
-  A sample site demonstrating an E-Commerce site using Jekyll and PayPal.
+  Our Shop for all you retro SCSI needs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: theonemule
-github_username:  theonemule
+twitter_username: FlamelilyIT
+github_username:  flamelily-bluescsi
 
 # Build settings
 # theme: tactile

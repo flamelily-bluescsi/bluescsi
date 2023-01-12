@@ -1,11 +1,8 @@
-# An eCommerce Site Using Jekyll and PayPal
+# Our eCommerce Site Using Jekyll
 
 This little project grew out of a desire to create a simple eCommerce website to [sell my books online](https://www.blaize.net). I have, for the longest time, sold through Amazon. Amazon is a great platform, but I wanted to make the shopping experience more personal to better connect with my readers by selling books directly from my site.  My goals for this were simple: a simple eCommerce platform with PayPal as a payment gateway. I generalized it here so perhaps others could use it for their projects.
 
-#### [See it in action!](http://cartdemo.blaize.net)
-
-If you've never used Jekyll, it's elegantly simple and easy to use. If you want to develop locally, install Jekyll following the instructions [Here](https://jekyllrb.com/docs/installation/), then clone this repo, run `bundle update` to install dependencies, and then run `jekyll serve` to run the local development server.
-
+#### [See it in action!](https://bluescsi.flamelily.co.uk)
 
 ## Product Pages
 
@@ -29,7 +26,7 @@ title: Development Headphones
 cart_itemid: devheadphones
 cart_name: "Development Headphones"
 cart_description: "Drown out distractions!"
-cart_price: 79
+cart_price: 23
 cart_image: "assets/headphones-3683983_1280.jpg"
 ---
 
@@ -63,12 +60,9 @@ The add to cart link uses the `cart_itemid` property for the page. From the samp
  
 When the site is created, the site generates a javascript file called `catalog.js` in the `assets` folder. `catalog.js` is used by the cart page and the checkout page. This uses a Jekyll permalink to specify the output.
 
-
 #### cart.md
 
-
 `cart.md` provides a permalink at `/cart` to enable adding items to the cart. 
-
 
 #### checkout.md
 
@@ -85,7 +79,3 @@ This two files, located in the `assets` folder contain the code for maintaining 
 ## Generating a Catalog Page
 
 The `index.md` in this repository has a sample for how to generate a single page that has all of your items on the page. 
-
-## A caveat...
-
-Working with client-side carts has a rick of tampering, because anyone can hack the code in the browser, change the prices to give themselves a discount, and then pay for the product. You'd be none the wiser unless you check to ensure that the price paid is the price you sell the item for. If you are doing any automation downstream of the sale, such as digital goods, ensure that the automation checks the price.

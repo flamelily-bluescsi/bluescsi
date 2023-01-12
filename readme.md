@@ -1,6 +1,6 @@
 # Our eCommerce Site Using Jekyll
 
-This little project grew out of a desire to create a simple eCommerce website to [sell my books online](https://www.blaize.net). I have, for the longest time, sold through Amazon. Amazon is a great platform, but I wanted to make the shopping experience more personal to better connect with my readers by selling books directly from my site.  My goals for this were simple: a simple eCommerce platform with PayPal as a payment gateway. I generalized it here so perhaps others could use it for their projects.
+ My goals for this were simple: a simple eCommerce platform with PayPal as a payment gateway. I generalized it here so perhaps others could use it for their projects.
 
 #### [See it in action!](https://bluescsi.flamelily.co.uk)
 

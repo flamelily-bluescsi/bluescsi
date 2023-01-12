@@ -8,5 +8,8 @@
         <div class="cover-container">
 
           <div class="masthead clearfix">
+          {% if page.add %}
+          {% include note.html %}
+          {% endif %}
           {% include nav.html %}
           </div>

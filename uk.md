@@ -11,8 +11,6 @@ tags:
   - life
 ---
 
-  <body>
-
   <div class="site-wrapper">
 
   <div class="site-wrapper-inner">
@@ -45,63 +43,3 @@ This is the Desktop Kit version of the BlueSCSI. Fortunately, you don't have to 
 ## £{{page.cart_price}}
 
 ## [Add to cart!](/cart#{{page.cart_itemid}})
-
-<div class="row">
-  <div class="col-sm-3">
-    <p class="lead">&#8595;🇬🇧 UK Kit Only - £31 🇬🇧&#8595;</p>
-    	<img src="/assets/BSver11.jpg" alt="Kit BlueSCSI">
-    <div id="paypal-button-container-31"></div>
-  </div>
-  <div class="col-sm-3">
-    <p class="lead">&#8595;🇬🇧 UK Kit with SD soldered - £36 🇬🇧&#8595;</p>
-        <img src="/BSver11.jpg" alt="Kit SMD BlueSCSI">
-    <div id="paypal-button-container-36"></div>
-  </div>
-  <div class="col-sm-3">
-  <p class="lead">&#8595;🇬🇧 UK Fully Assembled - £51 🇬🇧&#8595;</p>
-      <img src="/BSver11-full.jpg" alt="Full BlueSCSI">
-  <div id="paypal-button-container-51"></div>
-  </div>
-  <div class="col-sm-3">
-  <p class="lead">&#8595;🇬🇧 DB25 Kit - £32 🇬🇧&#8595;</p>
-      <img src="/DB25ver11.jpg" alt="DB25 BlueSCSI">
-  <div id="paypal-button-container-32"></div>
-  </div>
-</div>
-<div class="row">
-    <div class="col-sm-3">
-  <p class="lead">&#8595;🇬🇧 DB25 Kit with SD soldered - £37 🇬🇧&#8595;</p>
-      <img src="/DB25ver11.jpg" alt="DB25 BlueSCSI SD">
-  <div id="paypal-button-container-37"></div>
-  </div>
-      <div class="col-sm-3">
-  <p class="lead">&#8595;🇬🇧 DB25 Full Assembled - £52 🇬🇧&#8595;</p>
-      <img src="/DB25full.jpg" alt="DB25 BlueSCSI SD">
-  <div id="paypal-button-container-52"></div>
-  </div>
-   <div class="col-sm-3">
-    <p class="lead">&#8595;🇬🇧 Powerbook BlueSCSI - £48 🇬🇧&#8595;</p>
-      <img src="/PB-Bluescsi.jpg" alt="Powerbook">
-    <div id="paypal-button-container-48"></div>
-  </div>
-  <div class="col-sm-3">
-    <p class="lead">&#8595;🇬🇧 3D case (ver1.1 Board only) - £8 🇬🇧&#8595;</p>
-      <img src="/3dresin.jpg" alt="3D case">
-    <div id="paypal-button-container-8"></div>
-  </div>
-
-  </div>
-<br>
-<br>
-          <div class="mastfoot">
-
-  <p>&copy; Copyright 2023 Flamelily IT, by <a href="https://twitter.com/flamelilyit">@FlamelilyIT</a>.</p>
-
-  </div>
-
-  </div>
-
-  </div>
-
-  </div>
-</body>

@@ -4,7 +4,7 @@
 layout: default
 ---
 
-{% for site.page | where_exp:"page", "page.tag contains 'uk'" %}
+{% for site.page | where_exp:"page", "page.tags contains 'uk'" %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 

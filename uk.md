@@ -4,7 +4,7 @@
 layout: default
 ---
 
-{% if page.cart_price contains "31" %}
+{% if page.cart_price == "31" %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 

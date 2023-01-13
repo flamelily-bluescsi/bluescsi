@@ -57,7 +57,7 @@ function drawCart(){
 			},
 			onApprove: function(data, actions) {
 				return actions.order.capture().then(function(details) {
-					cartHtml = `<h2>Thank you for your order!</h2><h4>Please check your email address for further instructions.</h4>`;
+					cartHtml = `<h2>Thank you for your order!</h2><h4>Please check your Paypal email address for receipt.</h4>`;
 					document.getElementById("paypalbutton").innerHTML = "";
 					document.getElementById("cartcontent").innerHTML = cartHtml;
 					localStorage.clear();

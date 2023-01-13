@@ -4,8 +4,8 @@ title: UK Purchase page
 cart_itemid: bluescsi
 cart_name: "BlueSCSI"
 cart_description: "Fuel your SCSI addiction!"
-cart_price: 39.99
-cart_image: "assets/cappuccino-756490_1280.jpg"
+cart_price: 31
+cart_image: "assets/BSver11.jpg"
 tags: 
   - scsi
   - life
@@ -21,23 +21,30 @@ tags:
 
   <div class="masthead clearfix">
               <h3 class="masthead-brand">🇬🇧BlueSCSI UK Purchase Page.🇬🇧</h3>
-              <nav>
-                <ul class="nav masthead-nav">
-                  <li class="active"><a href="https://bluescsi.flamelily.co.uk">Home</a></li>
-                  <li><a href="https://bluescsi.flamelily.co.uk/eu/">🇪🇺EU🇪🇺</a></li>
-                </ul>
-              </nav>
             </div>
-            <br>
-            <br>
 
   <div class="inner cover">
-            <h1 class="cover-heading">New BlueSCSI ver 1.1 - See Purchase Links below.&#8593; Please Read and Close Popup First!&#8593;</h1>
-            <p class="lead">BlueSCSI to SD provides a convenient way to use MicroSD cards hard drives in your Vintage Macintosh! This device should work on other vintage computers with SCSI, but we unfortunately don't have all devices to check. If you are able to confirm compatibility with your own device please let us know in the BlueSCSI discord server here &#8594; <a href="https://discord.gg/kx2Kybx2mk"target="_blank">Discord Server</a>. Click the button below to view the Github page for more info on this device, compatibility and assembly instructions. You can connect with me on Twitter, link in footer.</p>
+            <h1 class="cover-heading">New BlueSCSI ver 1.1 - See Purchase Links below.&#8593;</h1>
+            <p class="lead">BlueSCSI to SD provides a convenient way to use MicroSD cards hard drives in your Vintage Macintosh! This device should work on other vintage computers with SCSI, but we unfortunately don't have all devices to check. Click the button below to view the Github page for more info on this device, compatibility and assembly instructions. You can connect with me on Twitter, link in footer.</p>
             <p class="lead">
               <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-default">Github</a>
             </p>
           </div>
+
+## 🇬🇧 UK Kit Only - £31 🇬🇧
+
+![{{page.cart_description}}]({{page.cart_image}})
+
+This is the Desktop Kit version of the BlueSCSI. Fortunately, you don't have to break the bank!
+
+* Version 1.1 PCB
+* Small and cheap
+* Works better with Vintage Mac's 
+
+
+## £{{page.cart_price}}
+
+## [Add to cart!](/cart#{{page.cart_itemid}})
 
 <div class="row">
   <div class="col-sm-3">

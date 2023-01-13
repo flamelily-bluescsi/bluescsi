@@ -5,21 +5,14 @@ layout: default
 note: true
 ---
 
-BlueSCSI provides a convenient way to use a MicroSD card as a hard drive in your Vintage Computer! This device should work on most vintage computers with SCSI, but unfortunately some devices might not have been tested. If you are able to confirm compatibility with your own device please let us know in the BlueSCSI discord server here → [Discord Server](https://discord.gg/kx2Kybx2mk){:target="_blank"} Click the button below to view the Github page for more info on this device, compatibility and assembly instructions on the Wiki. You can connect with us on Twitter, link in footer.
+BlueSCSI provides a convenient way to use a MicroSD card as a SCSI hard drive in your Vintage Computer! This device should work on most vintage computers with SCSI, but unfortunately some devices might not have been tested. If you are able to confirm compatibility with your own device please let us know in the BlueSCSI discord server here → [Discord Server](https://discord.gg/kx2Kybx2mk){:target="_blank"} Click the button below to view the Github page for more info on this device, compatibility and assembly instructions on the Wiki. You can connect with us on Twitter, link in footer.
 
 <p class="lead text-center">
-    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-primary">Github</a>
+    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">Github</a>
 </p>
             
-{% assign catalog_items = site.pages |  where_exp:"item", "item.cart_itemid" %}
-{% for page in catalog_items %}
+All our prices include delivery, but please make sure you "Add to cart" from the EU page if you are purchasing from the EU or the Rest of the world. Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. Please download the PDF files below to help with usage and assembly.
 
-#### [{{page.cart_name}}]({{page.url}}) 
-
-##### {{page.cart_description}} 
-
-##### £{{page.cart_price}} 
-
-#### [Add to cart](/cart#{{page.cart_itemid}}) 
-
-{% endfor %}
+<a href="https://bluescsi.flamelily.co.uk/BlueSCSI_Instructions.pdf" target="_blank">&#9989;Usage Instructions PDF</a>
+<a href="https://bluescsi.flamelily.co.uk/BlueSCSI_assembly.pdf" target="_blank">&#9989;Desktop Assembly Instructions PDF</a>
+<a href="https://bluescsi.flamelily.co.uk/BlueSCSI_Assembly_DB25.pdf" target="_blank">&#9989;Assembly DB25 Instructions PDF</a>

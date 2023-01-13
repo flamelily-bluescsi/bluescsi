@@ -11,7 +11,7 @@ tags:
   - uk
 ---
 
-#### 🇬🇧 UK Desktop Kit Only - £31 🇬🇧
+##### 🇬🇧 UK Desktop Kit Only - £31 🇬🇧
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
@@ -22,6 +22,6 @@ This is the Desktop Kit version of the BlueSCSI. Fortunately, you don't have to 
 * Works better with Vintage Mac's 
 
 
-### £{{page.cart_price}}
+#### £{{page.cart_price}}
 
-## [Add to cart!](/cart#{{page.cart_itemid}})
+#### [Add to cart!](/cart#{{page.cart_itemid}})

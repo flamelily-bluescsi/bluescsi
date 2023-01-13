@@ -18,8 +18,8 @@ BlueSCSI provides a convenient way to use a MicroSD card as a hard drive in your
 
 ##### {{page.cart_description}} 
 
-#### £{{page.cart_price}} 
+##### £{{page.cart_price}} 
 
-### [Add to cart](/cart#{{page.cart_itemid}}) 
+#### [Add to cart](/cart#{{page.cart_itemid}}) 
 
 {% endfor %}

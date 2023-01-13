@@ -1,27 +1,17 @@
 ---
-layout: page
-title: UK Purchase page
-cart_itemid: bluescsi
-cart_name: "BlueSCSI"
-cart_description: "Fuel your SCSI addiction!"
-cart_price: 31
-cart_image: "assets/BSver11.jpg"
-tags: 
-  - scsi
-  - life
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
 ---
 
-## 🇬🇧 UK Kit Only - £31 🇬🇧
+{% if page.tag in catalog_items = uk %}
 
-![{{page.cart_description}}]({{page.cart_image}})
+## [{{page.cart_name}}]({{page.url}}) 
 
-This is the Desktop Kit version of the BlueSCSI. Fortunately, you don't have to break the bank!
+#### {{page.cart_description}} 
 
-* Version 1.1 PCB
-* Small and cheap
-* Works better with Vintage Mac's 
+#### £{{page.cart_price}} 
 
+### [Add to cart](/cart#{{page.cart_itemid}}) 
 
-## £{{page.cart_price}}
-
-## [Add to cart!](/cart#{{page.cart_itemid}})
+{% endif %}

@@ -4,7 +4,7 @@
 layout: default
 ---
 
-{% if page.title contains "UK" %}
+{% if page.cart_price contains "31" %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 

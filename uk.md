@@ -4,7 +4,7 @@
 layout: default
 ---
 
-{% if page.tag in catalog_items = uk %}
+{% if page.tag = uk %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 

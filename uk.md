@@ -4,7 +4,8 @@
 layout: default
 ---
 
-{% for site.page | where_exp:"page", "page.tags contains 'uk'" %}
+{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'uk'" %}
+{% for page in cat_items %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 

@@ -22,7 +22,7 @@ title: BlueSCSI Shop
 description: >- # this means to ignore newlines until "baseurl:"
   All you retro SCSI needs in one place
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https//bs.flamelily.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlamelilyIT
 github_username:  flamelily-bluescsi
 

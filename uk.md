@@ -5,7 +5,7 @@ layout: default
 ---
 
 {% assign catalog_items = site.pages |  where_exp:"item", "item.cart_itemid" %}
-{% if page.tag contains "uk" %}
+{% for page.tag contains "uk" %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 
@@ -15,4 +15,4 @@ layout: default
 
 ### [Add to cart](/cart#{{page.cart_itemid}}) 
 
-{% endif %}
+{% endfor %}

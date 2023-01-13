@@ -4,7 +4,7 @@
 layout: default
 ---
 
-{% if page.tag contains "uk" %}
+{% if page.title contains "UK" %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 

@@ -4,7 +4,8 @@
 layout: default
 ---
 
-{% if page.cart_price == "31" %}
+{% assign catalog_items = site.pages |  where_exp:"item", "item.cart_itemid" %}
+{% if page.tag contains "uk" %}
 
 ## [{{page.cart_name}}]({{page.url}}) 
 

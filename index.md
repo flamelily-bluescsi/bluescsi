@@ -8,7 +8,7 @@ note: true
 BlueSCSI provides a convenient way to use a MicroSD card as a hard drive in your Vintage Computer! This device should work on most vintage computers with SCSI, but unfortunately some devices might not have been tested. If you are able to confirm compatibility with your own device please let us know in the BlueSCSI discord server here → [Discord Server](https://discord.gg/kx2Kybx2mk){:target="_blank"} Click the button below to view the Github page for more info on this device, compatibility and assembly instructions on the Wiki. You can connect with us on Twitter, link in footer.
 
 <p class="lead text-center">
-    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-default">Github</a>
+    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-primary">Github</a>
 </p>
             
 {% assign catalog_items = site.pages |  where_exp:"item", "item.cart_itemid" %}

@@ -2,8 +2,8 @@
 layout: page
 title: UK Desktop Kit
 cart_itemid: UKdesktopkit
-cart_name: "BlueSCSI"
-cart_description: "Fuel your SCSI addiction!"
+cart_name: "BlueSCSI Kit UK"
+cart_description: "BlueSCSI Desktop Solder Kit UK"
 cart_price: 31
 cart_image: "assets/BSver11.jpg"
 tags: 
@@ -11,16 +11,15 @@ tags:
   - uk
 ---
 
-##### 🇬🇧 UK Desktop Kit Only - £31 🇬🇧
+##### 🇬🇧 UK Desktop Kit - £31 🇬🇧
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
-This is the Desktop Kit version of the BlueSCSI. Fortunately, you don't have to break the bank!
+This is the Desktop Kit version of the BlueSCSI for UK buyers. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option.
 
 * Version 1.1 PCB
 * Small and cheap
 * Works better with Vintage Mac's 
-
 
 #### £{{page.cart_price}}
 

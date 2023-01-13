@@ -15,12 +15,11 @@ tags:
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
-This is the Desktop Kit version of the BlueSCSI. Fortunately, you don't have to break the bank!
+This is the Desktop Kit version of the BlueSCSI for EU/Rest of the World buyers. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option.
 
 * Version 1.1 PCB
 * Small and cheap
 * Works better with Vintage Mac's 
-
 
 #### £{{page.cart_price}}
 

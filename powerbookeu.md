@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EU Powerbook
-cart_itemid: ukpowerbook
+cart_itemid: eupowerbook
 cart_name: "BlueSCSI Powerbook EU"
 cart_description: "BlueSCSI Powerbook Full EU"
 cart_price: 60
@@ -11,11 +11,11 @@ tags:
   - eu
 ---
 
-##### 🇬🇧 UK Powerbook 🇬🇧
+##### 🇪🇺 EU Powerbook 🇪🇺
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
-This is the Powerbook version of the BlueSCSI for UK buyers. No soldering is required to use this device. This device has been fully tested on a Vintage Mac Powerbook.
+This is the Powerbook version of the BlueSCSI for EU/Rest of the World buyers. No soldering is required to use this device. This device has been fully tested on a Vintage Mac Powerbook.
 
 * Version 1.1 PCB
 * Fully tested on a PB 165C

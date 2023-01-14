@@ -5,7 +5,7 @@ cart_itemid: eudesktopkit
 cart_name: "BlueSCSI Kit EU"
 cart_description: "BlueSCSI Desktop Kit EU/Rest of world"
 cart_price: 52
-cart_image: "assets/img/BSver11.jpg"
+cart_image: "assets/img/desktopkit.jpg"
 tags: 
   - scsi
   - eu
@@ -21,6 +21,4 @@ This is the Desktop Kit version of the BlueSCSI for EU/Rest of the World buyers.
 * SD card socket soldered
 * Works better with Vintage Mac's 
 
-##### £{{page.cart_price}} 
-
-##### {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

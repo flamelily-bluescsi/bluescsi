@@ -27,6 +27,4 @@ If you purchased a BlueSCSI before 11/04/2022 from us or any authorised seller, 
 * UK only
 * Ony for those who cannot do it themselves
 
-##### £{{page.cart_price}} 
-
-##### {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

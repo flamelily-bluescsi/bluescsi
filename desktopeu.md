@@ -5,7 +5,7 @@ cart_itemid: eudesktop
 cart_name: "BlueSCSI Desktop EU"
 cart_description: "BlueSCSI Desktop Full EU"
 cart_price: 68
-cart_image: "assets/img/BSver11.jpg"
+cart_image: "assets/img/desktopfull.jpg"
 tags: 
   - scsi
   - eu
@@ -21,6 +21,4 @@ This is the Desktop version of the BlueSCSI for EU/Rest of the World buyers. No 
 * Fully tested
 * Works better with Vintage Mac's 
 
-##### £{{page.cart_price}} 
-
-##### {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

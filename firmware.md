@@ -5,7 +5,7 @@ cart_itemid: firmware
 cart_name: "Firmware"
 cart_description: "BlueSCSI Firmware Update service"
 cart_price: 5
-cart_image: "assets/bluescsi.png"
+cart_image: "assets/img/bluescsi.png"
 tags: 
   - scsi
   - uk
@@ -27,6 +27,6 @@ If you purchased a BlueSCSI before 11/04/2022 from us or any authorised seller, 
 * UK only
 * Ony for those who cannot do it themselves
 
-#### £{{page.cart_price}}
+##### £{{page.cart_price}} 
 
-#### [Add to cart!](/cart#{{page.cart_itemid}})
+##### {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

@@ -5,13 +5,13 @@ cart_itemid: eudesktopkit
 cart_name: "BlueSCSI Kit EU"
 cart_description: "BlueSCSI Desktop Kit EU/Rest of world"
 cart_price: 48
-cart_image: "assets/BSver11.jpg"
+cart_image: "assets/img/BSver11.jpg"
 tags: 
   - scsi
   - eu
 ---
 
-##### 🇪🇺 EU Desktop Kit - £48 🇪🇺
+##### 🇪🇺 EU Desktop Kit 🇪🇺
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
@@ -21,6 +21,6 @@ This is the Desktop Kit version of the BlueSCSI for EU/Rest of the World buyers.
 * Small and cheap
 * Works better with Vintage Mac's 
 
-#### £{{page.cart_price}}
+##### £{{page.cart_price}} 
 
-#### [Add to cart!](/cart#{{page.cart_itemid}})
+##### {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

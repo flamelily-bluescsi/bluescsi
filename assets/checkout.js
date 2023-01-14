@@ -8,13 +8,13 @@ function drawCart(){
 		cartHtml = "<h2>Cart is empty</h2>";
 	}else{
 		var total = 0 ;
-		cartHtml = `<table><tr><td>Item</td><td>Description</td><td>Qty.</td><td>Price</td></tr>`;
+		cartHtml = `<table><tr><td><b>Item</b></td><td><b>Description</b></td><td><b>Qty.</b></td><td><b>Price</b></td></tr>`;
 		for (const item in cart) {
 			cartHtml += `<tr><td>${catalog[item].name}</td><td>${catalog[item].description}</td><td>${cart[item]}</td>
 			<td>${(catalog[item].price * cart[item]).toFixed(2)}</td></tr>`;
 			total += catalog[item].price * cart[item];
 		}
-		cartHtml += `<tr><td>TOTAL</td><td></td><td></td><td>${(total).toFixed(2)}</td></tr>`;
+		cartHtml += `<tr><td><b>TOTAL</b></td><td></td><td></td><td>${(total).toFixed(2)}</td></tr>`;
 		cartHtml += `</table>`;
 		
 	}

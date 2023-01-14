@@ -4,7 +4,7 @@ title: UK Desktop Kit
 cart_itemid: ukdesktopkit
 cart_name: "BlueSCSI Kit UK"
 cart_description: "BlueSCSI Desktop Solder Kit UK"
-cart_price: 31
+cart_price: 35
 cart_image: "assets/img/BSver11.jpg"
 tags: 
   - scsi
@@ -15,10 +15,10 @@ tags:
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
-This is the Desktop Kit version of the BlueSCSI for UK buyers. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option.
+This is the Desktop Kit version of the BlueSCSI for UK buyers. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The micro SD socket is pre-soldered to the PCB so only through hole soldering is required.
 
 * Version 1.1 PCB
-* Small and cheap
+* SD card socket soldered
 * Works better with Vintage Mac's 
 
 ##### £{{page.cart_price}} 

@@ -1,1 +1,1 @@
-You can "Add to cart" from this page or you can view more information about each item by clicking on it's title, which will take you to the product page with photos and also the ability to purchase from that page.
+You can "Add to cart" from this page or you can view more information about each item by clicking on it's title, which will take you to the product page with photos and also the ability to purchase from that page. Our prices include tracked delivery and you can access the tracking info via Paypal.

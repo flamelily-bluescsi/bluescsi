@@ -2,7 +2,7 @@
 layout: page
 title: Firmware Update
 cart_itemid: firmware
-cart_name: "Firmware"
+cart_name: "Firmware Update"
 cart_description: "BlueSCSI Firmware Update service"
 cart_price: 5
 cart_image: "assets/img/bluescsi.png"

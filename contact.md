@@ -8,11 +8,11 @@ title: Contact
 <form action="https://formspree.io/f/mzbqzzod"
   method="POST">
   <div class="mb-3">
-  <label for="name" class="form-label">Name</label>
+  <label name="fullname" for="name" class="form-label">Name</label>
   <input type="text" class="form-control" id="name">
 </div>
   <div class="mb-3">
-    <label for="Email1" class="form-label">Email address</label>
+    <label for="Email" class="form-label">Email address</label>
     <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
   </div>

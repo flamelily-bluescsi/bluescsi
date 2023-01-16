@@ -5,7 +5,7 @@ if (typeof(Storage) !== "undefined" && localStorage.cart) {
 var cartHtml = "";
 function drawCart(){
 	if (Object.keys(cart).length == 0){
-		cartHtml = "<h2>Cart is empty</h2>";
+		cartHtml = "<h2>&#128722; Cart is empty</h2>";
 	}else{
 		var total = 0 ;
 		cartHtml = `<table><tr><td><b>Item</b></td><td><b>Description</b></td><td><b>Qty.</b></td><td><b>Price</b></td></tr>`;

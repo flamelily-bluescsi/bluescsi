@@ -7,8 +7,11 @@ layout: default
 {% include region.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'eu'" %}
-{% for page in cat_items %}
 
+<div class="row">
+	{% for page in cat_items %}
+<div class="col-md-6" markdown="1">
 {% include regionlist.md %}
-
-{% endfor %}
+</div>
+	  {% endfor %}
+</div>

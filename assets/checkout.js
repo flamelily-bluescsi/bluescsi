@@ -39,8 +39,7 @@ function drawCart(){
 		}		
 			
 		invoice_id = Date.now();
-			
-				
+							
 		paypal.Buttons({
 			createOrder: function(data, actions) {
 				return actions.order.create({

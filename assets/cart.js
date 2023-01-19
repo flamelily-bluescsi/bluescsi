@@ -65,5 +65,4 @@ function drawCart(){
 	document.getElementById("cartcontent").innerHTML = cartHtml;
 		
 }
-
 drawCart();

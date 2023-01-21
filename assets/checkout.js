@@ -50,7 +50,7 @@ function drawCart(){
     
     if( discount_total > 0 ) {
       cartHtml += `<tr><td><b>SUB TOTAL</b></td><td></td><td></td><td>${(total).toFixed(2)}</td></tr>`;
-      cartHtml += `<tr><td><b>Shipping Discount</b></td><td></td><td></td><td>${(discount_total).toFixed(2)}</td></tr>`;
+      cartHtml += `<tr><td><b>Shipping Discount</b></td><td></td><td></td><td>-${(discount_total).toFixed(2)}</td></tr>`;
     }
     
 		cartHtml += `<tr><td><b>TOTAL</b></td><td></td><td></td><td>${(total - discount_total).toFixed(2)}</td></tr>`;

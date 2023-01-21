@@ -4,7 +4,7 @@ title: EU 3D Desktop Case
 cart_itemid: eu3dprint
 cart_name: "BlueSCSI Desktop Case EU"
 cart_description: "BlueSCSI Desktop Case 3D Print EU"
-cart_price: 12
+cart_price: 15
 cart_image: "assets/img/3dprintdesktop.jpg"
 tags: 
   - scsi

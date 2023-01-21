@@ -8,7 +8,6 @@ cart_price: 5
 cart_image: "assets/img/bluescsi.png"
 tags: 
   - scsi
-  - uk
 ---
 
 ##### 🇬🇧 Authorised sellers will – for the cost of return post and packing – update your BlueSCSI for you! 🇬🇧
@@ -27,4 +26,4 @@ If you purchased a BlueSCSI before 11/04/2022 from us or any authorised seller, 
 * UK only
 * Ony for those who cannot do it themselves
 
-##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+##### [Purchase Link](https://py.pl/1pvmZa)

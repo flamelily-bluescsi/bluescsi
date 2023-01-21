@@ -2,6 +2,39 @@ var cart = {};
 if (typeof(Storage) !== "undefined" && localStorage.cart) {
 	cart = JSON.parse(localStorage.cart);
 }
+
+
+// Automatic 10% discount?
+let discount_percentage = 0;
+let discount_total = 0;
+if( Object.keys( cart ).length != 0 ) {
+  
+  let total = 0;
+  let totals = [];
+  totals[ 'UK' ] = 0;
+  totals[ 'EU' ] = 0;
+
+  for( const item in cart ) {
+    const name = catalog[item].name.split( ' ' );
+    const country = name[ name.length - 1 ].toUpperCase();
+    
+    total += catalog[item].price * cart[item];
+    totals[ country ] += cart[ item ];
+    
+    console.log( total );
+  }
+  
+  if( totals[ 'EU' ] >= 2 ) { discount_percentage = 10; }
+  if( totals[ 'UK' ] >= 2 ) { discount_percentage = 5; }
+  
+  console.log( totals );
+  
+  if( discount_percentage > 0 ) {
+    discount_total = ( total * discount_percentage ) / 100;
+  }
+  
+}
+
 var cartHtml = "";
 function drawCart(){
 	if (Object.keys(cart).length == 0){
@@ -14,7 +47,13 @@ function drawCart(){
 			<td>${(catalog[item].price * cart[item]).toFixed(2)}</td></tr>`;
 			total += catalog[item].price * cart[item];
 		}
-		cartHtml += `<tr><td><b>TOTAL</b></td><td></td><td></td><td>${(total).toFixed(2)}</td></tr>`;
+    
+    if( discount_total > 0 ) {
+      cartHtml += `<tr><td><b>SUB TOTAL</b></td><td></td><td></td><td>${(total).toFixed(2)}</td></tr>`;
+      cartHtml += `<tr><td><b>Shipping Discount</b></td><td></td><td></td><td>${(discount_total).toFixed(2)}</td></tr>`;
+    }
+    
+		cartHtml += `<tr><td><b>TOTAL</b></td><td></td><td></td><td>${(total - discount_total).toFixed(2)}</td></tr>`;
 		cartHtml += `</table>`;
 		
 	}
@@ -37,9 +76,12 @@ function drawCart(){
 			});
 			total += catalog[item].price * cart[item];
 		}		
-			
+
+    
 		invoice_id = Date.now();
-							
+    							
+    let total_with_discount = total - discount_total;
+        
 		paypal.Buttons({
 			createOrder: function(data, actions) {
 				return actions.order.create({
@@ -47,8 +89,12 @@ function drawCart(){
 						invoice_id: invoice_id,
 						amount: {
 							currency: "GBP",
-							value: total.toFixed(2),
-							breakdown: {item_total:{value:total.toFixed(2), currency_code: "GBP"}}
+							value: total_with_discount.toFixed(2),
+							breakdown: {
+                item_total:{value:total.toFixed(2), currency_code: "GBP"},
+                discount: {currency_code:"GBP",value:discount_total}
+              },
+              
 						},
 						items: items,						
 					}]

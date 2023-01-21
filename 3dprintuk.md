@@ -4,7 +4,7 @@ title: UK 3D Desktop Case
 cart_itemid: uk3dprint
 cart_name: "BlueSCSI Desktop Case UK"
 cart_description: "BlueSCSI Desktop Case 3D Print UK"
-cart_price: 8
+cart_price: 9
 cart_image: "assets/img/3dprintdesktop.jpg"
 tags: 
   - scsi

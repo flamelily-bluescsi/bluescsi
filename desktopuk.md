@@ -9,6 +9,7 @@ cart_image: "assets/img/desktopfull.jpg"
 tags: 
   - scsi
   - uk
+  - ukv1
 ---
 
 ##### 🇬🇧 UK Desktop 🇬🇧

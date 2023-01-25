@@ -9,6 +9,7 @@ cart_image: "assets/img/powerbookfull.jpg"
 tags: 
   - scsi
   - uk
+  - ukv1
 ---
 
 ##### 🇬🇧 UK Powerbook 🇬🇧

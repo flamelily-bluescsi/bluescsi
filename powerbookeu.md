@@ -9,6 +9,7 @@ cart_image: "assets/img/powerbookfull.jpg"
 tags: 
   - scsi
   - eu
+  - euv1
 ---
 
 ##### 🇪🇺 EU Powerbook 🇪🇺

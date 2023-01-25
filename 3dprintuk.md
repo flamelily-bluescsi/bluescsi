@@ -9,6 +9,7 @@ cart_image: "assets/img/3dprintdesktop.jpg"
 tags: 
   - scsi
   - uk
+  - ukv1
 ---
 
 ##### 🇬🇧 UK Desktop Case 3D Print 🇬🇧

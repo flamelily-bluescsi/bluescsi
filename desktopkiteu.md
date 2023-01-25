@@ -9,6 +9,7 @@ cart_image: "assets/img/desktopkit.jpg"
 tags: 
   - scsi
   - eu
+  - euv1
 ---
 
 ##### 🇪🇺 EU Desktop Kit 🇪🇺

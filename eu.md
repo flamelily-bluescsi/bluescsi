@@ -6,7 +6,22 @@ layout: default
 
 {% include region.md %}
 
-{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'eu'" %}
+{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'euv1'" %}
+##### 🇪🇺 Version 1 🇪🇺
+
+<div class="container">
+<div class="row">
+	{% for page in cat_items %}
+<div class="col-md-6" markdown="1">
+{% include regionlist.md %}
+</div>
+	  {% endfor %}
+</div>
+</div>
+<hr>
+{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'euv2'" %}
+
+##### 🇪🇺 NEW - Version 2 🇪🇺
 
 <div class="container">
 <div class="row">

@@ -9,6 +9,7 @@ cart_image: "assets/img/db25kit.jpg"
 tags: 
   - scsi
   - uk
+  - ukv1
 ---
 
 ##### 🇬🇧 UK DB25 🇬🇧

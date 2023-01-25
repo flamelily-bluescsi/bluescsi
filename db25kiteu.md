@@ -9,6 +9,7 @@ cart_image: "assets/img/db25kit.jpg"
 tags: 
   - scsi
   - eu
+  - euv1
 ---
 
 ##### 🇪🇺 EU DB25 Kit 🇪🇺

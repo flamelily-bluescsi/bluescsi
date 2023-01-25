@@ -9,6 +9,7 @@ cart_image: "assets/img/3dprintdesktop.jpg"
 tags: 
   - scsi
   - eu
+  - euv1
 ---
 
 ##### 🇪🇺 EU Desktop Case 3D Print 🇪🇺

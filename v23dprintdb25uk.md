@@ -9,7 +9,6 @@ cart_image: "assets/img/bluescsi.png"
 tags: 
   - scsi
   - uk
-  - ukv2
   - soonuk
 ---
 

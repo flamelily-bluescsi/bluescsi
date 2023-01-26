@@ -32,3 +32,17 @@ layout: default
 	  {% endfor %}
 </div>
 </div>
+<hr>
+{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'sooneu'" %}
+
+##### 🇪🇺 COMING SOON 🇪🇺
+
+<div class="container">
+<div class="row">
+	{% for page in cat_items %}
+<div class="col-md-6" markdown="1">
+{% include regionlistsoon.md %}
+</div>
+	  {% endfor %}
+</div>
+</div>

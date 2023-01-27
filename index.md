@@ -13,7 +13,7 @@ We are the UK registered distributor for the BlueSCSI. It's a convenient way to 
     <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">BlueSCSI Github</a>
 </p>
             
-All our prices include delivery, but please make sure you "Add to Cart" from the EU page if you are purchasing from the Europe or the Rest of the world. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page. Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current stock on the main [SCSI.BLUE](https://scsi.blue/){:target="_blank"} webpage. If you need our Firmware Update service, this can be found here [Firmware Update](/firmware.html). Please download the PDF files below to help with usage and assembly.
+All our prices include delivery, but please make sure you "Add to Cart" from the 🇪🇺 EU page if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page. Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current stock on the main [SCSI.BLUE](https://scsi.blue/){:target="_blank"} webpage. If you need our Firmware Update service, this can be found here [Firmware Update](/firmware.html). Please download the PDF files below to help with usage and assembly.
 
 <a href="/assets/pdfs/BlueSCSI_Instructions.pdf" target="_blank">&#9989;V1 Usage Instructions PDF</a>
 <a href="/assets/pdfs/BlueSCSI_assembly.pdf" target="_blank">&#9989;V1 Desktop Assembly Instructions PDF</a>

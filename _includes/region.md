@@ -1,1 +1,1 @@
-Please click on the Tile of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from this product page. Our prices include Royal Mail delivery and you will receive a dispatch email via Paypal.
+Please click on the Title of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from this product page. Our prices include Royal Mail delivery and you will receive a dispatch email via Paypal.

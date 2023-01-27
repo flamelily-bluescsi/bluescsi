@@ -4,7 +4,7 @@
 layout: default
 ---
 
-{% include region.md %}
+{% include regioneu.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'euv1'" %}
 ##### 🇪🇺 Version 1 🇪🇺

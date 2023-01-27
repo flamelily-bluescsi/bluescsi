@@ -1,1 +1,1 @@
-You can "Add to cart" from this page or you can view more information about each item by clicking on it's title, which will take you to the product page with photos and also the ability to purchase from that page. Our prices include tracked delivery and you can access the tracking info via Paypal.
+Please click on the Tile of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from this product page. Our prices include Royal Mail delivery and you will receive a dispatch email via Paypal.

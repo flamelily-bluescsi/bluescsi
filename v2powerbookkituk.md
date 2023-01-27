@@ -3,7 +3,7 @@ layout: page
 title: V2 Powerbook Kit UK
 cart_itemid: v2powerbookkituk
 cart_name: "V2 BlueSCSI Powerbook Kit UK"
-cart_description: "V2 BlueSCSI Powerbook Solder Kit UK"
+cart_description: "V2 BlueSCSI Powerbook Solder Kit"
 cart_price: 37
 cart_image: "assets/img/v2powerbookkit.jpg"
 tags: 

@@ -3,13 +3,14 @@ layout: page
 title: V2 Desktop Kit Straight UK
 cart_itemid: v2desktopstraightkituk
 cart_name: "V2 BlueSCSI Kit Straight UK"
-cart_description: "V2 BlueSCSI Desktop 50pin Solder Kit Straight UK"
+cart_description: "V2 BlueSCSI Desktop 50pin Solder Kit Straight"
 cart_price: 37
 cart_image: "assets/img/v2desktopstraightkit.jpg"
 tags: 
   - scsi
   - uk
   - ukv2
+stock: 1
 ---
 
 ##### 🇬🇧 V2 Desktop Kit V2 Straight Header UK 🇬🇧
@@ -23,4 +24,8 @@ This is the NEW version 2 Desktop Kit version of the BlueSCSI for UK buyers. Thi
 * Straight up headers
 * Includes pre-flashed Pico
 
+{% if page.stock == 1 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+&#9940; OUT OF STOCK &#9940;
+{% endif %}

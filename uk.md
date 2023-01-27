@@ -2,7 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+note: true
 ---
+&#9940; PLEASE DON'T PURCHASE (any BlueSCSI Desktop V2) IF YOU CANNOT WAIT AT LEAST 2 WEEKS FOR DISPATCH. Apologies, but Chinese New Year has not helped. DB25 V2, Powerbook V2 and all V1 are still available and IN Stock &#9940;
 
 {% include region.md %}
 

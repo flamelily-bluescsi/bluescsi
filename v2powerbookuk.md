@@ -3,7 +3,7 @@ layout: page
 title: V2 Powerbook UK
 cart_itemid: v2powerbookuk
 cart_name: "V2 BlueSCSI Powerbook UK"
-cart_description: "V2 BlueSCSI Powerbook UK"
+cart_description: "V2 BlueSCSI Powerbook"
 cart_price: 52
 cart_image: "assets/img/v2powerbook.jpg"
 tags: 

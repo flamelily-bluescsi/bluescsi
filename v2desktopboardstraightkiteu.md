@@ -3,13 +3,14 @@ layout: page
 title: V2 Desktop Board Only Kit Straight EU
 cart_itemid: v2desktopboardstraightkiteu
 cart_name: "V2 BlueSCSI Board Only Desktop Kit Straight EU"
-cart_description: "V2 BlueSCSI Board Only Desktop 50pin Solder Kit Straight EU - NO Pico"
+cart_description: "V2 BlueSCSI Board Only Desktop 50pin Solder Kit Straight - NO Pico"
 cart_price: 49
 cart_image: "assets/img/v2desktopboardstraightkit.jpg"
 tags: 
   - scsi
   - eu
   - euv2
+stock: 1
 ---
 
 ##### 🇪🇺 Desktop Board Only Kit V2 Straight Header EU 🇪🇺
@@ -23,4 +24,8 @@ This is the NEW version 2 Desktop Board Only Kit version of the BlueSCSI for �
 * Straight up headers
 * No Pico supplied
 
+{% if page.stock == 1 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+&#9940; OUT OF STOCK &#9940;
+{% endif %}

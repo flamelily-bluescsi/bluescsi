@@ -3,13 +3,14 @@ layout: page
 title: V2 DB25 Board Only Kit UK
 cart_itemid: v2db25boardkituk
 cart_name: "V2 BlueSCSI DB25 Board Only Kit UK"
-cart_description: "V2 BlueSCSI DB25 Board Only Solder Kit UK - NO Pico"
+cart_description: "V2 BlueSCSI DB25 Board Only Solder Kit - NO Pico"
 cart_price: 32
 cart_image: "assets/img/v2db25boardkit.jpg"
 tags: 
   - scsi
   - uk
   - ukv2
+stock: 1
 ---
 
 ##### 🇬🇧 V2 DB25 Board Only Kit UK 🇬🇧
@@ -22,4 +23,8 @@ This is the NEW version 2 DB25 Kit Board only version of the BlueSCSI for UK buy
 * SMD already soldered
 * No Pico supplied
 
+{% if page.stock == 1 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+&#9940; OUT OF STOCK &#9940;
+{% endif %}

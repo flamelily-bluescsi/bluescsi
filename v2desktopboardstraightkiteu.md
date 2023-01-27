@@ -4,7 +4,7 @@ title: V2 Desktop Board Only Kit Straight EU
 cart_itemid: v2desktopboardstraightkiteu
 cart_name: "V2 BlueSCSI Board Only Desktop Kit Straight EU"
 cart_description: "V2 BlueSCSI Board Only Desktop 50pin Solder Kit Straight EU"
-cart_price: 47
+cart_price: 49
 cart_image: "assets/img/v2desktopboardstraightkit.jpg"
 tags: 
   - scsi

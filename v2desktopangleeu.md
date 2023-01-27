@@ -4,7 +4,7 @@ title: V2 Desktop Right Angle EU
 cart_itemid: v2desktopangleeu
 cart_name: "V2 BlueSCSI Right Angle EU"
 cart_description: "V2 BlueSCSI Desktop 50pin Solder Right Angle EU"
-cart_price: 68
+cart_price: 72
 cart_image: "assets/img/v2desktopangle.jpg"
 tags: 
   - scsi

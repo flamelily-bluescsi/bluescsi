@@ -4,7 +4,7 @@ title: V2 DB25 Board Only Kit EU
 cart_itemid: v2db25boardkiteu
 cart_name: "V2 BlueSCSI DB25 Board Only Kit EU"
 cart_description: "V2 BlueSCSI DB25 Board Only Solder Kit EU"
-cart_price: 47
+cart_price: 49
 cart_image: "assets/img/v2db25boardkit.jpg"
 tags: 
   - scsi

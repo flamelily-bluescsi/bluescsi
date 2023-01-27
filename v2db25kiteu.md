@@ -4,7 +4,7 @@ title: V2 DB25 Kit EU
 cart_itemid: v2db25kiteu
 cart_name: "V2 BlueSCSI DB25 Kit EU"
 cart_description: "V2 BlueSCSI DB25 Solder Kit EU"
-cart_price: 52
+cart_price: 54
 cart_image: "assets/img/v2db25kit.jpg"
 tags: 
   - scsi

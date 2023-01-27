@@ -3,7 +3,7 @@ layout: page
 title: V2 Desktop Board Only Kit Straight UK
 cart_itemid: v2desktopboardstraightkituk
 cart_name: "V2 BlueSCSI Board Only Desktop Kit Straight UK"
-cart_description: "V2 BlueSCSI Board Only Desktop 50pin Solder Kit Straight UK"
+cart_description: "V2 BlueSCSI Board Only Desktop 50pin Solder Kit Straight UK - NO Pico"
 cart_price: 32
 cart_image: "assets/img/v2desktopboardstraightkit.jpg"
 tags: 

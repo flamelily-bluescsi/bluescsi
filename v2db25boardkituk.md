@@ -3,7 +3,7 @@ layout: page
 title: V2 DB25 Board Only Kit UK
 cart_itemid: v2db25boardkituk
 cart_name: "V2 BlueSCSI DB25 Board Only Kit UK"
-cart_description: "V2 BlueSCSI DB25 Board Only Solder Kit UK"
+cart_description: "V2 BlueSCSI DB25 Board Only Solder Kit UK - NO Pico"
 cart_price: 32
 cart_image: "assets/img/v2db25boardkit.jpg"
 tags: 

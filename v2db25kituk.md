@@ -4,7 +4,7 @@ title: V2 DB25 Kit UK
 cart_itemid: v2db25kituk
 cart_name: "V2 BlueSCSI DB25 Kit UK"
 cart_description: "V2 BlueSCSI DB25 Solder Kit"
-cart_price: 37
+cart_price: 38
 cart_image: "assets/img/v2db25kit.jpg"
 tags: 
   - scsi

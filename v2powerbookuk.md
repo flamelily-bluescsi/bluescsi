@@ -16,7 +16,7 @@ tags:
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
-This is the NEW version 2 Powerbook Full version of the BlueSCSI for UK buyers. This has connector for Mac Powerbooks. This is a complete and tested device.
+This is the NEW version 2 Powerbook Full version of the BlueSCSI for UK buyers. This has a slim SCSI connector for Mac Powerbooks. This is a complete and tested device.
 
 * New Version 2
 * Fully tested on a PB 165C

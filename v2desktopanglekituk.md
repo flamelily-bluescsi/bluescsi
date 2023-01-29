@@ -2,9 +2,9 @@
 layout: page
 title: V2 Desktop Kit Right Angle UK
 cart_itemid: v2desktopanglekituk
-cart_name: "V2 BlueSCSI Kit Right Angle UK"
+cart_name: "V2 BlueSCSI Desktop Kit Right Angle UK"
 cart_description: "V2 BlueSCSI Desktop 50pin Solder Kit Right Angle"
-cart_price: 37
+cart_price: 38
 cart_image: "assets/img/v2desktopanglekit.jpg"
 tags: 
   - scsi

@@ -2,9 +2,9 @@
 layout: page
 title: V2 Desktop Kit Straight UK
 cart_itemid: v2desktopstraightkituk
-cart_name: "V2 BlueSCSI Kit Straight UK"
+cart_name: "V2 BlueSCSI Desktop Kit Straight UK"
 cart_description: "V2 BlueSCSI Desktop 50pin Solder Kit Straight"
-cart_price: 37
+cart_price: 38
 cart_image: "assets/img/v2desktopstraightkit.jpg"
 tags: 
   - scsi

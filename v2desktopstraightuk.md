@@ -2,7 +2,7 @@
 layout: page
 title: V2 Desktop Straight UK
 cart_itemid: v2desktopstraightuk
-cart_name: "V2 BlueSCSI Straight UK"
+cart_name: "V2 BlueSCSI Desktop Straight UK"
 cart_description: "V2 BlueSCSI Desktop 50pin Straight - Full Version"
 cart_price: 52
 cart_image: "assets/img/v2desktopstraight.jpg"

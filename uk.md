@@ -4,7 +4,7 @@
 layout: default
 note: true
 ---
-&#9940; PLEASE DON'T PURCHASE (any BlueSCSI Desktop V2) IF YOU CANNOT WAIT AT LEAST 2 WEEKS FOR DISPATCH. Apologies, but Chinese New Year has not helped. DB25 V2, Powerbook V2 and all V1 are still available and IN Stock &#9940;
+&#9940; PLEASE DON'T PURCHASE (any BlueSCSI Desktop or DB25 V2) IF YOU CANNOT WAIT AT LEAST 2 WEEKS FOR DISPATCH. Apologies, but Chinese New Year has not helped. Powerbook V2 and all V1 are still available and IN Stock &#9940;
 
 {% include region.md %}
 

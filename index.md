@@ -5,7 +5,7 @@ layout: default
 note: true
 ---
 
-&#9940; PLEASE DON'T PURCHASE (any BlueSCSI Desktop or DB25 V2) IF YOU CANNOT WAIT AT LEAST 2 WEEKS FOR DISPATCH. Apologies, but Chinese New Year has not helped. Powerbook V2 and all V1 are still available and IN Stock. If you would like to be notified as soon as we have stock again, please fill in our Contact form stating this. &#9940;
+&#9940; PLEASE DON'T PURCHASE (any BlueSCSI Desktop or DB25 V2) IF YOU CANNOT WAIT AT LEAST 1 WEEK FOR DISPATCH. Apologies, but Chinese New Year has not helped. Powerbook V2 and all V1 are still available and IN Stock. If you would like to be notified as soon as we have stock again, please fill in our Contact form stating this. &#9940;
 
 &#8593;View your region page for Purchase Links. Easily access your Cart and Checkout page from the menu&#8593;
 

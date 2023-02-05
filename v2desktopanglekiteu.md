@@ -12,7 +12,7 @@ tags:
   - euv2
 ---
 
-##### 🇪🇺 V2 Desktop Kit Straight Header EU 🇪🇺
+##### 🇪🇺 V2 Desktop Kit Right Angle Header EU 🇪🇺
 
 ![{{page.cart_description}}]({{page.cart_image}})
 

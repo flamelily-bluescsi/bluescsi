@@ -9,7 +9,7 @@ note: true
 
 &#8593;View your region page for Product Page Links. Access your Cart and Checkout page from the menu&#8593;
 
-All our prices include delivery, but please make sure you "Add to Cart" from the 🇪🇺 EU page if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
+All our prices include delivery, but please make sure you "Add to Cart" from the 🇪🇺 EU Product pages if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
 
 We are the UK registered distributor for the BlueSCSI. It's a convenient way to use a MicroSD card as a SCSI hard drive in your Vintage Computer! This device should work on most vintage computers with SCSI. If you are able to confirm compatibility with your own device please let us know in the BlueSCSI discord server here → [Discord Server](https://discord.gg/kx2Kybx2mk){:target="_blank"} Click the buttons below to view the Github pages for more info on this device, compatibility and assembly instructions on the Wiki.
 

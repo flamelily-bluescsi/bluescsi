@@ -10,7 +10,6 @@ tags:
   - scsi
   - uk
   - ukv2
-stock: 1
 ---
 
 ##### 🇬🇧 V2 Desktop Right Angle Header UK 🇬🇧
@@ -23,7 +22,7 @@ This is the NEW version 2 Desktop Full version of the BlueSCSI for UK buyers. Th
 * Right Angle headers
 * Tested and complete
 
-{% if page.stock == 1 %}
+{% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}
 &#9940; OUT OF STOCK &#9940;

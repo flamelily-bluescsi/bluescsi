@@ -10,7 +10,6 @@ tags:
   - scsi
   - uk
   - ukv2
-stock: 1
 ---
 
 ##### 🇬🇧 V2 Desktop Board Only Kit Right Angle Header UK 🇬🇧
@@ -24,7 +23,7 @@ This is the NEW version 2 Desktop Board Only Kit version of the BlueSCSI for UK 
 * Right Angle headers
 * No Pico supplied
 
-{% if page.stock == 1 %}
+{% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}
 &#9940; OUT OF STOCK &#9940;

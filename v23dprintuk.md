@@ -10,7 +10,6 @@ tags:
   - scsi
   - uk
   - soonuk
-stock: 0
 ---
 
 ##### 🇬🇧 V2 UK Desktop Case 3D Print - COMING SOON 🇬🇧
@@ -23,7 +22,7 @@ This is the 3D printed Desktop case for the V2 Desktop BlueSCSI for UK buyers. T
 * Comes with mounting screws
 * Print your own if you like
 
-{% if page.stock == 1 %}
+{% if site.print > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}
 &#9940; OUT OF STOCK &#9940;

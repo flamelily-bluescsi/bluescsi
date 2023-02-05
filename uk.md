@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 note: true
+permalink: /uk
 ---
-&#9940; PLEASE DON'T PURCHASE (any BlueSCSI Desktop or DB25 V2) IF YOU CANNOT WAIT AT LEAST 1 WEEK FOR DISPATCH. Apologies, but Chinese New Year has not helped. Powerbook V2 and all V1 are still available and IN Stock &#9940;
+&#9940; PLEASE EXPECT A WAIT AROUND 5 DAYS FOR DISPATCH (any V2 BlueSCSI Desktop or V2 DB25). Powerbook V2 and all V1 are still available and IN Stock. &#9940;
 
 {% include region.md %}
 

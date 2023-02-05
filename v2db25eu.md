@@ -22,4 +22,8 @@ This is the NEW version 2 DB25 Full version of the BlueSCSI for 🇪🇺 EU buye
 * Tested and complete
 * Hex nuts replaced with screws
 
+{% if site.db25 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+&#9940; OUT OF STOCK &#9940;
+{% endif %}

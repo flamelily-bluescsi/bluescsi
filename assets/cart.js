@@ -43,7 +43,7 @@ var cartHtml = "";
 
 function drawCart(){
 	if (Object.keys(cart).length == 0){
-		cartHtml = "<h2>&#128722; Cart is empty</h2>";
+		cartHtml = "<h2>&#128722; Cart is empty</h2><p>Add items from their product pages</p>";
 	}else{
 		var total = 0 ;
 		cartHtml = `<table><tr><td><b>Item</b></td><td><b>Description</b></td><td colspan=2><b>Qty.</b></td><td><b>Price</b></td></tr>`;

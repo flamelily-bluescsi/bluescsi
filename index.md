@@ -5,8 +5,6 @@ layout: default
 note: true
 ---
 
-&#9940; PLEASE EXPECT A WAIT AROUND 5 DAYS FOR DISPATCH (any V2 BlueSCSI Desktop or V2 DB25). Powerbook V2 and all V1 are still available and IN Stock. &#9940;
-
 &#8593;View your region page for Product Page Links. Access your Cart and Checkout page from the menu&#8593;
 
 All our prices include delivery, but please make sure you "Add to Cart" from the 🇪🇺 EU Product pages if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
@@ -17,7 +15,7 @@ We are the UK registered distributor for the BlueSCSI. It's a convenient way to 
     <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V1 Github</a>&nbsp;<a href="https://github.com/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V2 Github</a>
 </p>
             
-Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current V1 stock on the main [SCSI.BLUE](https://scsi.blue/){:target="_blank"} webpage. If you need our Firmware Update service, this can be found here [Firmware Update](/firmware.html). Please download the PDF files below to help with usage and assembly.
+Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current V2 stock on this page [CURRENT STOCK](/stock). If you need our Firmware Update service, this can be found here [Firmware Update](/firmware.html). Please download the PDF files below to help with usage and assembly.
 
 <a href="/assets/pdfs/BlueSCSI_Instructions.pdf" target="_blank">&#9989;V1 Usage Instructions PDF</a>
 <a href="/assets/pdfs/BlueSCSI_assembly.pdf" target="_blank">&#9989;V1 Desktop Assembly Instructions PDF</a>

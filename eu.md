@@ -5,7 +5,7 @@ layout: default
 note: true
 permalink: /eu
 ---
-&#9940; PLEASE EXPECT A WAIT AROUND 5 DAYS FOR DISPATCH (any V2 BlueSCSI Desktop or V2 DB25). Powerbook V2 and all V1 are still available and IN Stock. &#9940;
+&#9940; PLEASE EXPECT A WAIT AROUND 3 DAYS FOR DISPATCH &#9940;
 
 {% include regioneu.md %}
 

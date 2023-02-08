@@ -14,4 +14,3 @@ Also this is <b>not real time</b> and we do our best to regularly update this pa
 ###### V2 Desktop Stock : {{site.desktop}}
 ###### V2 DB25 Stock : {{site.db25}}
 ###### V2 Powerbook Stock : {{site.powerbook}}
-###### V2 3D Print Stock : {{site.print}}

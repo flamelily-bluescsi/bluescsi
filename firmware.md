@@ -5,6 +5,7 @@ cart_name: "Firmware Update"
 cart_description: "BlueSCSI Firmware Update service"
 cart_price: 6
 cart_image: "assets/img/bluescsi.png"
+permalink: /firmware
 tags: 
   - scsi
 ---
@@ -21,7 +22,7 @@ If you purchased a version 1 BlueSCSI before 11/04/2022 from us or any authorise
     <a href="https://github.com/erichelgeson/BlueSCSI-Updater/#bluescsi-updater" target="_blank" class="btn btn-primary">Firmware Update</a>
   </p>
 
-* Firware Update service V1
+* Firware Update service BlueSCSI V1
 * UK only
 * Ony for those who cannot do it themselves
 

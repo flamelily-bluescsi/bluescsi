@@ -35,9 +35,8 @@ plugins:
 
 icon: "&#128722;"
 db25: 2
-desktop: 2
+desktop: 1
 powerbook: 4
-print : 0
 
 # Exclude from processing.
 # The following items will not be processed, by default.

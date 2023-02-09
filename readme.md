@@ -1,6 +1,6 @@
 # Our eCommerce Site Using Jekyll
 
- My goals for this were simple: a simple eCommerce platform with PayPal as a payment gateway. I generalized it here so perhaps others could use it for their projects.
+ This is a simple eCommerce platform with PayPal as a payment gateway.
 
 #### [See it in action!](https://bluescsi.flamelily.co.uk)
 
@@ -74,8 +74,8 @@ When the site is created, the site generates a javascript file called `catalog.j
 
 #### cart.js and checkout.js
 
-This two files, located in the `assets` folder contain the code for maintaining the cart and interacting with the checkout experience. 
+This two files, located in the `assets` folder contain the code for maintaining the cart and interacting with the checkout experience. We have added a % discount feature for multiple purchases. 
 
 ## Generating a Catalog Page
 
-The `index.md` in this repository has a sample for how to generate a single page that has all of your items on the page. 
+The `uk.md` in this repository has a sample for how to generate a single page that has all of your items on the page. 

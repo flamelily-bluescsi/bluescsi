@@ -13,7 +13,7 @@ You now will receive a free 3D printed bracket or case with your BlueSCSI V2 dev
     <img src="/assets/img/3dprint.png" class="img-thumbnail" alt="bracket">
   </p>
             
-If you would like one of our 3D prints, we do sell them separately for the cost of a beer and postage (Sorry UK only). This is more of a service to those without a printer. Please see these Paypal links to purchase them:
+If you would like one of our 3D prints, as you built a BlueSCSI yourself, we do sell them separately for the cost of a beer and postage (Sorry UK only). This is more of a service to those without a printer. Please see these Paypal links to purchase them:
 
 [V2 Desktop Bracket UK](https://py.pl/80Qbr){:target="_blank"} <br>
 [V2 DB25 Case UK](https://py.pl/6Rm0GXE7soH){:target="_blank"} <br>

@@ -35,7 +35,7 @@ plugins:
 
 icon: "&#128722;"
 db25: 2
-desktop: 1
+desktop: 14
 powerbook: 4
 
 # Exclude from processing.

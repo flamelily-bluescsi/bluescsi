@@ -1,11 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 note: true
 permalink: /eu
 ---
-&#9940; PLEASE EXPECT A WAIT AROUND 3 DAYS FOR DISPATCH &#9940;
+&#9940; PLEASE GIVE US 1 WORKING DAY FOR DISPATCH &#9940;
 
 {% include regioneu.md %}
 

@@ -1,0 +1,22 @@
+---
+layout: null
+---
+{
+    "stock_quantity": 20,
+    "product": {
+        "variants": {
+            "desktop": {
+                "assembled": {{site.desktop}},
+                "kit": {{site.desktop}}
+            },
+            "powerbook": {
+                "assembled": {{site.powerbook}},
+                "kit": {{site.powerbook}}
+            },
+            "db25": {
+                "assembled": {{site.db25}},
+                "kit": {{site.db25}}
+            }
+        }
+    }
+}

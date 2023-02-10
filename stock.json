@@ -2,7 +2,7 @@
 layout: null
 ---
 {
-    "stock_quantity": 20,
+    "stock_quantity": {{ site.desktop | plus: site.db25 }},
     "product": {
         "variants": {
             "desktop": {

@@ -4,7 +4,7 @@ title: UK Powerbook
 cart_itemid: ukpowerbook
 cart_name: "BlueSCSI Powerbook UK"
 cart_description: "BlueSCSI Powerbook Full UK"
-cart_price: 45
+cart_price: 35
 cart_image: "assets/img/powerbookfull.jpg"
 tags: 
   - scsi

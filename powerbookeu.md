@@ -4,7 +4,7 @@ title: EU Powerbook
 cart_itemid: eupowerbook
 cart_name: "BlueSCSI Powerbook EU"
 cart_description: "BlueSCSI Powerbook Full EU"
-cart_price: 60
+cart_price: 50
 cart_image: "assets/img/powerbookfull.jpg"
 tags: 
   - scsi

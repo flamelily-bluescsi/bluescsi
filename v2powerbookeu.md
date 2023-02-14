@@ -3,7 +3,7 @@ layout: page
 title: V2 Powerbook EU
 cart_itemid: v2powerbookeu
 cart_name: "V2 BlueSCSI Powerbook EU"
-cart_description: "V2 BlueSCSI Powerbook"
+cart_description: "V2 BlueSCSI Powerbook - Full Tested Version"
 cart_price: 68
 cart_image: "assets/img/v2powerbook.jpg"
 tags: 

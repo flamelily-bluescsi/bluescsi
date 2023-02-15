@@ -8,8 +8,7 @@ cart_price: 38
 cart_image: "assets/img/v2desktopstraightkit.jpg"
 tags: 
   - scsi
-  - uk
-  - ukv2
+  - deskukv2
 ---
 
 ##### 🇬🇧 V2 Desktop Kit V2 Straight Header UK 🇬🇧

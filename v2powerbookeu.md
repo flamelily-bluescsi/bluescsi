@@ -8,8 +8,7 @@ cart_price: 68
 cart_image: "assets/img/v2powerbook.jpg"
 tags: 
   - scsi
-  - eu
-  - euv2
+  - pbeuv2
 ---
 
 ##### 🇪🇺 V2 Powerbook EU 🇪🇺

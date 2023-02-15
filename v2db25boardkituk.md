@@ -8,8 +8,7 @@ cart_price: 32
 cart_image: "assets/img/v2db25boardkit.jpg"
 tags: 
   - scsi
-  - uk
-  - ukv2
+  - db25ukv2
 ---
 
 ##### 🇬🇧 V2 DB25 Board Only Kit UK 🇬🇧

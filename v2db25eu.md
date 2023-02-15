@@ -8,8 +8,7 @@ cart_price: 68
 cart_image: "assets/img/v2db25.jpg"
 tags: 
   - scsi
-  - eu
-  - euv2
+  - db25euv2
 ---
 
 ##### 🇪🇺 EU V2 DB25 Full 🇪🇺

@@ -8,8 +8,7 @@ cart_price: 38
 cart_image: "assets/img/v2powerbookkit.jpg"
 tags: 
   - scsi
-  - uk
-  - ukv2
+  - pbukv2
 ---
 
 ##### 🇬🇧 V2 Powerbook Kit UK 🇬🇧

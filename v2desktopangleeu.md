@@ -8,8 +8,7 @@ cart_price: 68
 cart_image: "assets/img/v2desktopangle.jpg"
 tags: 
   - scsi
-  - eu
-  - euv2
+  - deskeuv2
 ---
 
 ##### 🇪🇺 V2 Desktop Right Angle Header EU 🇪🇺

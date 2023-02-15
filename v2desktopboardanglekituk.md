@@ -8,8 +8,7 @@ cart_price: 32
 cart_image: "assets/img/v2desktopboardanglekit.jpg"
 tags: 
   - scsi
-  - uk
-  - ukv2
+  - deskukv2
 ---
 
 ##### 🇬🇧 V2 Desktop Board Only Kit Right Angle Header UK 🇬🇧

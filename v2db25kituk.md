@@ -8,8 +8,7 @@ cart_price: 38
 cart_image: "assets/img/v2db25kit.jpg"
 tags: 
   - scsi
-  - uk
-  - ukv2
+  - db25ukv2
 ---
 
 ##### 🇬🇧 V2 DB25 Kit UK 🇬🇧

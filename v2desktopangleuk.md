@@ -8,8 +8,7 @@ cart_price: 52
 cart_image: "assets/img/v2desktopangle.jpg"
 tags: 
   - scsi
-  - uk
-  - ukv2
+  - deskukv2
 ---
 
 ##### 🇬🇧 V2 Desktop Right Angle Header UK 🇬🇧

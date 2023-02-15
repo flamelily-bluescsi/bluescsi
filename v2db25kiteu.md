@@ -8,8 +8,7 @@ cart_price: 54
 cart_image: "assets/img/v2db25kit.jpg"
 tags: 
   - scsi
-  - eu
-  - euv2
+  - db25euv2
 ---
 
 ##### 🇪🇺 V2 DB25 Kit EU 🇪🇺

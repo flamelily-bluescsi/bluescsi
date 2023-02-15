@@ -8,8 +8,7 @@ cart_price: 49
 cart_image: "assets/img/v2desktopboardstraightkit.jpg"
 tags: 
   - scsi
-  - eu
-  - euv2
+  - deskeuv2
 ---
 
 ##### 🇪🇺 Desktop Board Only Kit V2 Straight Header EU 🇪🇺

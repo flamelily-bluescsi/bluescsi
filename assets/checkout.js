@@ -3,7 +3,6 @@ if (typeof(Storage) !== "undefined" && localStorage.cart) {
 	cart = JSON.parse(localStorage.cart);
 }
 
-
 // Automatic 10% discount?
 let discount_percentage = 0;
 let discount_total = 0;
@@ -24,15 +23,14 @@ if( Object.keys( cart ).length != 0 ) {
     console.log( total );
   }
   
-  if( totals[ 'EU' ] >= 2 ) { discount_percentage = 10; }
+  if( totals[ 'EU' ] >= 2 ) { discount_percentage = 8; }
   if( totals[ 'UK' ] >= 2 ) { discount_percentage = 5; }
   
   console.log( totals );
   
   if( discount_percentage > 0 ) {
     discount_total = ( total * discount_percentage ) / 100;
-  }
-  
+  } 
 }
 
 var cartHtml = "";

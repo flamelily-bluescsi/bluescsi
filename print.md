@@ -7,7 +7,7 @@ permalink: /print
 
 ##### 3D Print cases and brackets for your V2 BlueSCSI
 
-You now will receive a free 3D printed bracket or case with your BlueSCSI V2 device. Please understand these prints are functional and not meant to be high quality professional prints, produced by a print farm or similar. If you are looking for that type of solution, please see PotatoFi's ETSY store here → [PotatoFi Etsy](https://www.etsy.com/uk/shop/PotatoFi){:target="_blank"} where you will find some high quality print solutions for the BlueSCSI. (updated V2 designs coming)
+You now will receive a free 3D printed bracket or case with your BlueSCSI V2 device (when available). Please understand these prints are functional and not meant to be high quality professional prints, produced by a print farm or similar. If you are looking for that type of solution, please see PotatoFi's ETSY store here → [PotatoFi Etsy](https://www.etsy.com/uk/shop/PotatoFi){:target="_blank"} where you will find some high quality print solutions for the BlueSCSI. (updated V2 designs coming)
 
   <p class="lead text-center">
     <img src="/assets/img/3dprint.png" class="img-thumbnail" alt="bracket">

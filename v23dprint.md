@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3D Desktop Case V2
-cart_itemid: 3dprintv2
+title: V2 3D Desktop Case
+cart_itemid: v23dprint
 cart_name: "BlueSCSI Desktop Case V2"
 cart_description: "BlueSCSI Desktop Case 3D Print V2"
 cart_price: 12

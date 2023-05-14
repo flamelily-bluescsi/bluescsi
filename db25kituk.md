@@ -4,7 +4,7 @@ title: UK DB25 Kit
 cart_itemid: ukdb25kit
 cart_name: "BlueSCSI DB25 Kit UK"
 cart_description: "BlueSCSI DB25 Kit UK"
-cart_price: 30
+cart_price: 32
 cart_image: "assets/img/db25kit.jpg"
 tags: 
   - scsi

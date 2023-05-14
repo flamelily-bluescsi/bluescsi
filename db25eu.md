@@ -4,7 +4,7 @@ title: EU DB25
 cart_itemid: eudb25
 cart_name: "BlueSCSI DB25 EU"
 cart_description: "BlueSCSI DB25 Full EU"
-cart_price: 60
+cart_price: 62
 cart_image: "assets/img/db25full.jpg"
 tags: 
   - scsi

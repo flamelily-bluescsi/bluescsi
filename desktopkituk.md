@@ -4,7 +4,7 @@ title: UK Desktop Kit
 cart_itemid: ukdesktopkit
 cart_name: "BlueSCSI Kit UK"
 cart_description: "BlueSCSI Desktop Solder Kit UK"
-cart_price: 30
+cart_price: 32
 cart_image: "assets/img/desktopkit.jpg"
 tags: 
   - scsi

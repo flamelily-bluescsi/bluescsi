@@ -4,7 +4,7 @@ title: UK Desktop
 cart_itemid: ukdesktop
 cart_name: "BlueSCSI Desktop UK"
 cart_description: "BlueSCSI Desktop Full UK"
-cart_price: 42
+cart_price: 44
 cart_image: "assets/img/desktopfull.jpg"
 tags: 
   - scsi

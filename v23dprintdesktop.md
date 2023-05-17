@@ -19,7 +19,7 @@ Please view [3D Print Information Page](/print) for purchasing 3D prints separat
 
 * 3D PLA print
 * Comes with mounting screws
-* Fits standard Hard drive bays
+* Fits standard Hard drive bays (2 side mount points only)
 * ONLY for purchase with a BlueSCSI
 
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

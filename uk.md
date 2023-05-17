@@ -74,4 +74,4 @@ permalink: /uk
 </div>
 </div>
 <br>
-[3D Print Information Page](/print) Also links to purchase prints separately.
+[3D Print Information Page](/print) has links to purchase prints separately, without BlueSCSI's.

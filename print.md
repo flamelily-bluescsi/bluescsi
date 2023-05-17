@@ -7,7 +7,7 @@ permalink: /print
 
 ##### 3D Print cases and brackets for your BlueSCSI
 
-We now have a wide range of 3D Mounts/Cases for your BlueSCSI. You can view them at the bottom of each regional page. Please make sure you add them to your Cart before checkout if you require one. We now produce high quality PLA prints using a Prusa printer and Polyterra PLA. We charge a small fee for these prints, but you are welcome to print your own. You will not receive a 3D bracket/case if you don't add one to your Cart. We are licensed to sell mounts by PotatoFi which can be found on Printables here → [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}
+We now have a wide range of 3D Mounts/Cases for your BlueSCSI. You can view them at the bottom of each regional page, or [here](/3dprints). Please make sure you add them to your Cart before checkout if you require one. We now produce high quality PLA prints using a Prusa printer and Polyterra PLA. We charge a small fee for these prints, but you are welcome to print your own. You will not receive a 3D bracket/case if you don't add one to your Cart. We are licensed to sell mounts by PotatoFi which can be found on Printables here → [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}
 
   <p class="lead text-center">
     <img src="/assets/img/3dprint.png" class="img-thumbnail" alt="bracket">

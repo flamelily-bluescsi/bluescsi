@@ -1,1 +1,1 @@
-Please click on the Title of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices include Royal Mail delivery and you will receive a dispatch email via Paypal.
+Please click on the Title of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices include Royal Mail delivery and you will receive a dispatch email via Paypal. Please add your 3D print mounts/cases if needed.

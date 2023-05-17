@@ -2,7 +2,7 @@
 layout: page
 title: 3D Desktop Mount V2 (PotatoFi)
 cart_itemid: v23dprintdesktoppotatofi
-cart_name: "BlueSCSI Desktop Mount V2 (PotatoFi)"
+cart_name: "Desktop Mount V2 (PotatoFi)"
 cart_description: "BlueSCSI Desktop Mount 3D Print V2 (PotatoFi)"
 cart_price: 12
 cart_image: "assets/img/v23dprintdesktoppotatofi.jpg"

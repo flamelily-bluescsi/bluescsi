@@ -2,7 +2,7 @@
 layout: page
 title: 3D Desktop Mount V1
 cart_itemid: v13dprintdesktop
-cart_name: "BlueSCSI Desktop Mount V1"
+cart_name: "Desktop Mount V1"
 cart_description: "BlueSCSI Desktop Mount 3D Print V1"
 cart_price: 5
 cart_image: "assets/img/3dprintdesktopv1.jpg"

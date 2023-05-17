@@ -12,10 +12,12 @@ We now have a wide range of 3D Mounts/Cases for your BlueSCSI. You can view them
   <p class="lead text-center">
     <img src="/assets/img/3dprint.png" class="img-thumbnail" alt="bracket">
   </p>
-            
-If you ONLY need to purchase a 3D print, as you built a BlueSCSI yourself, we do sell them separately from the Paypal links below which show the postage cost. Postage is free if purchased WITH a BlueSCSI. This is more of a service to those without a printer.
+
+##### Purchasing 3D Prints ONLY
+If you ONLY need to purchase a 3D print, as you built a BlueSCSI yourself, we do sell them separately from the Paypal links below which show the postage cost. Postage is free if purchased WITH a BlueSCSI. This is more of a service to those without a 3D printer.
 
 [V2 Desktop Bracket](https://py.pl/80Qbr){:target="_blank"} <br>
+[V2 Desktop Bracket (Option 2)](https://py.pl/4i6N64zBRBR){:target="_blank"} <br>
 [V2 DB25 Case](https://py.pl/6Rm0GXE7soH){:target="_blank"} <br>
 [V2 Powerbook Bracket](https://py.pl/1HxUhOewGzE){:target="_blank"} <br>
 [V2 Desktop Bracket by PotatoFi](https://py.pl/7hA9qhR2PmI){:target="_blank"}

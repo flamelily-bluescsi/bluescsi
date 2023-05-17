@@ -62,7 +62,7 @@ permalink: /eu
 <hr>
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'print'" %}
-##### 🇪🇺 3D Prints 🇪🇺
+##### 🇪🇺 3D Prints (for purchase with a BlueSCSI) 🇪🇺
 <div class="container">
 <div class="row">
 	{% for page in cat_items %}
@@ -73,4 +73,4 @@ permalink: /eu
 </div>
 </div>
 <br>
-[3D Print Information Page](/print)
+[3D Print Information Page](/print) Also links to purchase prints separately.

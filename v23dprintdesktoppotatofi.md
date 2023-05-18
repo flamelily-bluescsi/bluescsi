@@ -13,7 +13,27 @@ tags:
 
 ##### 🇬🇧🇪🇺 Desktop Mount 3D Print V2 (PotatoFi) 🇬🇧🇪🇺
 
-![{{page.cart_description}}]({{page.cart_image}})
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{page.cart_image}}" class="d-block w-100" alt="{{page.cart_description}}">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/v23dprintdesktoppotatofi2.jpg" class="d-block w-100" alt="{{page.cart_description}}">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/v23dprintdesktoppotatofi3.jpg" class="d-block w-100" alt="{{page.cart_description}}">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 
 Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is another option for the V2 Desktop modelled by [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}, which is a lovely solid mounting bracket.
 

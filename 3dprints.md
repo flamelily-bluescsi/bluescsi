@@ -1,6 +1,6 @@
 ---
 layout: default
-note: true
+note: false
 permalink: /3dprints
 ---
 &#9940; ORDERS THESE ONLY WITH A BLUESCSI &#9940;

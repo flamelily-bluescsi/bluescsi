@@ -17,7 +17,7 @@ tags:
 
 Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is the standard Desktop mount for the V2 Desktop BlueSCSI. This helps mount the V2 BlueSCSI into standard hard drive bays.
 
-* 3D PLA print
+* 3D PLA print (fossil grey)
 * Comes with mounting screws
 * Fits standard Hard drive bays (2 side mount points only)
 * ONLY for purchase with a BlueSCSI

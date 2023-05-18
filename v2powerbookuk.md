@@ -6,6 +6,7 @@ cart_name: "V2 BlueSCSI Powerbook UK"
 cart_description: "V2 BlueSCSI Powerbook - Full Tested Version"
 cart_price: 52
 cart_image: "assets/img/v2powerbook.jpg"
+cart_image1: "assets/img/PowerBook_pcb.jpg"
 tags: 
   - scsi
   - pbukv2
@@ -13,7 +14,7 @@ tags:
 
 ##### 🇬🇧 V2 Powerbook UK 🇬🇧
 
-![{{page.cart_description}}]({{page.cart_image}})
+{% include carousel2.html %}
 
 This is the NEW version 2 Powerbook Full version of the BlueSCSI for UK buyers. This has a slim SCSI connector for Mac Powerbooks. This is a complete and tested device.
 

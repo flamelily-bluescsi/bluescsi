@@ -4,7 +4,7 @@ title: 3D DB25 Case V2 (Option 2)
 cart_itemid: v23dprintdb25option2
 cart_name: "DB25 Case V2 (Option 2)"
 cart_description: "BlueSCSI DB25 Case 3D Print V2 (Option 2)"
-cart_price: 4
+cart_price: 5
 cart_image: "assets/img/3dprintdb25v2a.jpg"
 cart_image1: "assets/img/3dprintdb25v2b.jpg"
 tags: 

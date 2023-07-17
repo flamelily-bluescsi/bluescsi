@@ -4,7 +4,7 @@ title: 3D Powerbook Mount V2
 cart_itemid: v23dprintpowerbook
 cart_name: "Powerbook Mount V2"
 cart_description: "BlueSCSI Powerbook Mount 3D Print V2"
-cart_price: 2
+cart_price: 3
 cart_image: "assets/img/3dprintpowerbookv2.jpg"
 tags: 
   - scsi

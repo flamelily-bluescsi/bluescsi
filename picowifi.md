@@ -1,0 +1,26 @@
+---
+layout: page
+title: Pico Wifi Option
+cart_itemid: picowifi
+cart_name: "BlueSCSI V2 Pico Wifi Option"
+cart_description: "BlueSCSI Pico Wifi for V2"
+cart_price: 3
+cart_image: "assets/img/pico-w.jpeg"
+tags: 
+  - scsi
+  - v2
+---
+
+##### 🇬🇧🇪🇺 BlueSCSI V2 Pico Wifi Option 🇬🇧🇪🇺
+
+![{{page.cart_description}}]({{page.cart_image}})
+
+This is to purchase a Pico Wifi version (with a BlueSCSI of course) rather than the normal non wifi Pico. This is the extra cost of the wifi version added to the order. Add this item to your Cart if you want a Pico Wifi installed to the fully assembled BlueSCSI or your kit version of the BlueSCSI. Please do NOT add it if you are purchasing a board ONLY kit as this kit does not include a Pico. At the request of the Project Maintainer, you will need to flash the Wifi firmware if you want to use this as it's still in BETA.
+
+* Additional cost of Wifi Pico 
+* ONLY purchase with a BlueSCSI V2 fully assembled or kit
+* Firmware will be standard (Not BETA Wifi)
+* Standard Firmware works fine on a Pico W
+
+
+##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

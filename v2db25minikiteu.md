@@ -21,6 +21,7 @@ This is the NEW version 2 DB25 Mini Kit version of the BlueSCSI for EU buyers. T
 * New Mini Version 2
 * SMD already soldered
 * Hex nuts replaced with screws
+* Always on termination (no termination jumper)
 
 {% if site.db25 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

@@ -21,6 +21,7 @@ This is the NEW version 2 DB25 Mini Full version of the BlueSCSI for EU buyers. 
 * New Mini Version 2
 * Tested and complete
 * Hex nuts replaced with screws
+* Always on termination (no termination jumper)
 
 {% if site.db25 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

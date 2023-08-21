@@ -5,7 +5,7 @@ cart_itemid: picowifi
 cart_name: "BlueSCSI V2 Pico Wifi Upgrade"
 cart_description: "BlueSCSI Pico Wifi for V2"
 cart_price: 3
-cart_image: "assets/img/pico-w.jpeg"
+cart_image: "assets/img/pico-w.webp"
 tags: 
   - scsi
   - v2

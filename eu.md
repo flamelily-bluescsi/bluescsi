@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /eu
 ---
-&#9940; ORDERS TAKE 1 WORKING DAY FOR DISPATCH &#9940;
+&#9940; DISPATCH WIL BE 1 WORKING DAY &#9940;
 
 {% include regioneu.md %}
 

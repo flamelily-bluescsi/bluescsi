@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /uk
 ---
-&#9940; DISPATCH WIL BE 1 WORKING DAY &#9940;
+&#9940; WE ARE ON OUR HOLIDAY SO DISPATCH OF CURRENT ORDERS WILL BE ON THE 4TH SEPT &#9940;
 
 {% include region.md %}
 

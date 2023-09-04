@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /eu
 ---
-&#9940; WE ARE ON OUR HOLIDAY SO DISPATCH OF CURRENT ORDERS WILL BE ON THE 4TH SEPT &#9940;
+&#9940; DISPATCH OF CURRENT ORDERS WILL BE 1 WORKING DAY &#9940;
 
 {% include regioneu.md %}
 

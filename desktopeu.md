@@ -4,7 +4,7 @@ title: EU Desktop
 cart_itemid: eudesktop
 cart_name: "BlueSCSI Desktop EU"
 cart_description: "BlueSCSI Desktop Full EU"
-cart_price: 62
+cart_price: 64
 cart_image: "assets/img/desktopfull.jpg"
 tags: 
   - scsi

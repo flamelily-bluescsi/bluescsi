@@ -4,7 +4,7 @@ title: V2 DB25 EU
 cart_itemid: v2db25eu
 cart_name: "V2 BlueSCSI DB25 EU"
 cart_description: "V2 BlueSCSI DB25 - Full Version"
-cart_price: 68
+cart_price: 65
 cart_image: "assets/img/v2db25.jpg"
 cart_image1: "assets/img/DB25_pcb.jpg"
 tags: 

@@ -34,9 +34,9 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 18
-desktop: 17
-powerbook: 3
+db25: 15
+desktop: 16
+powerbook: 4
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -20,7 +20,7 @@
 
 title: BlueSCSI Shop
 description: >- # this means to ignore newlines until "baseurl:"
-  All your retro SCSI needs in one place
+  All your retro SCSI and PCB needs in one place
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https//bluescsi.flamelily.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlamelilyIT
@@ -36,7 +36,7 @@ plugins:
 icon: "&#128722;"
 db25: 15
 desktop: 16
-powerbook: 4
+powerbook: 7
 
 # Exclude from processing.
 # The following items will not be processed, by default.

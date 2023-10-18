@@ -21,6 +21,7 @@ This is the NEW version 2 Desktop Full version of the BlueSCSI for UK buyers. Th
 * New Version 2
 * Right Angle headers
 * Tested and complete
+* Click &#8594; [Add Pico Wifi](/picowifi)
 
 {% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

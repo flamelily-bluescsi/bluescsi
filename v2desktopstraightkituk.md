@@ -21,6 +21,7 @@ This is the NEW version 2 Desktop Kit version of the BlueSCSI for UK buyers. Thi
 * SMD already soldered
 * Straight up headers
 * Includes pre-flashed Pico
+* Click &#8594; [Add Pico Wifi](/picowifi)
 
 {% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

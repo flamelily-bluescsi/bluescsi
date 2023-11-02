@@ -2,7 +2,7 @@
 layout: page
 title: BlueSCSI Initiator UK
 cart_itemid: initiatoruk
-cart_name: "BlueSCSI V2 Initiator"
+cart_name: "BlueSCSI V2 Initiator UK"
 cart_description: "BlueSCSI Initiator for V2 - Fully Assembled"
 cart_price: 65
 cart_image: "assets/img/initiator.webp"

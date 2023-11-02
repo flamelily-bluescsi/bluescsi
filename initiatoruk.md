@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlueSCSI Initiator
+title: BlueSCSI Initiator UK
 cart_itemid: initiatoruk
 cart_name: "BlueSCSI V2 Initiator"
 cart_description: "BlueSCSI Initiator for V2 - Fully Assembled"

@@ -7,6 +7,7 @@ cart_description: "BlueSCSI DB25 Mini Case 3D Print V2"
 cart_price: 4
 cart_image: "assets/img/3dprintdb25mini.webp"
 cart_image1: "assets/img/3dprintdb25mini1.webp"
+cart_image2: "assets/img/3dprintdb25mini2.webp"
 tags: 
   - scsi
   - print
@@ -14,7 +15,7 @@ tags:
 
 ##### 🇬🇧🇪🇺 DB25 Mini Case 3D Print V2 🇬🇧🇪🇺
 
-{% include carousel2.html %}
+{% include carousel3.html %}
 
 Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is the standard case for the V2 DB25 Mini BlueSCSI. This helps protect the V2 DB25 Mini BlueSCSI externally. Slide the top half back to expose the BlueSCSI.
 

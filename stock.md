@@ -11,5 +11,5 @@ This is our stock level page to help buyers to see our current stock. Since this
 Also this is <b>not real time</b> and we do our best to regularly update this page. This is useful for buyers looking to make multiple purchases as if there is only a single board in stock and you purchase multiple, there might be a dispatch delay.
 
 ###### V2 Desktop Stock : {{site.desktop}}
-###### V2 DB25 Stock (Incl Mini) : {{site.db25}}
+###### V2 DB25 Mini Stock : {{site.db25}}
 ###### V2 Powerbook Stock : {{site.powerbook}}

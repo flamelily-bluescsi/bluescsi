@@ -4,7 +4,7 @@ title: BlueSCSI Initiator EU
 cart_itemid: initiatoreu
 cart_name: "BlueSCSI V2 Initiator EU"
 cart_description: "BlueSCSI Initiator for V2 - Fully Assembled"
-cart_price: 77
+cart_price: 75
 cart_image: "assets/img/initiator.webp"
 tags: 
   - scsi

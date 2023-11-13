@@ -16,7 +16,7 @@ tags:
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
-This is the DB25 Kit version (external) of the BlueSCSI for EU/Rest of the World buyers. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The micro SD socket is pre-soldered to the PCB so only through hole soldering is required.
+This is the DB25 Kit version (external) of the V1 BlueSCSI for EU/Rest of the World buyers. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The micro SD socket is pre-soldered to the PCB so only through hole soldering is required.
 
 * Version 1.1 PCB
 * SD card socket soldered

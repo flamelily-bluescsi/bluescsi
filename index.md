@@ -13,7 +13,7 @@ We are the UK registered distributor for the BlueSCSI, and the project creators 
     <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V1 Github</a>&nbsp;<a href="https://github.com/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V2 Github</a>
 </p>
             
-Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current V2 stock on this page [CURRENT STOCK](/stock). Please see our page with info about [3D Prints](/print) for the BlueSCSI. If you need our V1 Firmware Update service, this can be found here [V1 Firmware Update](https://py.pl/1pvmZa). Please view the BlueSCSI Version 2 help docs here [https://bluescsi.com/docs/](https://bluescsi.com/docs/) Please download the PDF files below for Version 1 instructions about usage and assembly.
+Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current V2 stock on this page [CURRENT STOCK](/stock). Please see our page with info about [3D Prints](/print) for the BlueSCSI. If you need help with V1 Firmware Update, contact us or view this → [V1 Firmware Update](https://github.com/erichelgeson/BlueSCSI-Updater). Please view the BlueSCSI Version 2 help docs here [https://bluescsi.com/docs/](https://bluescsi.com/docs/) Please download the PDF files below for Version 1 instructions about usage and assembly.
 
 <a href="/assets/pdfs/BlueSCSI_Instructions.pdf" target="_blank">&#9989;V1 Usage Instructions PDF</a>
 <a href="/assets/pdfs/BlueSCSI_assembly.pdf" target="_blank">&#9989;V1 Desktop Assembly Instructions PDF</a>

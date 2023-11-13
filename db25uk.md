@@ -4,7 +4,7 @@ title: UK DB25
 cart_itemid: ukdb25
 cart_name: "BlueSCSI DB25 UK"
 cart_description: "BlueSCSI DB25 Full UK"
-cart_price: 46
+cart_price: 50
 cart_image: "assets/img/db25full.jpg"
 tags: 
   - scsi

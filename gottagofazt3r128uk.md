@@ -4,7 +4,7 @@ title: GottaGoFaZt3r Zorro 3 Ram 128MB UK
 cart_itemid: gottagofazt3r128uk
 cart_name: "GottaGoFaZt3r Zorro 3 Ram 128MB UK"
 cart_description: "Amiga GottaGoFaZt3r Zorro 3 Ram 128MB - Fully Assembled"
-cart_price: 90
+cart_price: 75
 cart_image: "assets/img/gottagofazt3r128.webp"
 cart_image1: "assets/img/gottagofazt3r256back.webp"
 tags: 

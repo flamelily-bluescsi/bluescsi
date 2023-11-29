@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BlueSCSI Shop
+title: Flamelily Shop
 description: >- # this means to ignore newlines until "baseurl:"
-  All your retro SCSI and PCB needs in one place
+  All your retro SCSI and PCB needs in one place. New stuff for old tech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https//bluescsi.flamelily.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlamelilyIT
@@ -37,6 +37,8 @@ icon: "&#128722;"
 db25: 9
 desktop: 24
 powerbook: 5
+cpldicy: 4
+gottago: 3
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -3,7 +3,7 @@ layout: default
 permalink: /contact
 title: Contact
 ---
-You can email us using this form below if you have any questions that are not answered on our website. Please read the home page which explains most things about purchasing and shipping. Thanks.
+You can email us using this form below if you have any questions that are not answered on our website. Please read the home page which explains most things about purchasing and shipping. We will do our best to reply within 24 hours, thanks.
 <!-- form HTML -->
 <form action="https://formspree.io/f/mzbqzzod"
   method="POST">

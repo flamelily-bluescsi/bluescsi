@@ -12,7 +12,7 @@ tags:
   - v2
 ---
 
-##### 🇬🇧🇪🇺 BlueSCSI V2 Pico Wifi Upgrade 🇬🇧🇪🇺
+##### 🇬🇧🇪🇺 BlueSCSI Pico Wifi Upgrade 🇬🇧🇪🇺
 
 {% include carousel2.html %}
 

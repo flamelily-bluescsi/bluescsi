@@ -1,5 +1,5 @@
 ---
-layout: defaultwide
+layout: default
 note: false
 permalink: /amiga
 ---

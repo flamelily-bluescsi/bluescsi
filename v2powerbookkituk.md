@@ -6,6 +6,7 @@ cart_name: "V2 BlueSCSI Powerbook Kit UK"
 cart_description: "V2 BlueSCSI Powerbook Solder Kit"
 cart_price: 38
 cart_image: "assets/img/v2powerbookkit.jpg"
+cart_image1: "assets/img/PowerBook_pcb.jpg"
 tags: 
   - scsi
   - pbukv2
@@ -13,7 +14,7 @@ tags:
 
 ##### 🇬🇧 V2 Powerbook Kit UK 🇬🇧
 
-![{{page.cart_description}}]({{page.cart_image}})
+{% include carousel2.html %}
 
 This is the NEW version 2 Powerbook Kit version of the BlueSCSI for UK buyers. This has connector for Mac Powerbooks and some soldering will be required. This is kit version NOT a complete and tested device.
 

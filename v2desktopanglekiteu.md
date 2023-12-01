@@ -6,6 +6,7 @@ cart_name: "V2 BlueSCSI Desktop Kit Right Angle EU"
 cart_description: "V2 BlueSCSI Desktop 50pin Solder Kit Right Angle"
 cart_price: 54
 cart_image: "assets/img/v2desktopanglekit.jpg"
+cart_image1: "assets/img/v2desktopanglekit.jpg"
 tags: 
   - scsi
   - deskeuv2
@@ -13,7 +14,7 @@ tags:
 
 ##### 🇪🇺 V2 Desktop Kit Right Angle Header EU 🇪🇺
 
-![{{page.cart_description}}]({{page.cart_image}})
+{% include carousel2.html %}
 
 This is the NEW version 2 Desktop Kit version of the BlueSCSI for 🇪🇺 EU buyers. This has the right angle header and molex, see the straight option if you want a straight up header and molex. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required.
 

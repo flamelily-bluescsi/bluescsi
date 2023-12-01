@@ -15,7 +15,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is an Autoconfig Fast RAM Amiga 3000 or Amiga 4000 Zorro 3 upgrade card, more info <a href="https://github.com/LIV2/GottaGoFaZt3r" target="_blank">here</a>. This is an excellent RAM updgrade for your Zorro 3 Amiga
+This is an Autoconfig Fast RAM Amiga 3000 or Amiga 4000 Zorro 3 upgrade card, more info <a href="https://github.com/LIV2/GottaGoFaZt3r" target="_blank">here</a>. This is an excellent RAM updgrade for your Zorro 3 Amiga made by <a href="https://twitter.com/LIV2" target="_blank">Matt Harlum (LIV2)</a>
 
 * Thickness: 1.6mm
 * Surface Finish: ENIG-RoHS

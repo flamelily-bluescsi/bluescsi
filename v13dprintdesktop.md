@@ -6,6 +6,7 @@ cart_name: "Desktop Mount V1"
 cart_description: "BlueSCSI Desktop Mount 3D Print V1"
 cart_price: 5
 cart_image: "assets/img/3dprintdesktopv1.jpg"
+cart_image1: "assets/img/3dprintdesktopv1.jpg"
 tags: 
   - scsi
   - print
@@ -13,7 +14,7 @@ tags:
 
 ##### 🇬🇧🇪🇺 Desktop Mount 3D Print V1 🇬🇧🇪🇺
 
-![{{page.cart_description}}]({{page.cart_image}})
+{% include carousel2.html %}
 
 Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is the standard Desktop mount for the V1 Desktop BlueSCSI. This helps mount the BlueSCSI into standard hard drive bays.
 

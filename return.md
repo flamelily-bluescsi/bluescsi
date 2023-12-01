@@ -14,7 +14,7 @@ The product is in original, working order or quality and can be returned with al
 A return is requested prior to the return expiration date
 The customer pays for return shipping, and all return shipping instructions are followed.
 
-Contact Us to request a return. We will send you shipping return instructions.
+[Contact Us](/contact) to request a return. We will send you shipping return instructions.
 
 <b>Refund Policy</b>
 
@@ -41,7 +41,7 @@ You can opt to a fully assembled unit for the cost difference, plus return shipp
 
 <b>Full Assembled Product Warranty Repair/Return/Refund Policy</b>
 
-If you believe your fully assembled product is defective, please contact us. If a defective product is suspected:
+If you believe your fully assembled product is defective, please [contact us](/contact). If a defective product is suspected:
 
 You the buyer will be asked to pay return shipping for the defective product.
 Once received, we will confirm the product is defective and for what reason.

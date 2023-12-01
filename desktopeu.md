@@ -6,6 +6,7 @@ cart_name: "BlueSCSI Desktop EU"
 cart_description: "BlueSCSI Desktop Full EU"
 cart_price: 68
 cart_image: "assets/img/desktopfull.jpg"
+cart_image1: "assets/img/desktopfull.jpg"
 tags: 
   - scsi
   - eu
@@ -14,7 +15,7 @@ tags:
 
 ##### 🇪🇺 EU Desktop 🇪🇺
 
-![{{page.cart_description}}]({{page.cart_image}})
+{% include carousel2.html %}
 
 This is the Desktop version of the V1 BlueSCSI for EU/Rest of the World buyers. No soldering is required to use this device. This device has been fully tested on a Vintage Mac.
 

@@ -1,20 +1,18 @@
 ---
-layout: default
-note: true
+layout: defaultwide
+note: false
 permalink: /amiga
 ---
-&#9940; DISPATCH OF CURRENT ORDERS WILL BE 1 WORKING DAY &#9940;
-
-{% include region.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'amiga'" %}
-##### 🇬🇧 Amiga Products 🇬🇧
 
 <div class="container">
+
+<u>🇬🇧 Amiga Products 🇬🇧</u>
 <div class="row">
 	{% for page in cat_items %}
-<div class="col-md-6" markdown="1">
-{% include regionlist.md %}
+<div class="col-md-4" markdown="1">
+{% include list3dprint.md %}
 </div>
 	  {% endfor %}
 </div>

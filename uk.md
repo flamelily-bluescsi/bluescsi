@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /uk
 ---
-&#9940; DISPATCH OF CURRENT ORDERS WILL BE 1 WORKING DAY &#9940;
+&#9940; DISPATCH OF ORDERS WILL BE 1 WORKING DAY &#9940;
 
 {% include region.md %}
 

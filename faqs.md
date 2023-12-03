@@ -10,9 +10,9 @@ Q: What are the shipping costs?<br>
 A: Shipping is including in all our pricing to simplify checkout, but please make sure you purchase from the EU pages for purchases from the EU or the rest of the world.
 
 Q: What countires do we ship too?<br>
-A: We use Royal Mail so see this link for countires we can ship to - [https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/](https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/)
+A: We use Royal Mail so see this link for countires we can ship to - [https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/](https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/){:target="_blank"}
 
-Q: How do I know if my order succeded?<br>
+Q: How do I know if my order succeeded?<br>
 A: You will get an email from Paypal with your transaction details.
 
 Q: Can I order without a Paypal account?<br>

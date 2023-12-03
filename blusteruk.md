@@ -15,7 +15,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is an Amiga A2000 Buster replacement called the Bluster. More info about Bluster can be found <a href="https://github.com/LIV2/Bluster" target="_blank">here</a>. This is an excellent buster replacement IC for your Amiga made by <a href="https://twitter.com/LIV2" target="_blank">Matt Harlum (LIV2)</a>
+This is an Amiga A2000 Buster replacement called the Bluster. More info about Bluster can be found <a href="https://github.com/LIV2/Bluster" target="_blank">here</a>. This is an excellent buster replacement IC for your Amiga designed by <a href="https://twitter.com/LIV2" target="_blank">Matt Harlum (LIV2)</a>
 
 * Fully Assembled and tested
 * CPLD pre-programmed

@@ -7,6 +7,7 @@ cart_description: "BlueSCSI Desktop Mount 3D Print V1"
 cart_price: 5
 cart_image: "assets/img/3dprintdesktopv1.jpg"
 cart_image1: "assets/img/3dprintdesktopv1.jpg"
+permalink: /printv1desk
 tags: 
   - scsi
   - print

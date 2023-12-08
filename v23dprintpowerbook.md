@@ -6,7 +6,7 @@ cart_name: "Powerbook Mount V2"
 cart_description: "BlueSCSI Powerbook Mount 3D Print V2"
 cart_price: 3
 cart_image: "assets/img/3dprintpowerbookv2.jpg"
-cart_image1: "assets/img/3dprintpowerbookv2.jpg"
+cart_image1: "assets/img/3dprintpowerbookv2a.jpg"
 tags: 
   - scsi
   - print

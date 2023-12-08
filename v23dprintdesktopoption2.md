@@ -5,8 +5,8 @@ cart_itemid: v23dprintdesktopoption2
 cart_name: "Desktop Mount V2 (Option 2)"
 cart_description: "BlueSCSI Desktop Mount 3D Print V2 (Option 2)"
 cart_price: 5
-cart_image: "assets/img/v23dprintdesktopoption2.jpg"
-cart_image1: "assets/img/v23dprintdesktopoption2.jpg"
+cart_image: "assets/img/3dprintdesktop.webp"
+cart_image1: "assets/img/desktop2.webp"
 tags: 
   - scsi
   - print

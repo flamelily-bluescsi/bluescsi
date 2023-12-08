@@ -33,4 +33,11 @@ A: We send to the Paypal registered address or if you pay without a Paypal accou
 Q: I only see a kit, but I cannot solder?<br>
 A: You can request us to solder any kit for you, but this will be an extra cost and time dependant. Use our contact form to request this service if you really cannot solder or have nobody you can ask.
 
+Q: Where do I get help on the BlueSCSI?<br>
+A: Please view the BlueSCSI Version 2 help docs here <a href="https://bluescsi.com/docs/" target="_blank">https://bluescsi.com/docs/</a> You can also download the PDF files below for Version 1 instructions about usage and assembly.
+<br>
+<a href="/assets/pdfs/BlueSCSI_Instructions.pdf" target="_blank">&#9989;V1 Usage Instructions PDF</a>
+<a href="/assets/pdfs/BlueSCSI_assembly.pdf" target="_blank">&#9989;V1 Desktop Assembly Instructions PDF</a>
+<a href="/assets/pdfs/BlueSCSI_Assembly_DB25.pdf" target="_blank">&#9989;V1 DB25 Assembly Instructions PDF</a>
+
 [Contact Us](/contact) if you have questions that are not answered here.

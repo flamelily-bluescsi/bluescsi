@@ -1,1 +1,5 @@
-Please click on the Title of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices <b>include</b> tracked delivery, but please be patient due to some global shipping delays. You can access the tracking info via Paypal. We ship from the U.K (Royal Mail). Please be aware you might be responsible for customs charges by your Postal provider. Please add your 3D print mounts/cases if needed.
+Please click on the Title of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices <b>include</b> tracked delivery, but please be patient due to some global shipping delays. You can access the tracking info via Paypal. We ship from the U.K (Royal Mail). Please be aware you might be responsible for customs charges by your Postal provider. We are a registered distributor for the BlueSCSI, and the project creators will get a share of every purchase. Click the buttons below to view the Github pages for more info on the BlueSCSI.
+
+<p class="lead text-center">
+    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V1 Github</a>&nbsp;<a href="https://github.com/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V2 Github</a>
+</p>

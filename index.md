@@ -69,14 +69,14 @@ note: true
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="/amiga">View option</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="/amiga">View options</a></div>
                             </div>
                         </div>
                     </div>
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="assets/img/3dprint.png" alt="..." />
+                            <img class="card-img-top" src="assets/img/3dprints.webp" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
@@ -95,17 +95,8 @@ note: true
 </div>
 </div>
 
-
 All our prices <b>include</b> delivery, but please make sure you "Add to Cart" from the 🇪🇺 EU Product pages if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
 
-We are the UK registered distributor for the BlueSCSI, and the project creators will get a share of every purchase. Click the buttons below to view the Github pages for more info on the BlueSCSI.
+Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current stock numbers on this page <a href="/stock">CURRENT STOCK.</a> View our Return/Refund policy <a href="/return">HERE.</a> Please see our page with info about <a href="/print">3D Prints</a>.
 
-<p class="lead text-center">
-    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V1 Github</a>&nbsp;<a href="https://github.com/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V2 Github</a>
-</p>
-            
-Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current stock numbers on this page <a href="/stock">CURRENT STOCK.</a> View our Return/Refund policy <a href="/return">HERE.</a> Please see our page with info about <a href="/print">3D Prints</a> for the BlueSCSI. Please view the BlueSCSI Version 2 help docs here <a href="https://bluescsi.com/docs/" target="_blank">https://bluescsi.com/docs/</a><br>Please download the PDF files below for Version 1 instructions about usage and assembly.<br>
-
-<a href="/assets/pdfs/BlueSCSI_Instructions.pdf" target="_blank">&#9989;V1 Usage Instructions PDF</a>
-<a href="/assets/pdfs/BlueSCSI_assembly.pdf" target="_blank">&#9989;V1 Desktop Assembly Instructions PDF</a>
-<a href="/assets/pdfs/BlueSCSI_Assembly_DB25.pdf" target="_blank">&#9989;V1 DB25 Assembly Instructions PDF</a>
+We will be increasing our 3D Print options in future so keep checking our print store page. Thanks for visting.

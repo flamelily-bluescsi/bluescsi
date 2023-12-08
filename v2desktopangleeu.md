@@ -2,7 +2,7 @@
 layout: page
 title: V2 Desktop Right Angle EU
 cart_itemid: v2desktopangleeu
-cart_name: "V2 BlueSCSI Desktop Right Angle EU"
+cart_name: "V2 BlueSCSI Desktop EU"
 cart_description: "V2 BlueSCSI Desktop 50pin Right Angle - Full Version"
 cart_price: 65
 cart_image: "assets/img/desktop.webp"
@@ -13,11 +13,11 @@ tags:
   - deskeuv2
 ---
 
-##### 🇪🇺 V2 Desktop Right Angle Header EU 🇪🇺
+##### 🇪🇺 V2 Desktop EU 🇪🇺
 
 {% include carousel2.html %}
 
-This is the NEW board revision (2023.10a) Desktop V2 Full version of the BlueSCSI for EU buyers. This has a right angle header. This is a complete and tested device. Please add a 3D print if needed.
+This is the NEW board revision (2023.10a) Desktop V2 Full version of the BlueSCSI for EU buyers. This has a right angle 50 pin header. This is a complete and tested device. Please add a 3D print if needed.
 
 * New 2023.10a
 * Right Angle headers

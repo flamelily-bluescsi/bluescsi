@@ -2,7 +2,7 @@
 layout: page
 title: V2 Desktop Right Angle UK
 cart_itemid: v2desktopangleuk
-cart_name: "V2 BlueSCSI Desktop Right Angle UK"
+cart_name: "V2 BlueSCSI Desktop UK"
 cart_description: "V2 BlueSCSI Desktop 50pin Right Angle - Full Version"
 cart_price: 52
 cart_image: "assets/img/desktop.webp"
@@ -13,11 +13,11 @@ tags:
   - deskukv2
 ---
 
-##### 🇬🇧 V2 Desktop Right Angle Header UK 🇬🇧
+##### 🇬🇧 V2 Desktop UK 🇬🇧
 
 {% include carousel2.html %}
 
-This is the NEW board revision (2023.10a) Desktop V2 Full version of the BlueSCSI for UK buyers. This has the right angle header and molex. This is a complete and tested device. Please add a 3D print if needed.
+This is the NEW board revision (2023.10a) Desktop V2 Full version of the BlueSCSI for UK buyers. This has a right angle 50 pin header and molex. This is a complete and tested device. Please add a 3D print if needed.
 
 * New 2023.10a
 * Right Angle headers

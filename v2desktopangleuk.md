@@ -5,8 +5,9 @@ cart_itemid: v2desktopangleuk
 cart_name: "V2 BlueSCSI Desktop Right Angle UK"
 cart_description: "V2 BlueSCSI Desktop 50pin Right Angle - Full Version"
 cart_price: 52
-cart_image: "assets/img/v2desktopangle.jpg"
-cart_image1: "assets/img/Desktop_50_pcb.jpg"
+cart_image: "assets/img/desktop.webp"
+cart_image1: "assets/img/desktop1.webp"
+permalink: /desktopuk
 tags: 
   - scsi
   - deskukv2
@@ -16,9 +17,9 @@ tags:
 
 {% include carousel2.html %}
 
-This is the NEW version 2 Desktop Full version of the BlueSCSI for UK buyers. This has the right angle header and molex, see the straight option if you want a straight up header and molex. This is a complete and tested device.
+This is the NEW board revision (2023.10a) Desktop V2 Full version of the BlueSCSI for UK buyers. This has the right angle header and molex. This is a complete and tested device. Please add a 3D print if needed.
 
-* New Version 2
+* New 2023.10a
 * Right Angle headers
 * Tested and complete
 * Click &#8594; [Add Pico Wifi](/picowifi)

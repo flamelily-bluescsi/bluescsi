@@ -7,6 +7,7 @@ cart_description: "BlueSCSI Initiator for V2 - Fully Assembled"
 cart_price: 70
 cart_image: "assets/img/initiator.webp"
 cart_image1: "assets/img/initiator1.webp"
+permalink: /initiatoreu
 tags: 
   - scsi
   - v2

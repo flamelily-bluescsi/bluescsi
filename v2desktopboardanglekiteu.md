@@ -5,8 +5,9 @@ cart_itemid: v2desktopboardanglekiteu
 cart_name: "V2 BlueSCSI Board Only Desktop Kit Right Angle EU"
 cart_description: "V2 BlueSCSI Board Only Desktop 50pin Solder Kit Right Angle - NO Pico"
 cart_price: 49
-cart_image: "assets/img/v2desktopboardanglekit.jpg"
-cart_image1: "assets/img/v2desktopboardanglekit.jpg"
+cart_image: "assets/img/desktop1.webp"
+cart_image1: "assets/img/kitsnopico.webp"
+permalink: /desktopboardeu
 tags: 
   - scsi
   - deskeuv2
@@ -16,9 +17,9 @@ tags:
 
 {% include carousel2.html %}
 
-This is the NEW version 2 Desktop Board Only Kit version of the BlueSCSI for 🇪🇺 EU buyers. This has the right angle header and molex, see the straight option if you want a straight header and molex. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. You will need to supply your own Raspberry Pi Pico!
+This is the NEW board revision (2023.10a) Desktop V2 Board Only Kit version of the BlueSCSI for 🇪🇺 EU buyers. This has the right angle header and molex. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. You will need to supply your own Raspberry Pi Pico!
 
-* New Version 2
+* New 2023.10a
 * SMD already soldered
 * Right Angle headers
 * No Pico supplied

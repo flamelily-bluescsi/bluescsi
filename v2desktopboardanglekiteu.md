@@ -1,8 +1,8 @@
 ---
 layout: page
-title: V2 Desktop Board Only Kit Right Angle EU
+title: V2 Desktop Board Only Kit EU
 cart_itemid: v2desktopboardanglekiteu
-cart_name: "V2 BlueSCSI Board Only Desktop Kit Right Angle EU"
+cart_name: "V2 BlueSCSI Board Only Desktop Kit EU"
 cart_description: "V2 BlueSCSI Board Only Desktop 50pin Solder Kit Right Angle - NO Pico"
 cart_price: 49
 cart_image: "assets/img/desktop1.webp"
@@ -13,7 +13,7 @@ tags:
   - deskeuv2
 ---
 
-##### 🇪🇺 V2 Desktop Board Only Kit Right Angle Header EU 🇪🇺
+##### 🇪🇺 V2 Desktop Board Only Kit EU 🇪🇺
 
 {% include carousel2.html %}
 

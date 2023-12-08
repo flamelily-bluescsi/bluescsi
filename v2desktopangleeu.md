@@ -1,6 +1,6 @@
 ---
 layout: page
-title: V2 Desktop Right Angle EU
+title: V2 Desktop EU
 cart_itemid: v2desktopangleeu
 cart_name: "V2 BlueSCSI Desktop EU"
 cart_description: "V2 BlueSCSI Desktop 50pin Right Angle - Full Version"

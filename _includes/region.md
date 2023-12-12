@@ -1,3 +1,5 @@
+The NEW Desktop Hardware version 2023.10a now allows you to directly connect your BlueSCSI to a vintage SCSI drive and copy data from it without needing a bootable "Host Device" or computer. Image those failing SCSI drives. See [this DOC](https://bluescsi.com/docs/Initiator-Mode){:target="_blank"} for more info.
+
 Please click on the Title of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices <b>include</b> Royal Mail delivery and you will receive a dispatch email via Paypal. We are a registered distributor for the BlueSCSI, and the project creators will get a share of every purchase. Click the buttons below to view the Github pages for more info on the BlueSCSI.
 
 <p class="lead text-center">

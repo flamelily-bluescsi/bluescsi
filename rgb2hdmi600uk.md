@@ -3,7 +3,7 @@ layout: page
 title: RGB2HDMI A600 Kit UK
 cart_itemid: rgb2hdmi600uk
 cart_name: "RGB2HDMI A600 Kit UK"
-cart_description: "RGB2HDMI Amiga A600 Kit UK"
+cart_description: "RGB2HDMI Amiga A600 Kit UK - Soldering required"
 cart_price: 50
 cart_image: "assets/img/rgb2hdmi1.webp"
 cart_image1: "assets/img/rgb2hdmi2.webp"

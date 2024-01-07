@@ -7,7 +7,7 @@ cart_description: "V2 BlueSCSI Desktop 50pin Right Angle - Full Version"
 cart_price: 52
 cart_image: "assets/img/desktop.webp"
 cart_image1: "assets/img/desktop1.webp"
-permalink: /desktopuk
+permalink: /desktopuk2
 tags: 
   - scsi
   - deskukv2

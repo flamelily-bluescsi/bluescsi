@@ -7,7 +7,7 @@ cart_description: "V2 BlueSCSI Desktop 50pin Solder Kit Right Angle"
 cart_price: 38
 cart_image: "assets/img/desktop1.webp"
 cart_image1: "assets/img/kits.webp"
-permalink: /desktopkituk
+permalink: /desktopkituk2
 tags: 
   - scsi
   - deskukv2

@@ -4,7 +4,7 @@ title: V2 DB25 Mini Board EU
 cart_itemid: v2db25miniboardeu
 cart_name: "V2 BlueSCSI DB25 Mini Board EU"
 cart_description: "V2 BlueSCSI DB25 Mini Board only Solder Kit"
-cart_price: 43
+cart_price: 48
 cart_image: "assets/img/v2db25miniboard.webp"
 cart_image1: "assets/img/DB25mini_pcb.jpg"
 tags: 

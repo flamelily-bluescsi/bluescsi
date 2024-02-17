@@ -8,7 +8,7 @@ permalink: /eu
 {% include regioneu.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'euv1'" %}
-##### 🇪🇺 Version 1 🇪🇺
+##### 🇪🇺 Version 1 - Bluepill 🇪🇺
 
 <div class="container">
 <div class="row">
@@ -21,7 +21,7 @@ permalink: /eu
 </div>
 <hr>
 
-##### 🇪🇺 NEW - Version 2 🇪🇺
+##### 🇪🇺 Version 2 - Pico 🇪🇺
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'deskeuv2'" %}
 ###### Desktop 50 pin versions
 <div class="container">

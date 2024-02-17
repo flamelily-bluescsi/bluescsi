@@ -5,8 +5,9 @@ cart_itemid: v2db25minieu
 cart_name: "V2 BlueSCSI DB25 Mini EU"
 cart_description: "V2 BlueSCSI DB25 Mini - Full Version"
 cart_price: 65
-cart_image: "assets/img/v2db25mini.jpg"
-cart_image1: "assets/img/DB25mini_pcb.jpg"
+cart_image: "assets/img/v2db25mini.webp"
+cart_image1: "assets/img/DB25_pcb.webp"
+cart_image2: "assets/img/DB25_pcb1.webp"
 tags: 
   - scsi
   - db25euv2
@@ -14,9 +15,9 @@ tags:
 
 ##### 🇪🇺 V2 DB25 Mini Full EU 🇪🇺
 
-{% include carousel2.html %}
+{% include carousel3.html %}
 
-This is the NEW version 2 DB25 Mini Full version of the BlueSCSI for EU buyers. This is usually used externally from the computer. This is a complete and tested device. The normal hex nuts have been replaced with flat screws so as to allow plugging into the 25 pin socket flush.
+This is the NEW version (2024.01a) DB25 Mini Full version of the BlueSCSI for EU buyers. This is usually used externally from the computer. This is a complete and tested device. The normal hex nuts have been replaced with flat screws so as to allow plugging into the 25 pin socket flush.
 
 * New Mini Version 2
 * Tested and complete

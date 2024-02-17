@@ -36,7 +36,7 @@ note: true
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">EU</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="assets/img/3dprintdb25mini1.webp" alt="3dprinting" />
+                            <img class="card-img-top" src="assets/img/v2db25mini.webp" alt="3dprinting" />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">

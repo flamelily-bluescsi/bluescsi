@@ -28,5 +28,5 @@ This is the NEW version (2024.01a) DB25 Mini Full version of the BlueSCSI for UK
 {% if site.db25 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}
-&#9940; OUT OF STOCK &#9940;
+{% include outofstock.md %}
 {% endif %}

@@ -28,5 +28,5 @@ This is the NEW board revision (2023.10a) Desktop V2 Board Only Kit version of t
 {% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}
-&#9940; OUT OF STOCK &#9940;
+{% include outofstock.md %}
 {% endif %}

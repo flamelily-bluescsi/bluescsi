@@ -39,6 +39,7 @@ desktop: 0
 powerbook: 2
 cpldicy: 4
 gottago: 3
+rgb2hdmi: 6
 
 # Exclude from processing.
 # The following items will not be processed, by default.

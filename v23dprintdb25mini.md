@@ -18,7 +18,7 @@ tags:
 
 {% include carousel3.html %}
 
-Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is the standard case for the V2 DB25 Mini BlueSCSI. This helps protect the V2 DB25 Mini BlueSCSI externally. For 2024.01a board revision ONLY. This print is much tighter to the PCB and therefore should not block any adjacent ports, but is also less sturdy/solid than the Option 2 print.
+Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is the standard case for the V2 DB25 Mini BlueSCSI. This helps protect the V2 DB25 Mini BlueSCSI externally. For 2024.01a board revision ONLY. This print is much tighter to the PCB and therefore should not block any adjacent ports, but is also less sturdy/solid than the Option 2 print which can be found [here](/3ddb25mini2).
 
 * 3D PLA print (fossil grey)
 * Fits the Mini DB25 version (2024.01a ONLY)

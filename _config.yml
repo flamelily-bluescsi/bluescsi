@@ -34,8 +34,8 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 23
-desktop: 0
+db25: 21
+desktop: 20
 powerbook: 2
 cpldicy: 4
 gottago: 3

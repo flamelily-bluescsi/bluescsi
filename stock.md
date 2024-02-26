@@ -18,5 +18,6 @@ Also this is <b>not real time</b> but we will do our best to regularly update th
 ###### BlueSCSI V2 DB25 Mini Stock : {{site.db25}}
 ###### BlueSCSI V2 Powerbook Stock : {{site.powerbook}}
 ###### Amiga CPLDICY Stock : {{site.cpldicy}}
-###### Amiga GottaGoFazt3r Stock : {{site.gottago}}
+###### Amiga GottaGoFazt3r 128MB Stock : {{site.gottago128}}
+###### Amiga GottaGoFazt3r 256MB Stock : {{site.gottago256}}
 ###### Amiga 600 RGB2HDMI Stock : {{site.rgb2hdmi}}

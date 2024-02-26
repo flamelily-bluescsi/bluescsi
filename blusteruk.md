@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Amiga A2000 Bluster UK
+title: Amiga A2000 Bluster
 cart_itemid: blusteruk
-cart_name: "Amiga A2000 Bluster UK"
-cart_description: "Amiga A2000 Buster replacement UK"
+cart_name: "Amiga A2000 Bluster"
+cart_description: "Amiga A2000 Buster replacement - Fully Assembled"
 cart_price: 30
 cart_image: "assets/img/bluster1.webp"
 cart_image1: "assets/img/bluster2.webp"
@@ -11,7 +11,7 @@ tags:
   - amiga
 ---
 
-##### 🇬🇧 Amiga A2000 Bluster UK 🇬🇧
+##### 🇬🇧 Amiga A2000 Bluster 🇬🇧
 
 {% include carousel2.html %}
 

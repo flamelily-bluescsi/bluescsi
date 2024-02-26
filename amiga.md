@@ -12,7 +12,7 @@ permalink: /amiga
 <div class="row">
 	{% for page in cat_items %}
 <div class="col-md-4" markdown="1">
-{% include list3dprint.md %}
+{% include listnoprice.md %}
 </div>
 	  {% endfor %}
 </div>

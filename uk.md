@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /uk
 ---
-&#9940; DISPATCH WILL BE WITHIN 2 WORKING DAYs - CHECK <a href="/stock">Stock UPDATE</a> &#9940;
+&#9940; DISPATCH WILL BE WITHIN 2 WORKING DAYS - CHECK <a href="/stock">Stock UPDATE</a> &#9940;
 
 {% include region.md %}
 

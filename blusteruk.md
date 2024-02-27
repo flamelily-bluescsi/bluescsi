@@ -4,7 +4,7 @@ title: Amiga A2000 Bluster
 cart_itemid: blusteruk
 cart_name: "Amiga A2000 Bluster"
 cart_description: "Amiga A2000 Buster replacement - Fully Assembled"
-cart_price: 30
+cart_price: 33
 cart_image: "assets/img/bluster1.webp"
 cart_image1: "assets/img/bluster2.webp"
 tags: 

@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /eu
 ---
-&#9940; DISPATCH WILL BE 1 WORKING DAY - CHECK <a href="/stock">Stock UPDATE</a> &#9940;
+&#9940; DISPATCH WILL BE WITHIN 2 WORKING DAYS - CHECK <a href="/stock">Stock UPDATE</a> &#9940;
 
 {% include regioneu.md %}
 

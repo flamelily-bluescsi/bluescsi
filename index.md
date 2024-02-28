@@ -13,7 +13,7 @@ note: true
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Sale badge-->
-                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">UK</div>
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">UK ONLY</div>
                             <!-- Product image-->
                             <img class="card-img-top" src="assets/img/initiator.webp" alt="scsi copy" />
                             <!-- Product details-->
@@ -34,14 +34,14 @@ note: true
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Sale badge-->
-                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">EU</div>
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">ROW</div>
                             <!-- Product image-->
                             <img class="card-img-top" src="assets/img/v2db25mini.webp" alt="3dprinting" />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">BlueSCSI Products EU</h5>
+                                    <h5 class="fw-bolder">BlueSCSI Products Rest of the World</h5>
                                     <!-- Product price-->
                                     From £54.00
                                 </div>
@@ -95,7 +95,7 @@ note: true
 </div>
 </div>
 
-All our prices <b>include</b> delivery, but please make sure you "Add to Cart" from the 🇪🇺 EU Product pages if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
+All our prices <b>include</b> delivery, but please make sure you "Add to Cart" from the 🇪🇺🇺🇸 EU Product pages if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
 
 Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current stock numbers on this page <a href="/stock">CURRENT STOCK.</a> View our Return/Refund policy <a href="/return">HERE.</a> Please see our page with info about <a href="/print">3D Prints</a>.
 

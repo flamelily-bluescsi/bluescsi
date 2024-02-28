@@ -3,12 +3,12 @@ layout: default
 note: true
 permalink: /eu
 ---
-&#9940; DISPATCH WILL BE WITHIN 2 WORKING DAYS - CHECK <a href="/stock">Stock UPDATE</a> &#9940;
+###### 🇪🇺🇺🇸 This page is for Buyers from the Rest of the World - Please visit the <a href="/uk">UK Page</a> if buying from the UK 🇺🇸🇪🇺
 
 {% include regioneu.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'euv1'" %}
-##### 🇪🇺 Version 1 - Bluepill 🇪🇺
+##### 🇪🇺🇺🇸 Version 1 - Bluepill 🇺🇸🇪🇺
 
 <div class="container">
 <div class="row">
@@ -21,7 +21,7 @@ permalink: /eu
 </div>
 <hr>
 
-##### 🇪🇺 Version 2 - Pico 🇪🇺
+##### 🇪🇺🇺🇸 Version 2 - Pico 🇺🇸🇪🇺
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'deskeuv2'" %}
 ###### Desktop 50 pin versions
 <div class="container">
@@ -62,7 +62,7 @@ permalink: /eu
 <hr>
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'print'" %}
-##### 🇪🇺 3D Prints (for purchase with a BlueSCSI) 🇪🇺
+##### 3D Prints (for purchase with a BlueSCSI)
 <div class="container">
 <div class="row">
 	{% for page in cat_items %}

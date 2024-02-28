@@ -3,8 +3,8 @@ layout: default
 note: true
 permalink: /uk
 ---
-&#9940; DISPATCH WILL BE WITHIN 2 WORKING DAYS - CHECK <a href="/stock">Stock UPDATE</a> &#9940;
 
+###### 🇬🇧 This page is for UK Buyers ONLY - Please visit the <a href="/eu">EU Page</a> if buying from outside the UK 🇬🇧
 {% include region.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'ukv1'" %}
@@ -63,7 +63,7 @@ permalink: /uk
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'print'" %}
 
-##### 🇬🇧 3D Prints (for purchase with a BlueSCSI) 🇬🇧
+##### 3D Prints (for purchase with a BlueSCSI)
 <div class="container">
 <div class="row">
 	{% for page in cat_items %}

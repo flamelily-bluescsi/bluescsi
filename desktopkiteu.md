@@ -5,8 +5,8 @@ cart_itemid: eudesktopkit
 cart_name: "BlueSCSI Kit EU"
 cart_description: "BlueSCSI Desktop Kit EU/Rest of world"
 cart_price: 50
-cart_image: "assets/img/desktopkit.jpg"
-cart_image1: "assets/img/desktopkit.jpg"
+cart_image: "assets/img/V1BlueSCSIkit.webp"
+cart_image1: "assets/img/V1BlueSCSIkit1.webp"
 tags: 
   - scsi
   - eu

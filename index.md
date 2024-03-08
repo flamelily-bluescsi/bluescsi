@@ -15,7 +15,7 @@ note: true
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">UK ONLY</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="assets/img/initiator.webp" alt="scsi copy" />
+                            <img class="card-img-top" src="assets/img/DesktopV2.webp" alt="scsi copy" />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">

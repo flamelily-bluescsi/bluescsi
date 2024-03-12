@@ -16,7 +16,7 @@ tags:
 
 {% include carousel2.html %}
 
-Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is another more bulky option for the V2 Desktop, with a single mounting screw. This gives a more solid fit and has 4 side mounting points like a traditional hard drive.
+Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is another more bulky option for the V2 Desktop, with a single mounting screw. This gives a more solid fit and has 4 side mounting points like a traditional hard drive. This is for desktop board revision 2023.10a only.
 
 * 3D PLA print (fossil grey)
 * Solid fit, 4 side mounting points

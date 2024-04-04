@@ -18,10 +18,10 @@ tags:
 
 {% include carousel3.html %}
 
-Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is another option for the V2 Desktop modelled by [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}, which is a lovely solid mounting bracket.
+Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is another option for the V2 Desktop modelled by [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}, which is a lovely solid mounting bracket. For Desktop PCB board revision 2023.10a ONLY.
 
 * 3D PLA print (fossil grey)
-* Solid mount, comes with a mounting screws
+* Solid mount, for 2023.10a revision
 * Fits standard Hard drive bays
 * ONLY for purchase with a BlueSCSI
 

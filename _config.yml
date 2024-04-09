@@ -34,14 +34,14 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 22
-desktop: 30
-powerbook: 11
+db25: 19
+desktop: 28
+powerbook: 8
 cpldicy: 4
 gottago128: 1
 gottago256: 0
 rgb2hdmi: 6
-bluster: 3
+bluster: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default.

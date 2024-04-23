@@ -17,10 +17,10 @@ tags:
 
 {% include carousel2.html %}
 
-This is the Desktop version of the V1 BlueSCSI for UK buyers. No soldering is required to use this device. This device has been fully tested on a Vintage Mac.
+This is the Desktop version of the V1 BlueSCSI for UK buyers. No soldering is required to use this device. This device has been fully tested.
 
 * Version 1.1 PCB
 * Fully tested
-* Works better with Vintage Mac's 
+* Works best with SCSI I devices (use V2 for better compatibility)
 
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

@@ -43,7 +43,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">BlueSCSI Products Rest of the World</h5>
                                     <!-- Product price-->
-                                    From £54.00
+                                    From £48.00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -64,7 +64,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">Amiga Products</h5>
                                     <!-- Product price-->
-                                    From £75.00
+                                    From £33.00
                                 </div>
                             </div>
                             <!-- Product actions-->

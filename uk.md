@@ -61,17 +61,8 @@ permalink: /uk
 </div>
 <hr>
 
-{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'print'" %}
-
 ##### 3D Prints (for purchase with a BlueSCSI)
-<div class="container">
-<div class="row">
-	{% for page in cat_items %}
-<div class="col-md-6" markdown="1">
-{% include regionlist.md %}
-</div>
-	  {% endfor %}
-</div>
-</div>
-<br>
+
+Visit the [3D Print Page](/3dprints) showing all images and purchase links.
+
 [3D Print Information Page](/print) has links to purchase prints separately, without BlueSCSI's.

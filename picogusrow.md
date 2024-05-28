@@ -8,13 +8,14 @@ cart_description: "PicoGUS board ROW - Fully Assembled"
 cart_price: 68
 cart_image: "assets/img/picogusrow.webp"
 cart_image1: "assets/img/picogus2s.webp"
+cart_image2: "assets/img/midirow.webp"
 tags: 
   - pgrow
 ---
 
 ##### 🇪🇺🌍 PicoGUS board for Europe and the Rest of the World 🇪🇺🌍
 
-{% include carousel2.html %}
+{% include carousel3.html %}
 
 An ISA sound card emulator, powered by a Raspberry Pi Pico. PicoGUS can emulate Gravis UltraSound, Sound Blaster 2.0 / AdLib (OPL2), CMS/Game Blaster and Tandy 3-Voice, and supports MIDI output with MPU-401 intelligent mode emulation. Includes a PicoGUS v2.0 ISA board, and a 3.5mm TRS to DIN-5 MIDI adapter cable.
 

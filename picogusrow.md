@@ -5,8 +5,8 @@ title: PicoGUS board Rest of the World
 cart_itemid: picogusrow
 cart_name: "PicoGUS board Rest of the World"
 cart_description: "PicoGUS board ROW - Fully Assembled"
-cart_price: 70
-cart_image: "assets/img/picogus2.webp"
+cart_price: 68
+cart_image: "assets/img/picogusrow.webp"
 cart_image1: "assets/img/picogus2s.webp"
 tags: 
   - pgrow
@@ -22,7 +22,7 @@ An ISA sound card emulator, powered by a Raspberry Pi Pico. PicoGUS can emulate 
 * Sound Blaster 2.0
 * Comes with a MIDI adapter cable
 
-##### COMING SOON
+##### PRE ORDER FOR DISPATCH AROUND 7th June
 
 {% if site.picogus > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

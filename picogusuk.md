@@ -6,7 +6,7 @@ cart_itemid: picogusuk
 cart_name: "PicoGUS board UK"
 cart_description: "PicoGUS board UK - Fully Assembled"
 cart_price: 58
-cart_image: "assets/img/picogus2.webp"
+cart_image: "assets/img/picogusuk.webp"
 cart_image1: "assets/img/picogus2s.webp"
 tags: 
   - pguk
@@ -22,7 +22,7 @@ An ISA sound card emulator, powered by a Raspberry Pi Pico. PicoGUS can emulate 
 * Sound Blaster 2.0
 * Comes with a MIDI adapter cable
 
-##### COMING SOON
+##### PRE ORDER FOR DISPATCH AROUND 7th June
 
 {% if site.picogus > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

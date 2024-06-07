@@ -7,7 +7,7 @@ cart_name: "PicoMEM 8-bit ISA UK"
 cart_description: "PicoMEM All in One 8-Bit ISA Expansion Card UK"
 cart_price: 55
 cart_image: "assets/img/picomem.webp"
-cart_image1: "assets/img/picomem.webp"
+cart_image1: "assets/img/PicoMEM111.webp"
 tags: 
   - pmuk
 ---
@@ -21,6 +21,7 @@ The PicoMEM is an 8-bit ISA expansion card based on the Raspberry Pi Pico microc
 * NE2000 Network Support emulation
 * Built-in MicroSD card reader
 * USB Mouse & Joystick Support
+* Latest Rev 1.11 PCB
 
 ##### COMING SOON
 

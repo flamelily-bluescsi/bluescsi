@@ -83,7 +83,7 @@ note: true
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">PicoGUS Products - PRE ORDER</h5>
+                                    <h5 class="fw-bolder">PicoGUS Products</h5>
                                     <!-- Product price-->
                                     From £58.00
                                 </div>

@@ -28,7 +28,7 @@ Q: What is your return policy?<br>
 A: Please read our policy page [here](/return).
 
 Q: Which address do we send to?<br>
-A: We send to the Paypal registered address or if you pay without a Paypal account then the Billing or Shipping address you enter at checkout.
+A: We send to the Paypal registered address or if you pay without a Paypal account then the Billing or Shipping address you enter at checkout. If you would like it sent to an address that is different to your Paypal address, then please use our [Contact form](/contact) to let us know subsequent to ordering.
 
 Q: I only see a kit, but I cannot solder?<br>
 A: You can request us to solder any kit for you, but this will be an extra cost and time dependant. Use our contact form to request this service if you really cannot solder or have nobody you can ask.

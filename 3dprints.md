@@ -7,7 +7,7 @@ permalink: /3dprints
 <div class="row" markdown="1">
 &#9940; ORDERS THESE ONLY WITH A BLUESCSI &#9940;
 
-##### 3D Print cases and mounts
+##### 3D Print cases and mounts for latest PCB revisions
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'print'" %}
 </div>

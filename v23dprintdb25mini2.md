@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /3ddb25mini2
-title: 3D DB25 Mini Case V2 (Option 2)
-cart_itemid: v23dprintdb25mini2
-cart_name: "DB25 Mini Case V2 (Option 2)"
-cart_description: "BlueSCSI DB25 Mini Case 3D Print V2 (Option 2)"
+permalink: /3ddb25mini
+title: 3D DB25 Mini Case V2
+cart_itemid: v23dprintdb25mini
+cart_name: "DB25 Mini Case V2"
+cart_description: "BlueSCSI DB25 Mini slide Case 3D Print V2"
 cart_price: 5
 cart_image: "assets/img/3ddb25O2.webp"
 cart_image1: "assets/img/3ddb25O2a.webp"
@@ -15,11 +15,11 @@ tags:
   - print
 ---
 
-##### 🇬🇧🇪🇺 DB25 Mini Case 3D Print V2 (Option 2) 🇬🇧🇪🇺
+##### 🇬🇧🇪🇺 DB25 Mini Case 3D Print V2 🇬🇧🇪🇺
 
 {% include carousel4.html %}
 
-Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is the second option case for the V2 DB25 Mini BlueSCSI. This helps protect the V2 DB25 Mini BlueSCSI externally. For the 2024.01a board revision ONLY. This case is a slide fit design and is much studier than the standard case
+Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is the case for the V2 DB25 Mini BlueSCSI. This helps protect the V2 DB25 Mini BlueSCSI externally. For the 2024.01a board revision ONLY. This case is a slide fit design and quite sturdy.
 
 * 3D PLA print (fossil grey)
 * Fits ONLY the 2024.01a Mini DB25 version

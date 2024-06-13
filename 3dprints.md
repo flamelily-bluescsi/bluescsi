@@ -20,5 +20,5 @@ permalink: /3dprints
 </div>
 	  {% endfor %}
 </div>
-<a href="/print">3D Print Information Page</a> has links to purchase prints separately, without BlueSCSI's.
+<a href="/print">3D Print Information Page</a> has buttons to purchase prints separately, without BlueSCSI's.
 </div>

@@ -14,10 +14,12 @@ We now have a wide range of 3D Mounts/Cases for your BlueSCSI. You can view them
   </p>
 
 ##### Purchasing 3D Prints ONLY
-If you ONLY need to purchase a 3D print, as you built a BlueSCSI yourself, we do sell them separately from the Paypal links below which show the postage cost. Postage is free if purchased WITH a BlueSCSI. This is more of a service to those without a 3D printer.
+If you ONLY need to purchase a 3D print, as you built a BlueSCSI yourself, we do sell them separately below which show the postage cost. Postage is free if purchased WITH a BlueSCSI. This is more of a service to those without a 3D printer. To see pictures visit [this page](/3dprints)
 
-[V2 Desktop Bracket](https://py.pl/2sjqy){:target="_blank"} <br>
-[V2 Desktop Bracket (Option 2)](https://www.paypal.com/instantcommerce/checkout/4HFGBPAPKSZMA){:target="_blank"} <br>
-[V2 DB25 Mini Case](https://py.pl/dqQeO){:target="_blank"} <br>
-[V2 Powerbook Bracket](https://www.paypal.com/instantcommerce/checkout/DL73V2X6Z7FVG){:target="_blank"} <br>
-[V2 Desktop Bracket by PotatoFi](https://www.paypal.com/instantcommerce/checkout/QWTQ5C8JK2QPW){:target="_blank"}
+<script src="https://www.paypal.com/sdk/js?client-id=BAA1UwyMt5PZyPVDP3S3w-2dZmyOKNDldr7tcA6OLDT7vRyrmAjEgpOxBBVVPPuRgzY1r0afn93Liq4ccQ&components=hosted-buttons&disable-funding=venmo&currency=GBP"></script>
+<div id="paypal-container-B34PV8F94KUKW"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "B34PV8F94KUKW",
+  }).render("#paypal-container-B34PV8F94KUKW")
+</script>

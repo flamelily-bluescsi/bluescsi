@@ -99,12 +99,12 @@ note: true
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="assets/img/picomem.webp" alt="picomem" />
+                            <img class="card-img-top" src="assets/img/picomemfront.webp" alt="picomem" />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">PicoMEM Products - COMING SOON</h5>
+                                    <h5 class="fw-bolder">PicoMEM Products - PRE-ORDER</h5>
                                     <!-- Product price-->
                                     From £55.00
                                 </div>

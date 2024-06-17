@@ -16,13 +16,13 @@ tags:
 
 {% include carousel2.html %}
 
-The PicoMEM is an 8-bit ISA expansion card based on the Raspberry Pi Pico microcontroller.  It offers a huge range of features and aims to be an all-in-one solution for ISA-based vintage PCs. The card fits all ISA slots fine without a bracket, but you can print a 3D verison from [here](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/stl){:target="_blank"}. We don't supply a 3D printed bracket as it's not very hardy and in our experience breaks easily. We are looking into sourcing a metal bracket supplier for future.
+The PicoMEM is an 8-bit ISA expansion card based on the Raspberry Pi Pico microcontroller.  It offers a huge range of features and aims to be an all-in-one solution for ISA-based vintage PCs. The card fits all ISA slots fine without a bracket, but you can print a 3D verison from [here](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/stl){:target="_blank"}. We don't supply a 3D printed bracket as it's not very hardy and in our experience breaks easily. We are looking into sourcing a metal bracket supplier for future. Your PicoMEM comes as default with a Pico W so NE2000 networking can be used straight away. Please make sure you test the Wifi functionality VERY close to the wifi router, since the Pico W does not have a wifi antenna.
 
 * NE2000 Network Support emulation
 * Built-in MicroSD card reader
 * USB Mouse & Joystick Support
 * Latest Rev 1.11 PCB
-* Pico pre-flashed with latest firmware
+* Pico W pre-flashed with latest firmware
 
 Price includes shipping costs. Please visit the <a href="/picomemuk">UK Page</a> if buying from the UK
 

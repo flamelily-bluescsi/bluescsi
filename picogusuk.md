@@ -22,6 +22,7 @@ An ISA sound card emulator, powered by a Raspberry Pi Pico. PicoGUS can emulate 
 * supports MIDI
 * Sound Blaster 2.0
 * Comes with a MIDI adapter cable
+* Comes with a bracket (Nickel plated mild steel)
 
 Price includes shipping costs. Please visit the <a href="/picogusrow">ROW Page</a> if buying from outside the UK
 

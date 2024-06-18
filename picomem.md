@@ -3,7 +3,7 @@ layout: default
 note: false
 permalink: /picomem
 ---
-######  PicoMEM Products for UK and the Rest of the World - PRE-ORDER for dispatch around 21st June
+######  PicoMEM Products for UK and the Rest of the World - PRE-ORDER for dispatch around 24th June
 
 Make sure you choose the <b>UK option ONLY</b> if your delivery address is in the UK. Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email via Paypal.
 

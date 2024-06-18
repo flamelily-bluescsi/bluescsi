@@ -26,7 +26,7 @@ The PicoMEM is an 8-bit ISA expansion card based on the Raspberry Pi Pico microc
 
 Price includes shipping costs. Please visit the <a href="/picomemuk">UK Page</a> if buying from the UK
 
-##### PRE-ORDER for dispatch around 21st June
+##### PRE-ORDER for dispatch around 24th June
 
 {% if site.picomem > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

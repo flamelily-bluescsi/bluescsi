@@ -23,8 +23,9 @@ The PicoMEM is an 8-bit ISA expansion card based on the Raspberry Pi Pico microc
 * USB Mouse & Joystick Support
 * Latest Rev 1.11 PCB
 * Pico W pre-flashed with latest firmware
+* Add an adLib audio board [here](/adlibpicomem)
 
-Price includes shipping costs. Please visit the <a href="/picomemrow">ROW Page</a> if buying from outside the UK
+Price includes shipping costs. Please visit the [ROW Page](/picomemrow) if buying from outside the UK.
 
 ##### PRE-ORDER for dispatch around 24th June
 

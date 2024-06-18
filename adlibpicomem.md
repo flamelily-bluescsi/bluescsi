@@ -1,0 +1,48 @@
+---
+layout: page
+permalink: /adlibpicomem
+title: I2S / AdLib Module for the PicoMEM ISA Expansion Card
+cart_itemid: adlibpicomem
+cart_name: "AdLib Module for the PicoMEM"
+cart_description: "AdLib Module for the PicoMEM ISA Expansion Card"
+cart_price: 6
+cart_image: "assets/img/adlib.webp"
+tags: 
+  - pmuk
+  - pmrow
+  - adlib
+---
+
+##### AdLib Module for the PicoMEM ISA Expansion Card
+
+  <p class="lead text-center">
+    <img src="{{page.cart_image}}" class="img-thumbnail" alt="{{page.cart_description}}">
+  </p>
+
+The I2S / Adlib module is designed to solder directly into the PicoMEM header pins. If you add this to your cart we will solder this to those pins. Freddy is updating support for future sound chips in later updates and this add-on will work for those too.
+
+For Adlib support,  you need the May 28th, 2024 firmware or later which is what we flash to all PicoMEM's. Firmware files can be download here: [ISA-PicoMEM/firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware)
+
+This I2S module uses the PCM5102A DAC. Some configuration pins need to be set on the module itself for proper operation.  The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS)
+
+* PCM5102A Digital to Analog Converter
+* Soldered onto your PicoMEM (if purchased with one)
+
+{% if site.adlib > 0 %}
+##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+{% include outofstock.md %}
+{% endif %}
+<hr>
+
+If you ONLY want to purchase this Adlib DAC (Digital to Analog converter) without a PicoMEM, please use this gold add to cart button below which includes postage and packing cost (worldwide) as if purchasing with a PicoMEM the post cost is free.
+{% if site.adlib > 0 %}
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="6QQ2UE3VL3LX2" />
+  <input type="hidden" name="currency_code" value="GBP" />
+  <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Add to Cart" />
+</form>
+{% else %}
+{% include outofstock.md %}
+{% endif %}

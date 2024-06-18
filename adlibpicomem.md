@@ -7,6 +7,7 @@ cart_name: "AdLib Module for the PicoMEM"
 cart_description: "AdLib Module for the PicoMEM ISA Expansion Card"
 cart_price: 6
 cart_image: "assets/img/adlib.webp"
+cart_image1: "assets/img/adlibpicomem.webp"
 tags: 
   - pmuk
   - pmrow
@@ -15,13 +16,11 @@ tags:
 
 ##### AdLib Module for the PicoMEM ISA Expansion Card
 
-  <p class="lead text-center">
-    <img src="{{page.cart_image}}" class="img-thumbnail" alt="{{page.cart_description}}">
-  </p>
+{% include carousel2.html %}
 
-The I2S / Adlib module is designed to solder directly into the PicoMEM header pins. If you add this to your cart we will solder this to those pins. Freddy is updating support for future sound chips in later updates and this add-on will work for those too.
+This is to add a DAC (Digital to Analog converter) to your PicoMEM. It is I2S / Adlib module that is designed to solder directly into the PicoMEM header pins. If you add this to your cart as well as a PicoMEM, we will solder this to those pins (as shown in the second picture). Freddy is updating support for future sound chips in later updates and this add-on will work for those too.
 
-For Adlib support,  you need the May 28th, 2024 firmware or later which is what we flash to all PicoMEM's. Firmware files can be download here: [ISA-PicoMEM/firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware)
+For Adlib support, you will need the May 28th, 2024 firmware or later which is what we flash to all PicoMEM's. Firmware files can be found and downloaded here: [ISA-PicoMEM/firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware)
 
 This I2S module uses the PCM5102A DAC. Some configuration pins need to be set on the module itself for proper operation.  The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS)
 
@@ -35,7 +34,7 @@ This I2S module uses the PCM5102A DAC. Some configuration pins need to be set on
 {% endif %}
 <hr>
 
-If you ONLY want to purchase this Adlib DAC (Digital to Analog converter) without a PicoMEM, please use this gold add to cart button below which includes postage and packing cost (worldwide) as if purchasing with a PicoMEM the post cost is free.
+If you ONLY want to purchase this Adlib DAC (Digital to Analog converter) without a PicoMEM, please use this "add to cart" button below which includes postage and packing cost (worldwide) as if purchasing with a PicoMEM the post cost is free.
 {% if site.adlib > 0 %}
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
   <input type="hidden" name="cmd" value="_s-xclick" />

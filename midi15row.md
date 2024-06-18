@@ -5,7 +5,7 @@ title: Midi Cable Type A ROW
 cart_itemid: midi15row
 cart_name: "Midi Cable Type A ROW"
 cart_description: "Midi Cable Type A ROW"
-cart_price: 17
+cart_price: 11
 cart_image: "assets/img/midirow.webp"
 cart_image1: "assets/img/midi2.webp"
 tags: 

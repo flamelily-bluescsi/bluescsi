@@ -18,11 +18,11 @@ tags:
 
 {% include carousel2.html %}
 
-This is to add a DAC (Digital to Analog converter) to your PicoMEM. It is I2S / Adlib module that is designed to solder directly into the PicoMEM header pins. If you add this to your cart as well as a PicoMEM, we will solder this to those pins (as shown in the second picture). Freddy is updating support for future sound chips in later updates and this add-on will work for those too.
+This is to add a DAC (Digital to Analog converter) to your PicoMEM. It is an I2S / Adlib module that is designed to solder directly into the PicoMEM header pins. If you add this to your cart as well as a PicoMEM, we will solder this to those pins (as shown in the second picture). Freddy is updating support for future sound chips in later updates and this add-on will work for those too.
 
-For Adlib support, you will need the May 28th, 2024 firmware or later which is what we flash to all PicoMEM's. Firmware files can be found and downloaded here: [ISA-PicoMEM/firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware)
+For Adlib support, you will need the May 28th, 2024 firmware or later which is what we flash to all PicoMEM's. Firmware files can be found and downloaded here: [ISA-PicoMEM/firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware){:target="_blank"}
 
-This I2S module uses the PCM5102A DAC. Some configuration pins need to be set on the module itself for proper operation.  The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS)
+This I2S module uses the PCM5102A DAC. Some configuration pins need to be set on the module itself for proper operation.  The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS){:target="_blank"}
 
 * PCM5102A Digital to Analog Converter
 * Soldered onto your PicoMEM (if purchased with one)

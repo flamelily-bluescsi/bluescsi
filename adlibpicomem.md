@@ -22,7 +22,7 @@ This is to add a DAC (Digital to Analog converter) to your PicoMEM. It is an I2S
 
 For Adlib support, you will need the May 28th, 2024 firmware or later which is what we flash to all PicoMEM's. Firmware files can be found and downloaded here: [ISA-PicoMEM/firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware){:target="_blank"}
 
-This I2S module uses the PCM5102A DAC. Some configuration pins need to be set on the module itself for proper operation.  The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS){:target="_blank"}
+This I2S module uses the PCM5102A DAC. Some configuration pins might need to be set on the module itself for proper operation.  The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS){:target="_blank"}. We check this for you if we solder it to the PicoMEM.
 
 * PCM5102A Digital to Analog Converter
 * Soldered onto your PicoMEM (if purchased with one)

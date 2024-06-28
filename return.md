@@ -6,7 +6,7 @@ title: Return & Warranty Policies
 
 <b><u>Return & Warranty Policies</u></b>
 
-<b>Return Policy</b>
+<b><u>Return Policy</u></b>
 
 All physical products purchased may be returned for full refund (minus initial shipping cost) within 30 days of purchase, under the following conditions:
 
@@ -16,7 +16,7 @@ The customer pays for return shipping, and all return shipping instructions are 
 
 [Contact Us](/contact) to request a return. We will send you shipping return instructions.
 
-<b>Refund Policy</b>
+<b><u>Refund Policy</u></b>
 
 A refund, not to exceed the original purchase price, will be issued when all of the following conditions have been met:
 
@@ -27,7 +27,7 @@ All refunds will be issued via Paypal within 15 days of confirmation that all re
 
 We reserves the right to assess a partial refund or no refund if the returned product does not meet the conditions stated above.
 
-<b>Kit Repair/Return/Refund Policy</b>
+<b><u>Kit Repair/Return/Refund Policy</u></b>
 
 Due to the risks of improper assembly and damage during assembly, kit product sales are final and non-refundable, with the only exceptions being in regard to parts defects.
 
@@ -39,7 +39,7 @@ your unit will be either repaired and returned for free, or you can select one o
 If the problem source cannot be determined, a replacement kit will be offered for the cost of return shipping<br>
 You can opt to a fully assembled unit for the cost difference, plus return shipping
 
-<b>Full Assembled Product Warranty Repair/Return/Refund Policy</b>
+<b><u>Full Assembled Product Warranty Repair/Return/Refund Policy</u></b>
 
 If you believe your fully assembled product is defective, please [contact us](/contact). If a defective product is suspected:
 

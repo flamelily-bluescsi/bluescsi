@@ -125,7 +125,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">3D Prints</h5>
                                     <!-- Product price-->
-                                    From £2.00
+                                    From £3.00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -141,4 +141,12 @@ All our prices <b>include</b> delivery, but please make sure you "Add to Cart" f
 
 Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current stock numbers on this page <a href="/stock">CURRENT STOCK.</a> View our Return/Refund policy <a href="/return">HERE.</a> Please see our page with info about <a href="/print">3D Prints</a>.
 
-We will be increasing our 3D Print options in future so keep checking our print store page. Thanks for visting.
+We will be increasing our 3D Print options in future so keep checking our print store page. Thanks for visting.<br>
+<br>
+        <p class="lead text-center">
+          <a href="https://retro.directory">
+          <img src="//retro.directory/images/b191x98.png"
+          width="191" height="98"
+          alt="We're listed in the retro.directory, take a look">
+          </a>
+        </p>

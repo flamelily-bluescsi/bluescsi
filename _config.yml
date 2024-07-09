@@ -35,12 +35,12 @@ plugins:
 
 icon: "&#128722;"
 db25: 15
-desktop: 21
-powerbook: 8
+desktop: 18
+powerbook: 2
 picogus: 25
 picomem: 29
 adlib: 15
-cpldicy: 4
+cpldicy: 3
 gottago128: 0
 gottago256: 0
 rgb2hdmi: 6

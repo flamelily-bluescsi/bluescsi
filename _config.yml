@@ -34,16 +34,16 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 16
-desktop: 17
+db25: 15
+desktop: 16
 powerbook: 2
 picogus: 25
 picomem: 29
-adlib: 15
+adlib: 14
 cpldicy: 3
 gottago128: 0
 gottago256: 0
-rgb2hdmi: 6
+rgb2hdmi: 5
 bluster: 0
 
 # Exclude from processing.

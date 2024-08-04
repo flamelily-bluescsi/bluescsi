@@ -26,6 +26,7 @@ This I2S module uses the PCM5102A DAC. Some configuration pins might need to be 
 
 * PCM5102A Digital to Analog Converter
 * Soldered onto your PicoMEM (if purchased with one)
+* ONLY for purchase with a PicoMEM (see below &#9207;)
 
 {% if site.adlib > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

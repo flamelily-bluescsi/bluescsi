@@ -35,7 +35,7 @@ This I2S module uses the PCM5102A DAC. Some configuration pins might need to be 
 {% endif %}
 <hr>
 
-If you ONLY want to purchase this Adlib DAC (Digital to Analog converter) without a PicoMEM, please use this "add to cart" button below which includes postage and packing cost (worldwide) as if purchasing with a PicoMEM the post cost is free.
+If you ONLY want to purchase this Adlib DAC (Digital to Analog converter) without a PicoMEM, please use this "add to cart" button below which includes postage and packing cost (worldwide) as if purchasing with a PicoMEM the post cost is free. This is sent untracked.
 {% if site.adlib > 0 %}
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
   <input type="hidden" name="cmd" value="_s-xclick" />

@@ -34,11 +34,11 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 15
+db25: 11
 desktop: 16
 powerbook: 12
 picogus: 25
-picomem: 29
+picomem: 21
 adlib: 14
 cpldicy: 3
 gottago128: 0

@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /picomem
 ---
-######  PicoMEM Products for UK and the Rest of the World - IN STOCK - Price reduced for 1.11 PCB board revision
+######  PicoMEM Products for UK and the Rest of the World - IN STOCK - Price reduced for 1.11 PCB board revision. END of summer SALE
 
 Make sure you choose the <b>UK option ONLY</b> if your delivery address is in the UK. Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email via Paypal.
 

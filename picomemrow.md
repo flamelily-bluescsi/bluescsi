@@ -5,7 +5,7 @@ title: PicoMEM All in One 8-Bit ISA Expansion Card ROW
 cart_itemid: picomemrow
 cart_name: "PicoMEM 8-bit ISA ROW"
 cart_description: "PicoMEM All in One 8-Bit ISA Expansion Card ROW"
-cart_price: 65
+cart_price: 60
 cart_image: "assets/img/picomemfrontrow.webp"
 cart_image1: "assets/img/picomembare.webp"
 tags: 

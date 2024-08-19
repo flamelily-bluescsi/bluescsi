@@ -36,11 +36,11 @@ plugins:
 icon: "&#128722;"
 db25: 11
 desktop: 16
-powerbook: 12
+powerbook: 11
 picogus: 25
 picomem: 20
-adlib: 14
-cpldicy: 3
+adlib: 15
+cpldicy: 2
 gottago128: 0
 gottago256: 0
 rgb2hdmi: 5

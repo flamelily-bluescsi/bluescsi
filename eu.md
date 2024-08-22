@@ -5,6 +5,8 @@ permalink: /eu
 ---
 ###### 🇪🇺🇺🇸 This page is for Buyers from the Rest of the World - Please visit the <a href="/uk">UK Page</a> if buying from the UK 🇺🇸🇪🇺
 
+&#128238; ----- Currently on HOLIDAY so DISPATCH will be delayed to Mon 2nd Sept. ----- &#128238;
+
 {% include regioneu.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'euv1'" %}

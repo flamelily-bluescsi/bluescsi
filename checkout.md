@@ -4,6 +4,7 @@ permalink: /checkout
 title: Checkout
 ---
 
+&#128238; ----- Currently on HOLIDAY so DISPATCH will be delayed to Mon 2nd Sept. ----- &#128238;
 <div id="cartcontent"></div>
 <div id="paypalbutton"></div>
 <script src="/assets/catalog.js"></script>

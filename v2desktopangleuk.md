@@ -22,7 +22,7 @@ This is the NEW board revision (2023.10a) Desktop V2 Full version of the BlueSCS
 * New 2023.10a
 * Right Angle headers
 * Tested and complete
-* Click &#8594; [Add Pico Wifi](/picowifi)
+* Click &#8594; [Add Pico Wifi](/picowifi) [Add Pico 2](/pico2) 
 
 {% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

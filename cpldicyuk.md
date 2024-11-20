@@ -4,7 +4,7 @@ title: CPLDICY Zorro 2 board UK
 cart_itemid: cpldicyuk
 cart_name: "CPLDICY Zorro 2 board UK"
 cart_description: "CPLDICY Zorro 2 I2C controller board - Fully Assembled"
-cart_price: 95
+cart_price: 80
 cart_image: "assets/img/cpldicy.webp"
 cart_image1: "assets/img/cpldicyback.webp"
 tags: 

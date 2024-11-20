@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https//shop.flamelily.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlamelilyIT
 github_username:  flamelily-bluescsi
+lang: en
 
 # Build settings
 # theme: tactile
@@ -34,17 +35,18 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 31
-desktop: 18
-powerbook: 10
-picogus: 10
-picomem: 10
-adlib: 15
+db25: 25
+desktop: 11
+powerbook: 8
+picogus: 2
+picomem: 5
+adlib: 11
 cpldicy: 2
 gottago128: 0
 gottago256: 0
 rgb2hdmi: 4
 bluster: 0
+denise: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -23,7 +23,7 @@ This is the NEW board revision (2023.10a) Desktop V2 Kit version of the BlueSCSI
 * SMD already soldered
 * Right Angle headers
 * Includes pre-flashed Pico
-* Click &#8594; [Add Pico Wifi](/picowifi)
+* Click &#8594; [Add Pico Wifi](/picowifi) [Add Pico 2](/pico2)
 
 {% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

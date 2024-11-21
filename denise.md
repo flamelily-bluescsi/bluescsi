@@ -36,7 +36,7 @@ Please be aware that his is NOT a plug and play product. You are purchasing two 
 
 * SMD components pre soldered
 * Big/ROM selection
-* New Rev 2.2 board
+* Includes 72-pin SIMM PCB
 * Build option available [email us](/contact)
 * PRE-ORDER OPEN (DISPATCH DEC)
 

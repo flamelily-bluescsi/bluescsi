@@ -18,7 +18,6 @@ tags:
 
 {% include carousel4.html %}
 <br>
-##### Pre-order Open - Dispatch will be sometime early December (You can pay now, but please be patient on delivery)
 
 Denise is an re-created Amiga mainboard which is Mini-ITX sized. More info about Denise can be found <a href="https://www.enterlogic.se/?page_id=180" target="_blank">here</a>. The concept is an extremely compatible, stable yet flexible hobbyist Amiga home computer that you build yourself. Which now thanks to the ingenious design based mainly on through hole components is really easy to build. Even if you're not a wizard with a soldering iron! Denise is designed with quality components throughout. From ESD protected I/O ports to high fidelity audio components and crystal clear RGB video. You have to hear and see it to believe it.
 
@@ -34,11 +33,13 @@ We include ALL SMD components pre soldered on the main board PCB! This saves lot
 Important information
 Please be aware that his is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We will offer a build option if you supply a suitible Amiga 500+ motherboard to use for parts. Please use our [contact form here](/contact) to request this option. We are the registered UK reseller for the Denise. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
 
+Add some accessories for Denise, [CF Floppy IO PCB](/cffloppy) or [Purple NIC PCB](/nic) or [GBAP2 Mini IO](/gbap2mini)
+
 * SMD components pre soldered
 * Big/ROM selection
 * Includes 72-pin SIMM PCB
 * Build option available [email us](/contact)
-* PRE-ORDER OPEN (DISPATCH DEC)
+* [IN STOCK](/stock)
 
 {% if site.denise > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

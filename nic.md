@@ -2,7 +2,7 @@
 layout: page
 title: Purple NIC PCB
 permalink: /nic
-cart_itemid: micpcb
+cart_itemid: nicpcb
 cart_name: "Purple NIC PCB for Denise"
 cart_description: "Purple Network card PCB for Denise"
 cart_price: 25

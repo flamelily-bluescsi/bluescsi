@@ -31,7 +31,7 @@ Included in the Kit:<br>
 We include ALL SMD components pre soldered on the main board PCB! This saves lots of time and makes Denise even easier to assemble! Please note that the included SIMM PCB does not have any components pre mounted. You will of course also need to source a set of Amiga ECS chipset custom chips. A battery damaged A500+ is a great source for this. This new PCB batch also has twice the copper of previous boards as well as High-definition Exposure Silkscreen on the new beautiful SIMM.
 
 Important information
-Please be aware that his is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We will offer a build option if you supply a suitible Amiga 500+ motherboard to use for parts. Please use our [contact form here](/contact) to request this option. We are the registered UK reseller for the Denise. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
+Please be aware that his is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We will offer a build option if you supply a suitable Amiga 500+ motherboard to use for parts. Please use our [contact form here](/contact) to request this option. We are the registered UK reseller for the Denise. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
 
 Add some accessories for Denise, [CF Floppy IO PCB](/cffloppy) or [Purple NIC PCB](/nic) or [GBAP2 Mini IO](/gbap2mini)
 

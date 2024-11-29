@@ -47,6 +47,7 @@ gottago256: 0
 rgb2hdmi: 4
 bluster: 0
 denise: 4
+nic: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default.

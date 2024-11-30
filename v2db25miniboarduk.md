@@ -17,9 +17,9 @@ tags:
 
 {% include carousel3.html %}
 
-This is the NEW Board (2024.01a) only version 2 DB25 Mini Kit version of the BlueSCSI for UK buyers. This is usually used externally from the computer. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. The normal hex nuts have been replaced with flat screws so as to allow plugging into the 25 pin socket flush. You will need to supply your own Raspberry Pi Pico!
+This is the Board (2024.01a) only version 2 DB25 Mini Kit version of the BlueSCSI for UK buyers. This is usually used externally from the computer. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. The normal hex nuts have been replaced with screws so as to allow plugging into the 25 pin socket flush. You will need to supply your own Raspberry Pi Pico!
 
-* New Mini Version (2024.01a) (No Pico supplied)
+* Mini PCB Version (2024.01a) (No Pico supplied)
 * SMD already soldered
 * Hex nuts replaced with screws
 * Always on termination (no termination jumper)

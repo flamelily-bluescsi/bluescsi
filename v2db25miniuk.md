@@ -17,9 +17,9 @@ tags:
 
 {% include carousel3.html %}
 
-This is the NEW version (2024.01a) DB25 Mini Full version of the BlueSCSI for UK buyers. This is usually used externally from the computer. This is a complete and tested device. The normal hex nuts have been replaced with flat screws so as to allow plugging into the 25 pin socket flush.
+This is version (2024.01a) of the BlueSCSI DB25 Mini for UK buyers. This is usually used externally from the computer. This is a complete and tested device. The normal hex nuts have been replaced with screws so as to allow plugging into the 25 pin socket flush.
 
-* New Mini Version 2
+* Mini Version 2
 * Tested and complete
 * Hex nuts replaced with screws
 * Always on termination (no termination jumper)

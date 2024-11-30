@@ -17,9 +17,9 @@ tags:
 
 {% include carousel2.html %}
 
-This is the NEW board revision (2023.10a) Desktop V2 Board Only Kit version of the BlueSCSI for 🇪🇺 EU buyers. This has the right angle header and molex. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. You will need to supply your own Raspberry Pi Pico!
+This is version (2023.10a) of the BlueSCSI V2 Desktop Board Only Kit for 🇪🇺 EU buyers. This has the right angle header and molex. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. You will need to supply your own Raspberry Pi Pico!
 
-* New 2023.10a
+* PCB version 2023.10a
 * SMD already soldered
 * Right Angle headers
 * No Pico supplied

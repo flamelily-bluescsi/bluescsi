@@ -106,7 +106,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">PicoMEM Products</h5>
                                     <!-- Product price-->
-                                    From £55.00
+                                    From £48.00
                                 </div>
                             </div>
                             <!-- Product actions-->

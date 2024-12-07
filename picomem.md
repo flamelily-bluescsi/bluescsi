@@ -29,7 +29,7 @@ While the PicoMEM is in an advanced and functioning state, please understand it 
 
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'pmrow'" %}
-<u>🇪🇺🌍 PicoMEM Products for the Rest of the World 🇪🇺🌍</u>
+<u>🌍 PicoMEM Products for the Rest of the World 🌍</u>
 <div class="container">
 <div class="row">
 	{% for page in cat_items %}

@@ -12,7 +12,7 @@ tags:
   - pmrow
 ---
 
-##### 🇪🇺🌍 PicoMEM All in One 8-Bit ISA Expansion Card ROW 🇪🇺🌍
+##### 🌍 PicoMEM All in One 8-Bit ISA Expansion Card ROW 🌍
 
 {% include carousel2.html %}
 

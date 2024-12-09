@@ -36,10 +36,10 @@ plugins:
 
 icon: "&#128722;"
 db25: 25
-desktop: 11
+desktop: 19
 powerbook: 8
-picogus: 0
-picomem: 25
+picogus: 15
+picomem: 21
 adlib: 11
 cpldicy: 2
 gottago128: 0

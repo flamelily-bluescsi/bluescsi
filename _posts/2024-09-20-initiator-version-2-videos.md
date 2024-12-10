@@ -17,3 +17,5 @@ Dev Kit Mysteries - Exploring a 1988 #Atari Mega ST<br>
 [https://youtu.be/kEYqpvXdpec](https://youtu.be/kEYqpvXdpec)<br>
 Dumping the contents of SCSI devices using BlueSCSI V2 (Initiator Mode)<br>
 [https://youtu.be/7EVAWWsaBUg](https://youtu.be/7EVAWWsaBUg)<br>
+Unveiling the Ultimate Disk Imaging Trick!<br>
+[https://youtu.be/Vw9inIMJZMY](https://youtu.be/Vw9inIMJZMY)

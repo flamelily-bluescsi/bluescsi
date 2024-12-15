@@ -5,7 +5,7 @@ permalink: /pico2w
 cart_itemid: pico2w
 cart_name: "BlueSCSI V2 Pico 2 W Upgrade"
 cart_description: "BlueSCSI Pico 2 W for V2"
-cart_price: 5
+cart_price: 6
 cart_image: "assets/img/pico2w.webp"
 cart_image1: "assets/img/pico2w1.webp"
 tags: 

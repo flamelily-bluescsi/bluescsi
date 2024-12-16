@@ -35,12 +35,12 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 25
+db25: 22
 desktop: 19
 powerbook: 8
-picogus: 15
+picogus: 14
 picomem: 21
-adlib: 11
+adlib: 5
 cpldicy: 2
 gottago128: 0
 gottago256: 0

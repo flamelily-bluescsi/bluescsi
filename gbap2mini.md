@@ -24,4 +24,8 @@ This is not ready for plug & play! It is a bare PCB. This is a breakout PCB for 
 * IO Board for mini-GBAP2++ PCB
 * No components or connectors included
 
+{% if site.gbap2mini > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+{% include outofstock.md %}
+{% endif %}

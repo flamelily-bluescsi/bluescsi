@@ -48,6 +48,7 @@ rgb2hdmi: 4
 bluster: 0
 denise: 3
 nic: 1
+gbap2mini: 4
 
 # Exclude from processing.
 # The following items will not be processed, by default.

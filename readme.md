@@ -2,7 +2,7 @@
 
  This is a simple eCommerce platform with PayPal as a payment gateway.
 
-#### [See it in action!](https://bluescsi.flamelily.co.uk)
+#### [See it in action!](https://shop.flamelily.co.uk)
 
 ## Product Pages
 

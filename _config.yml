@@ -37,7 +37,7 @@ plugins:
 icon: "&#128722;"
 db25: 22
 desktop: 19
-powerbook: 8
+powerbook: 7
 picogus: 14
 picomem: 21
 adlib: 5
@@ -46,8 +46,8 @@ gottago128: 0
 gottago256: 0
 rgb2hdmi: 4
 bluster: 0
-denise: 4
-nic: 2
+denise: 3
+nic: 1
 
 # Exclude from processing.
 # The following items will not be processed, by default.

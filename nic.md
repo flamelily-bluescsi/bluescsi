@@ -25,6 +25,8 @@ This is not ready for plug & play! It is a bare PCB, with a MACH111 CPLD and Fla
 * MACH111 CPLD and Flash IC included
 * No extra components or connectors included
 
+&#128221; STOCK COUNT: {{site.nic}}
+
 {% if site.nic > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}

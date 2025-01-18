@@ -25,4 +25,8 @@ This is to purchase a new Pico 2 (with a BlueSCSI of course) rather than the nor
 * BETA Firmware will be pre-flashed
 * No wifi with this option. Need Pico 2 Wifi go [here](/pico2w)
 
+{% if site.pico2 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+{% include outofstock.md %}
+{% endif %}

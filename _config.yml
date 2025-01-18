@@ -35,12 +35,12 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
-db25: 22
-desktop: 19
-powerbook: 7
+db25: 16
+desktop: 17
+powerbook: 9
 picogus: 14
-picomem: 21
-adlib: 5
+picomem: 8
+adlib: 7
 cpldicy: 2
 gottago128: 0
 gottago256: 0
@@ -49,6 +49,8 @@ bluster: 0
 denise: 3
 nic: 1
 gbap2mini: 4
+pico2: 3
+pico2w: 3
 
 # Exclude from processing.
 # The following items will not be processed, by default.

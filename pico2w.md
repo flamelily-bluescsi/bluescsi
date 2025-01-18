@@ -24,4 +24,8 @@ This is to purchase a new Pico 2 W (with a BlueSCSI of course) rather than the n
 * ONLY purchase with a BlueSCSI V2 fully assembled or kit
 * BETA Firmware will be pre-flashed
 
+{% if site.pico2w > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+{% include outofstock.md %}
+{% endif %}

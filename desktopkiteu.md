@@ -4,7 +4,7 @@ title: EU Desktop Kit
 cart_itemid: eudesktopkit
 cart_name: "BlueSCSI Kit EU"
 cart_description: "BlueSCSI Desktop Kit EU/Rest of world"
-cart_price: 50
+cart_price: 46
 cart_image: "assets/img/V1BlueSCSIkit.webp"
 cart_image1: "assets/img/V1BlueSCSIkit1.webp"
 tags: 
@@ -21,6 +21,8 @@ This is the Desktop Kit version of the V1 BlueSCSI for EU/Rest of the World buye
 
 * Version 1.1 PCB
 * SD card socket soldered
-* Works better with Vintage Mac's 
+* Works best with SCSI I devices (use V2 for better compatibility)
+
+&#128221; STOCK COUNT: {{site.bsv1}}
 
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

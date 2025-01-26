@@ -35,6 +35,7 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
+bsv1: 8
 db25: 16
 desktop: 17
 powerbook: 9

@@ -8,7 +8,7 @@ permalink: /eu
 {% include regioneu.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'euv1'" %}
-##### 🇪🇺🇺🇸 Version 1 - Bluepill 🇺🇸🇪🇺
+##### 🇪🇺🇺🇸 Version 1 - Bluepill (Kits only - Once stock is sold we will remove) 🇺🇸🇪🇺
 
 <div class="container">
 <div class="row">

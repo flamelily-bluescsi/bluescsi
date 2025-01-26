@@ -13,9 +13,7 @@ tags:
 
 ##### 🇬🇧 CF Floppy IO PCB for Denise 🇬🇧
 
-  <p class="lead text-center">
-    <img src="{{page.cart_image}}" class="img-thumbnail" alt="{{page.cart_description}}">
-  </p>
+{% include carousel1.html %}
 
 This is to purchase a CF Floppy IO PCB for Denise. Add this to your Denise order for a nice Compact Flash + Floppy optional IO PCB. You will need to source everything as this is the PCB only. You will get an email with BOM details after dispatch.
 

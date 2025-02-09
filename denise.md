@@ -4,8 +4,8 @@ title: Amiga Denise PCB Kit - NEW
 permalink: /denise
 cart_itemid: deniseuk
 cart_name: "Amiga Denise PCB Kit - NEW"
-cart_description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga - Pre-order now for delivery in December"
-cart_price: 115
+cart_description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga"
+cart_price: 120
 cart_image: "assets/img/denise1.webp"
 cart_image1: "assets/img/denise2.webp"
 cart_image2: "assets/img/denise3.webp"

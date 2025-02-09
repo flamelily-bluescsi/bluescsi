@@ -6,7 +6,7 @@ cart_itemid: deniseassembleduk
 cart_name: "Amiga Denise Fully Assembled - NEW"
 cart_description: "Amiga Denise Fully Assembled - Mini-ITX sized Amiga"
 cart_price: 470
-cart_image: "assets/img/denise-built.webp"
+cart_image: "assets/img/Denise-built.webp"
 tags: 
   - amiga
 ---

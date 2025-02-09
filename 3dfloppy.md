@@ -5,7 +5,7 @@ title: 3D Desktop Mount V2 (Floppy)
 cart_itemid: v23dprintdesktopfloppy
 cart_name: "Desktop Mount V2 (Floppy)"
 cart_description: "BlueSCSI Desktop Mount 3D Print V2 (Floppy)"
-cart_price: 10
+cart_price: 12
 cart_image: "assets/img/3dfloppy1.webp"
 cart_image1: "assets/img/3dfloppy2.webp"
 cart_image2: "assets/img/3dfloppy3.webp"

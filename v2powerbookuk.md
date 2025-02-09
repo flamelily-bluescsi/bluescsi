@@ -21,7 +21,7 @@ This is the NEW version 2 Powerbook Full version of the BlueSCSI for UK buyers. 
 * New Version 2
 * Fully tested on a PB 165C
 * Tested and complete
-* Click &#8594; [Add Pico Wifi](/picowifi) [Add Pico 2](/pico2)
+* Click &#8594; [Add Pico Wifi](/picowifi) [Add Pico 2](/pico2) [Add Pico 2 W](/pico2w)
 
 {% if site.powerbook > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

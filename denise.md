@@ -33,12 +33,12 @@ We include ALL SMD components pre soldered on the main board PCB! This saves lot
 Important information
 Please be aware that his is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We will offer a build option if you supply a suitable Amiga 500+ motherboard to use for parts. Please use our [contact form here](/contact) to request this option. We are the registered UK reseller for the Denise. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
 
-Add some accessories for Denise, [CF Floppy IO PCB](/cffloppy) or [Purple NIC PCB](/nic) or [GBAP2 Mini IO](/gbap2mini)
+Add some accessories for Denise, [CF Floppy IO PCB](/cffloppy) or [Purple NIC PCB](/nic)
 
 * SMD components pre soldered
 * Big/ROM selection
 * Includes 72-pin SIMM PCB
-* Build option available [email us](/contact)
+* Build option available [email us](/contact) or [buy](/deniseassembled)
 
 {% if site.denise > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

@@ -28,7 +28,7 @@ Included in the Fully Assembled version:<br>
 This item is lovingly built by our builder in-house, and has taken many hours of careful soldering! The included SIMM PCB does have all components soldered and is fully tested. You will of course need to source a set of Amiga ECS chipset custom chips and Kickstart ROM. A battery damaged A500+ is a great source for this. This PCB has twice the copper of previous boards as well as High-definition Exposure Silkscreen on the new beautiful SIMM.
 
 Important information: 
-Please be aware that this is tested by us, but no support is offered when using your own chipset as we cannot verify these components ourselves. We are the registered UK reseller for the Denise. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
+Please be aware that this is tested by us, but no support is offered when using your own chipset as we cannot verify these components ourselves. We are the <b>registered UK reseller</b> for the Denise, and the project maintainer will get a commission for every Denise we sell. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
 
 Add some accessories for Denise, [CF Floppy IO PCB](/cffloppy) or [Purple NIC PCB](/nic)
 

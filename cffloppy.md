@@ -20,4 +20,10 @@ This is to purchase a CF Floppy IO PCB for Denise. Add this to your Denise order
 * Compact Flash and Floppy breakout PCB
 * No components or connectors included
 
+&#128221; STOCK COUNT: {{site.cffloppy}}
+
+{% if site.cffloppy > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+{% include outofstock.md %}
+{% endif %}

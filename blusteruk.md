@@ -21,6 +21,8 @@ This is an Amiga A2000 Buster replacement called the Bluster. More info about Bl
 * CPLD pre-programmed
 * Rev C board
 
+&#128221; STOCK COUNT: {{site.bluster}}
+
 {% if site.bluster > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}

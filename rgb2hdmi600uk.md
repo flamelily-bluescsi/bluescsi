@@ -23,6 +23,8 @@ This is a kit version of the RGB2HDMI for Amiga A600 for use with Amiga retro co
 * Supply your own Raspberry Pi Zero
 * SD card supplied with software loaded
 
+&#128221; STOCK COUNT: {{site.rgb2hdmi}}
+
 {% if site.rgb2hdmi > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}

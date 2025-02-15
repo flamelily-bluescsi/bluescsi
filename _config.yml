@@ -47,10 +47,11 @@ gottago128: 0
 gottago256: 0
 rgb2hdmi: 4
 bluster: 0
-denise: 1
+denise: 8
 deniseassembled: 1
-nic: 0
-gbap2mini: 3
+nic: 10
+cffloppy: 11
+gbap2mini: 4
 pico2: 3
 pico2w: 3
 

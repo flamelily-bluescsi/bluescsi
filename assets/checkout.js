@@ -23,8 +23,8 @@ if( Object.keys( cart ).length != 0 ) {
     console.log( total );
   }
   
-  if( totals[ 'EU' ] >= 2 ) { discount_percentage = 8; }
-  if( totals[ 'UK' ] >= 2 ) { discount_percentage = 4; }
+  if( totals[ 'EU' ] >= 2 ) { discount_percentage = 5; }
+  if( totals[ 'UK' ] >= 2 ) { discount_percentage = 2; }
   
   console.log( totals );
   

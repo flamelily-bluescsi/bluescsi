@@ -12,6 +12,7 @@ cart_image2: "assets/img/denise3.webp"
 cart_image3: "assets/img/denise4.webp"
 tags: 
   - amiga
+  - uk
 ---
 
 ##### 🇬🇧 Amiga Denise PCB Kit 🇬🇧

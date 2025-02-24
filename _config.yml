@@ -36,12 +36,12 @@ plugins:
 
 icon: "&#128722;"
 bsv1: 8
-db25: 16
-desktop: 17
-powerbook: 9
+db25: 9
+desktop: 7
+powerbook: 8
 picogus: 14
-picomem: 8
-adlib: 7
+picomem: 4
+adlib: 6
 cpldicy: 2
 gottago128: 0
 gottago256: 0

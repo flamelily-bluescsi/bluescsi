@@ -7,13 +7,13 @@ cart_name: "BlueSCSI V2 Pico 2 W Upgrade"
 cart_description: "BlueSCSI Pico 2 W for V2"
 cart_price: 6
 cart_image: "assets/img/pico2w.webp"
-cart_image1: "assets/img/pico2w1.webp"
+cart_image1: "assets/img/BSV2-pico2w.webp"
 tags: 
   - scsi
   - v2
 ---
 
-##### 🇬🇧🇪🇺🇺🇸 BlueSCSI Pico 2 W Upgrade - BETA Firmware 🇬🇧🇪🇺🇺🇸
+##### 🇬🇧🇪🇺🇺🇸 BlueSCSI Pico 2 W Upgrade - Universal Firmware 🇬🇧🇪🇺🇺🇸
 
 {% include carousel2.html %}
 

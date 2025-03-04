@@ -13,7 +13,7 @@ tags:
   - v2
 ---
 
-##### 🇬🇧🇪🇺🇺🇸 BlueSCSI Pico 2 Upgrade - BETA Firmware 🇬🇧🇪🇺🇺🇸
+##### 🇬🇧🇪🇺🇺🇸 BlueSCSI Pico 2 Upgrade - Universal Firmware 🇬🇧🇪🇺🇺🇸
 
 {% include carousel2.html %}
 

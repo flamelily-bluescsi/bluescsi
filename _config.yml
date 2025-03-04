@@ -37,10 +37,10 @@ plugins:
 icon: "&#128722;"
 bsv1: 8
 db25: 9
-desktop: 7
+desktop: 26
 powerbook: 8
 picogus: 14
-picomem: 4
+picomem: 3
 adlib: 6
 cpldicy: 2
 gottago128: 0

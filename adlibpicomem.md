@@ -14,7 +14,7 @@ tags:
   - adlib
 ---
 
-##### AdLib Module for the PicoMEM ISA Expansion Card
+##### AdLib Module for the PicoMEM Card
 
 {% include carousel2.html %}
 
@@ -22,7 +22,7 @@ This is to add a DAC (Digital to Analog converter) to your PicoMEM. It is an I2S
 
 For Adlib support, you will need the May 28th, 2024 firmware or later. Latest is Oct 5th 2024. Firmware files can be found and downloaded here: [ISA-PicoMEM/firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware){:target="_blank"}
 
-This I2S module uses the PCM5102A DAC. Some configuration pins might need to be set on the module itself for proper operation.  The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS){:target="_blank"}. We check this for you if we solder it to the PicoMEM.
+This I2S module uses the PCM5102A DAC. Some configuration pins might need to be set on the module itself for proper operation. The instructions for the PicoGUS show a diagram of how these need to be set [here](https://github.com/polpo/picogus/wiki/Building-your-PicoGUS){:target="_blank"}. We check this for you if we solder it to the PicoMEM.
 
 * PCM5102A Digital to Analog Converter
 * Soldered onto your PicoMEM (if purchased with one)
@@ -35,7 +35,7 @@ This I2S module uses the PCM5102A DAC. Some configuration pins might need to be 
 {% endif %}
 <hr>
 
-If you ONLY want to purchase this Adlib DAC (Digital to Analog converter) without a PicoMEM, please use this "add to cart" button below which includes postage and packing cost (worldwide) as if purchasing with a PicoMEM the post cost is free. This is sent standard international post without tracking.
+If you ONLY want to purchase this Adlib DAC (Digital to Analog converter) without a PicoMEM, please use this "add to cart" button below which includes postage and packing cost (Worldwide) as if purchasing with a PicoMEM the post cost is free. This is sent standard international post without tracking.
 {% if site.adlib > 0 %}
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
   <input type="hidden" name="cmd" value="_s-xclick" />

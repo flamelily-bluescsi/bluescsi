@@ -26,6 +26,8 @@ An ISA sound card emulator, powered by a Raspberry Pi Pico. PicoGUS can emulate 
 
 Price includes shipping costs. Please visit the <a href="/picogusuk">UK Page</a> if buying from the UK
 
+&#128221; STOCK COUNT: {{site.picogus}}
+
 {% if site.picogus > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}

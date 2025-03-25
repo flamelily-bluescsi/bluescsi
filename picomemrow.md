@@ -21,7 +21,7 @@ The PicoMEM is an 8-bit ISA expansion card based on the Raspberry Pi Pico microc
 * NE2000 Network Support emulation
 * Built-in MicroSD card reader
 * USB Mouse & Joystick Support
-* Latest Rev 1.14 PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
+* Latest Rev 1.14 PCB now with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
 * Pico W pre-flashed with latest firmware
 * This does NOT include the audio add-on. Add an adLib audio board [here](/adlibpicomem)
 

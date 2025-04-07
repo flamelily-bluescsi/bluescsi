@@ -3,8 +3,13 @@ layout: default
 note: true
 permalink: /picogus
 ---
-######  PicoGUS Products for UK and the Rest of the World
+######  PicoGUS Products for UK and the Rest of the World 
 
+<hr>
+
+###### We are on &#128747; HOLIDAY &#128748; from 23rd April - 9th May so DISPATCH will be delayed within these dates. Please be patient.
+
+<hr>
 Please click on the Title or image of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from these product pages. Make sure you choose the <b>UK option ONLY</b> if your delivery address is in the UK. Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email via Paypal. We are a registered distributor for the [PicoGUS](https://picog.us/){:target="_blank"}, and the project creator will get a share of every purchase.
 
 To prepare your DOS computer for using the V2 PicoGUS, Please see the PicoGUS [GitHub](https://github.com/polpo/picogus){:target="_blank"} project and [compatibility list](https://github.com/polpo/picogus/wiki/Compatibility-list){:target="_blank"} for more information. On that page you will find information on the PicoGUS and what computer systems, games, tracker, music players and demos it is compatible with.

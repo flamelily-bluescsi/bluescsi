@@ -6,6 +6,12 @@ permalink: /uk
 
 ###### 🇬🇧 This page is for UK Buyers ONLY - Please visit the <a href="/eu">EU Page</a> if buying from outside the UK 🇬🇧
 
+<hr>
+
+###### We are on &#128747; HOLIDAY &#128748; from 23rd April - 9th May so DISPATCH will be delayed within these dates. Please be patient.
+
+<hr>
+
 {% include region.md %}
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'ukv1'" %}

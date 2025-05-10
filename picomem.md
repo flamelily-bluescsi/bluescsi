@@ -5,12 +5,6 @@ permalink: /picomem
 ---
 ######  PicoMEM Products for UK and the Rest of the World - IN STOCK
 
-<hr>
-
-###### We are on &#128747; HOLIDAY &#128748; from 23rd April - 9th May so DISPATCH will be delayed within these dates. Please be patient.
-
-<hr>
-
 Make sure you choose the <b>UK option ONLY</b> if your delivery address is in the UK. Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email via Paypal.
 
 We are now a registered distributor for the [PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM){:target="_blank"}, and the project creator (Freddy Vetele) will get a share of every purchase.

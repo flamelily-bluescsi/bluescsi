@@ -21,4 +21,6 @@ This is Zorro 2 board to provide an I2C controller for your Amiga. More info can
 * PWM fan controller
 * temperature/voltage monitor
 
+&#128221; STOCK COUNT: {{site.cpldicy}}
+
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

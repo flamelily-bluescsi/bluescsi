@@ -22,6 +22,8 @@ This is an Autoconfig Fast RAM Amiga 3000 or Amiga 4000 Zorro 3 upgrade card, mo
 * Gold Fingers
 * 45°finger chamfered
 
+&#128221; STOCK COUNT: {{site.gottago256}}
+
 {% if site.gottago256 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
 {% else %}

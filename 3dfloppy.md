@@ -18,7 +18,7 @@ tags:
 
 {% include carousel3.html %}
 
-Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is another option for the V2 Desktop, which is a lovely solid mounting bracket to fit in a 3.5 inch floppy drive bay. For Desktop PCB board revision 2023.10a ONLY.
+Please view [3D Print Information Page](/print) for purchasing 3D prints separately. This is to purchase 3D prints when purchasing a BlueSCSI device at the same time as postage is included. This is another option for the V2 Desktop, which is a lovely solid mounting bracket to fit in a 3.5 inch floppy drive bay. For Desktop PCB board revision 2023.10a ONLY. Print your own via the creator's Thingyverse page [here.](https://www.thingiverse.com/ellsworthbeast/designs){:target="_blank"}
 
 * 3D PLA print (fossil grey/blue)
 * Solid mount, for 2023.10a revision

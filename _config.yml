@@ -36,9 +36,9 @@ plugins:
 
 icon: "&#128722;"
 bsv1: 5
-db25: 15
-desktop: 21
-powerbook: 5
+db25: 8
+desktop: 16
+powerbook: 2
 picogus: 17
 picomem: 14
 adlib: 9
@@ -47,11 +47,11 @@ gottago128: 0
 gottago256: 0
 rgb2hdmi: 0
 bluster: 0
-denise: 3
+denise: 2
 deniseassembled: 1
 nic: 10
 cffloppy: 9
-gbap2mini: 4
+gbap2mini: 1
 pico2: 3
 pico2w: 3
 

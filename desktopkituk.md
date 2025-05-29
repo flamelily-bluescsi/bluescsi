@@ -17,7 +17,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is the Desktop Kit version of the V1 BlueSCSI for UK buyers. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The micro SD socket is pre-soldered to the PCB so only through hole soldering is required. View build instructions [HERE](https://shop.flamelily.co.uk/assets/pdfs/BlueSCSI_assembly.pdf)
+This is the Desktop Kit version of the V1 BlueSCSI for UK buyers. Some soldering will be required to complete this device. The micro SD socket is pre-soldered to the PCB so only through hole soldering is required. View build instructions [HERE](https://shop.flamelily.co.uk/assets/pdfs/BlueSCSI_assembly.pdf)
 
 * Version 1.1 PCB
 * SD card socket soldered

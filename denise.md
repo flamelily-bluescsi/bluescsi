@@ -39,7 +39,7 @@ Add some accessories for Denise, [CF Floppy IO PCB](/cffloppy) or [Purple NIC PC
 * SMD components pre soldered
 * Big/ROM selection
 * Includes 72-pin SIMM PCB
-* Build option available [email us](/contact) or [buy](/deniseassembled)
+* Build option available [email us](/contact)
 
 &#128221; STOCK COUNT: {{site.denise}}
 

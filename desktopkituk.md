@@ -22,6 +22,7 @@ This is the Desktop Kit version of the V1 BlueSCSI for UK buyers. Some soldering
 * Version 1.1 PCB
 * SD card socket soldered
 * Works best with SCSI I devices (use V2 for better compatibility)
+* Once this stock is sold this page will be removed
 
 &#128221; STOCK COUNT: {{site.bsv1}}
 

@@ -23,7 +23,7 @@ This is the Board (2024.01a) only version 2 DB25 Mini Kit version of the BlueSCS
 * SMD already soldered
 * Hex nuts replaced with screws
 * Always on termination (no termination jumper)
-* Cannot order Pico Wifi upgrade with this
+* Cannot order any Pico upgrade with this
 
 {% if site.db25 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

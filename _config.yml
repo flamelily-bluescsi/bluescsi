@@ -41,7 +41,7 @@ desktop: 26
 powerbook: 19
 picogus: 9
 picomem: 3
-adlib: 7
+adlib: 6
 gottago128: 0
 gottago256: 0
 rgb2hdmi: 0
@@ -50,7 +50,7 @@ denise: 0
 deniseassembled: 0
 nic: 10
 assemblednic: 1
-cffloppy: 9
+cffloppy: 5
 gbap2mini: 1
 pico2: 3
 pico2w: 3

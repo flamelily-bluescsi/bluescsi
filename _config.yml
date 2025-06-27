@@ -39,9 +39,9 @@ bsv1: 5
 db25: 23
 desktop: 26
 powerbook: 19
-picogus: 9
-picomem: 3
-adlib: 6
+picogus: 10
+picomem: 22
+adlib: 5
 gottago128: 0
 gottago256: 0
 rgb2hdmi: 0

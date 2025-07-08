@@ -41,7 +41,7 @@ Add some accessories for Denise, [CF Floppy IO PCB](/cffloppy) or [Purple NIC PC
 * Includes 72-pin SIMM PCB
 * Build option available [email us](/contact)
 
-&#128221; STOCK COUNT: {{site.denise}}
+&#128221; STOCK COUNT: {{site.denise}} - Restock end of August 2025
 
 {% if site.denise > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

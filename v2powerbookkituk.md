@@ -16,12 +16,12 @@ tags:
 
 {% include carousel2.html %}
 
-This is the NEW version 2 Powerbook Kit version of the BlueSCSI for UK buyers. This has connector for Mac Powerbooks and some soldering will be required. This is kit version NOT a complete and tested device.
+This is the version 2 Powerbook Kit version of the BlueSCSI for UK buyers. This has connector for Mac Powerbooks and some soldering will be required. This is kit version NOT a complete and tested device.
 
-* New Version with Pico W (wifi)
+* New Version with Pico 2
 * Kit version with all parts
 * Soldering required
-* Click &#8594; [Add Pico 2](/pico2) [Add Pico 2 W](/pico2w)
+* NO WIFI - Click &#8594; [Add Pico 2 Wifi](/pico2w)
 
 {% if site.powerbook > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

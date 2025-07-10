@@ -22,7 +22,7 @@ This is version (2023.10a) of the BlueSCSI V2 Desktop for EU buyers. This has a 
 * Latest PCB revision 2023.10a
 * Right Angle headers
 * Tested and complete
-* Click &#8594; [Add Pico 2](/pico2) [Add Pico 2 W](/pico2w)
+* NO WIFI - Click &#8594; [Add Pico Wifi](/picow) [Add Pico 2](/pico2) [Add Pico 2 Wifi](/pico2w)
 
 {% if site.desktop > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

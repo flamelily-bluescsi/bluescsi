@@ -19,11 +19,11 @@ tags:
 
 This is version (2024.01a) of the BlueSCSI DB25 Mini Kit for EU buyers. This is usually used externally from the computer. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. The normal hex nuts have been replaced with screws so as to allow plugging into the 25 pin socket flush.
 
-* Mini Version with Pico W (wifi)
+* Mini Version with Pico 2
 * SMD already soldered
 * Hex nuts replaced with screws
 * Always on termination (no termination jumper)
-* Click &#8594; [Add Pico 2](/pico2) [Add Pico 2 W](/pico2w)
+* Click &#8594; [Add Pico 2 W](/pico2w)
 
 {% if site.db25 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

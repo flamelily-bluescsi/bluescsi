@@ -23,7 +23,7 @@ This is version (2024.01a) of the BlueSCSI DB25 Mini for UK buyers. This is usua
 * Tested and complete
 * Hex nuts replaced with screws
 * Always on termination (no termination jumper)
-* Click &#8594; [Add Pico 2 W](/pico2w)
+* NO WIFI - Click &#8594; [Add Pico 2 W](/pico2w)
 
 {% if site.db25 > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

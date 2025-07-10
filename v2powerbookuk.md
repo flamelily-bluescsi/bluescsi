@@ -18,10 +18,9 @@ tags:
 
 This is the NEW version 2 Powerbook Full version of the BlueSCSI for UK buyers. This has a slim SCSI connector for Mac Powerbooks. This is a complete and tested device.
 
-* New Version with Pico 2
-* Fully tested on a PB 165C
-* Tested and complete
-* NO WIFI - Click &#8594; [Add Pico 2 Wifi](/pico2w)
+* New Version with castellated pins for soldering Pico
+* Fully tested
+* NO WIFI - Click &#8594; [Add Pico Wifi](/picow)
 
 {% if site.powerbook > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

@@ -14,7 +14,7 @@ tags:
   - amiga
 ---
 
-##### 🇬🇧 Powershark UK 🇬🇧
+##### 🇬🇧 Powershark USB-C power supply UK 🇬🇧
 
 {% include carousel4.html %}
 
@@ -25,3 +25,4 @@ The PowerShark is a compact, efficient USB-C power adapter designed for Amiga co
 * Efficient USB-C power
 * for Amiga computers (A500, A600, A1200)
 * Power protection features
+* NO cable or USB adapter supplied 

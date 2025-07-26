@@ -6,15 +6,17 @@ cart_itemid: powersharkuk
 cart_name: "Powershark UK"
 cart_description: "Powershark - Fully Assembled"
 cart_price: 90
-cart_image: "assets/img/powershark.webp"
-cart_image1: "assets/img/powershark1.webp"
+cart_image: "assets/img/powershark1.webp"
+cart_image1: "assets/img/powershark2.webp"
+cart_image2: "assets/img/powershark3.webp"
+cart_image3: "assets/img/powershark4.webp"
 tags: 
   - amiga
 ---
 
 ##### 🇬🇧 Powershark UK 🇬🇧
 
-{% include carousel2.html %}
+{% include carousel4.html %}
 
 ### -- COMING SOON --
 

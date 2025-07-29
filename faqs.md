@@ -19,7 +19,7 @@ Q: Can I order without a Paypal account?<br>
 A: Yes of course, just use the Debit/Credit Card option on the checkout page. Paypal will still be the payment proccessor, but you don't need to setup an account.
 
 Q: Can I track my parcel once shipped?<br>
-A: You will receive a tracking number via an email that is sent from Paypal. This number with also show within Paypal under the transaction. Use this on the Royal Mail tracking page [here](https://www.royalmail.com/track-your-item#/)
+A: You will receive a tracking number via an email that is sent from Paypal. This number with also show within Paypal under the transaction. Use this on the Royal Mail tracking page [here](https://www.royalmail.com/track-your-item#/). We also now send a basic text email with link when dispatched.
 
 Q: What if I order multiple items, will I be charged extra for shipping?<br>
 A: No, you will recieve a "Shipping Discount" which will show on the checkout page. Multiple 3D prints don't get a shipping discount as these are for order with another item and don't have shipping costs added to their price.

@@ -9,6 +9,8 @@ Please click on the Title or image of each item to view more information about i
 
 To prepare your DOS computer for using the V2 PicoGUS, Please see the PicoGUS [GitHub](https://github.com/polpo/picogus){:target="_blank"} project and [compatibility list](https://github.com/polpo/picogus/wiki/Compatibility-list){:target="_blank"} for more information. On that page you will find information on the PicoGUS and what computer systems, games, tracker, music players and demos it is compatible with.
 
+PicoGUS now support CD-ROM emulation, see the [Wiki](https://github.com/polpo/picogus/wiki/CD%E2%80%90ROM-Emulation){:target="_blank"} for more info.
+
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'pguk'" %}
 <u>🇬🇧 PicoGUS V2 Products for the UK 🇬🇧</u>
 

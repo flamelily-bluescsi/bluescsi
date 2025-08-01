@@ -5,7 +5,7 @@ permalink: /assemblednic
 cart_itemid: assemblednic
 cart_name: "Black Assembled NIC for Denise"
 cart_description: "Fully Assembed Black Network card for Denise"
-cart_price: 95
+cart_price: 90
 cart_image: "assets/img/gbmini-black.webp"
 tags: 
   - amiga

@@ -40,7 +40,7 @@ db25: 23
 desktop: 19
 powerbook: 15
 picogus: 0
-picomem: 17
+picomem: 16
 adlib: 8
 gottago128: 0
 gottago256: 0
@@ -54,7 +54,7 @@ cffloppy: 5
 gbap2mini: 0
 pico2: 3
 pico2w: 3
-powershark: 24
+powershark: 20
 
 # Exclude from processing.
 # The following items will not be processed, by default.

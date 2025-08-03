@@ -3,15 +3,15 @@ layout: page
 title: Assembled NIC
 permalink: /assemblednic
 cart_itemid: assemblednic
-cart_name: "Black Assembled NIC for Denise"
-cart_description: "Fully Assembed Black Network card for Denise"
+cart_name: "Purple Assembled NIC for Denise"
+cart_description: "Fully Assembed Purple Network card for Denise"
 cart_price: 90
-cart_image: "assets/img/gbmini-black.webp"
+cart_image: "assets/img/gbmini-purple.webp"
 tags: 
   - amiga
 ---
 
-##### 🇬🇧 Black Assembled NIC for Denise 🇬🇧
+##### 🇬🇧 Purple Assembled NIC for Denise 🇬🇧
 
   <p class="lead text-center">
     <img src="{{page.cart_image}}" class="img-thumbnail" alt="{{page.cart_description}}">
@@ -24,7 +24,7 @@ This is a fully assembled ready ready to use! This is a Super slim Zorro II AMIG
 * Amiga Zorro II network card 
 * Fully assembled and tested
 * Drivers available online
-* Black PCB with Gold (ENIG)
+* Purple PCB with Gold (ENIG)
 
 &#128221; STOCK COUNT: {{site.assemblednic}}
 

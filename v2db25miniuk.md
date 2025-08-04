@@ -17,7 +17,7 @@ tags:
 
 {% include carousel3.html %}
 
-This is version (2024.01a) of the BlueSCSI DB25 Mini for UK buyers. This is usually used externally from the computer. This is a complete and tested device. The normal hex nuts have been replaced with screws so as to allow plugging into the 25 pin socket flush.
+This is version (2024.01a) of the BlueSCSI DB25 Mini for UK buyers. This is usually used externally from the computer. This is a complete and tested device. The normal hex nuts have been replaced with screws so as to allow plugging into the 25 pin socket flush. This comes with the standard Pico WITHOUT Wifi. If you would like the Wifi version add it [here](/pico2w).
 
 * Mini Version with Pico 2
 * Tested and complete

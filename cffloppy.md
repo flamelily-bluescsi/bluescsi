@@ -15,7 +15,7 @@ tags:
 
 {% include carousel1.html %}
 
-This is to purchase a CF Floppy IO PCB for Denise. Add this to your Denise order for a nice Compact Flash + Floppy optional IO PCB. You will need to source everything as this is the PCB only. You will get an email with BOM details after dispatch.
+This is to purchase a CF Floppy IO PCB for Denise. Add this to your Denise order for a nice Compact Flash + Floppy optional IO PCB. You will need to source everything as this is the PCB only. You will get an email with BOM details after dispatch. This can be used without the CF card slot of course. The CF slot is quite hard to source and is not in stock at [Digikey](https://www.digikey.co.uk/en/products/detail/amphenol-cs-fci/62453-022LF/2665573)
 
 * Compact Flash and Floppy breakout PCB
 * No components or connectors included

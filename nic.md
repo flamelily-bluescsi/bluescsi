@@ -5,7 +5,7 @@ permalink: /nic
 cart_itemid: nicpcb
 cart_name: "Purple NIC PCB for Denise"
 cart_description: "Purple Network card PCB for Denise"
-cart_price: 40
+cart_price: 30
 cart_image: "assets/img/Purple-NIC.webp"
 tags: 
   - amiga

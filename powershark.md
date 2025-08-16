@@ -5,7 +5,7 @@ permalink: /powershark
 cart_itemid: powersharkuk
 cart_name: "PowerShark UK"
 cart_description: "PowerShark - Fully Assembled for UK buyers"
-cart_price: 90
+cart_price: 87
 cart_image: "assets/img/powershark1.webp"
 cart_image1: "assets/img/powershark2.webp"
 cart_image2: "assets/img/powershark3.webp"
@@ -18,9 +18,9 @@ tags:
 
 {% include carousel4.html %}
 
-### -- COMING SOON --
+### -- WE HAVE STOCK ORDERING WILL OPEN 7pm TODAY - SAT 16th --
 
-##### There was a delay out of our control - We estimate orders will open in around 2 weeks (around 20th August)
+#### -- Price will be £87 which includes 48hr tracked and insured parcel. UK Only for now. Dispatch will start Monday the 18th ---
 
 The PowerShark is a compact, efficient USB-C power adapter designed for Amiga computers (A500, A600, A1200). It offers stable power, suitable for long-term operation, and can be used with various USB-C power supplies, including portable, battery based chargers. PowerShark has advanced monitoring and protection features, safeguarding against voltage deviations and power supply failures. It is eco-friendly, with zero power consumption when off, and features a delay mechanism to prevent rapid power cycling. The device is small, lightweight, and elegantly designed. For more detailed information, please visit <a href="https://retrousbpower.com" target="_blank">PowerShark's website</a>
 
@@ -33,3 +33,11 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 * Power protection features
 * NO cable or USB adapter supplied
 * UK buyers only (for now)
+
+&#128221; STOCK COUNT: {{site.powershark}}
+
+{% if site.powershark > 0 %}
+##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% else %}
+{% include outofstock.md %}
+{% endif %}

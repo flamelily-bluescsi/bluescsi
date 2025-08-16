@@ -33,6 +33,7 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 * Power protection features
 * NO cable or USB adapter supplied
 * UK buyers only (for now)
+* Colour - Amiga Beige
 
 &#128221; STOCK COUNT: {{site.powershark}}
 

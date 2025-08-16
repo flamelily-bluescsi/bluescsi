@@ -54,7 +54,7 @@ cffloppy: 5
 gbap2mini: 0
 pico2: 3
 pico2w: 3
-powershark: 0
+powershark: 23
 
 # Exclude from processing.
 # The following items will not be processed, by default.

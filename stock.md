@@ -15,6 +15,7 @@ All the Amiga pages have their stock count shown above the price. [(Amiga Sales)
 ###### BlueSCSI V2 Desktop Stock : {{site.desktop}}
 ###### BlueSCSI V2 DB25 Mini Stock : {{site.db25}}
 ###### BlueSCSI V2 Powerbook Stock : {{site.powerbook}}
+###### Denise Stock : {{site.denise}}- Coming end of August 2025
 ###### PicoGUS Stock : {{site.picogus}}
 ###### PicoMEM Stock : {{site.picomem}}
 ###### Powershark Stock : {{site.powershark}} - Restock in 3 weeks

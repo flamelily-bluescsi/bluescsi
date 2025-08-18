@@ -17,4 +17,4 @@ All the Amiga pages have their stock count shown above the price. [(Amiga Sales)
 ###### BlueSCSI V2 Powerbook Stock : {{site.powerbook}}
 ###### PicoGUS Stock : {{site.picogus}}
 ###### PicoMEM Stock : {{site.picomem}}
-###### Powershark Stock : {{site.powershark}} 
+###### Powershark Stock : {{site.powershark}} - Restock in 3 weeks

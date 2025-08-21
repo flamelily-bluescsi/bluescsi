@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Flamelily Retro Shop
+title: Flamelily Retro
 description: >- # this means to ignore newlines until "baseurl:"
   All your retro SCSI and PCB needs in one place. New stuff for old tech.
 baseurl: "" # the subpath of your site, e.g. /blog

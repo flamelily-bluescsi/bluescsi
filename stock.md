@@ -18,4 +18,4 @@ All the Amiga pages have their stock count shown above the price. [(Amiga Sales)
 ###### Denise Stock : {{site.denise}} - Coming end of August 2025
 ###### PicoGUS Stock : {{site.picogus}}
 ###### PicoMEM Stock : {{site.picomem}}
-###### Powershark Stock : {{site.powershark}} - Restock in 3 weeks
+###### Powershark Stock : {{site.powershark}} - Restock in 2 weeks

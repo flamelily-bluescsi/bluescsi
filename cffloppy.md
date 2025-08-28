@@ -19,6 +19,7 @@ This is to purchase a CF Floppy IO PCB for Denise. Add this to your Denise order
 
 * Compact Flash and Floppy breakout PCB
 * No components or connectors included
+* PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
 
 &#128221; STOCK COUNT: {{site.cffloppy}}
 

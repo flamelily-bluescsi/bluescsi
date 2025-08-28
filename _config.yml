@@ -55,6 +55,7 @@ gbap2mini: 0
 pico2: 3
 pico2w: 3
 powershark: 0
+vgaadapter: 7
 
 
 # Exclude from processing.

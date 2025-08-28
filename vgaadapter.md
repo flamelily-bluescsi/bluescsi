@@ -15,7 +15,7 @@ tags:
 
 {% include carousel1.html %}
 
-This is to purchase a VGA Adapter PCB for Denise. Add this to your Denise order for a VGA output via the internal RGB connector on the motherboard (labelled H1). This will ONLY work for 15Khz compatible monitors. You will need to source components as this is the PCB only. BOM details can be found here.
+This is to purchase a VGA Adapter PCB for Denise. Add this to your Denise order for a VGA output via the internal RGB connector on the motherboard (labelled H1). This will ONLY work for 15Khz compatible monitors. You will need to source components as this is the PCB only. This is based on the adapter board for the GBAPII mini card. More info about the GBAPII Mini card and component details can be found [here,](https://amiga.erkan.se/mini-version-of-gbapii-amiga-graphics-card/){:target="_blank"} and also on the A1K thread [here.](https://www.a1k.org/forum/index.php?threads/80990/){:target="_blank"}
 
 * VGA PCB with mounting holes
 * No components or connectors included

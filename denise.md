@@ -34,7 +34,7 @@ We include ALL SMD components pre soldered on the main board PCB! This saves lot
 Important information
 Please be aware that this is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We offer a build option (at least 8 weeks), so please use our [contact form here](/contact) to request this option. We are the <b>registered UK reseller</b> for the Denise, and the project maintainer will get a commission for every Denise we sell. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
 
-Add some accessories for Denise, [VGA Adapter PCB](/vgaadapter) - [CF Floppy IO PCB](/cffloppy) - [Purple NIC PCB](/nic)
+Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/cffloppy) - [Purple NIC PCB](/nic)
 
 * SMD components pre soldered
 * Big/ROM selection

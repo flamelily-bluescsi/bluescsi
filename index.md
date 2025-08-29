@@ -76,7 +76,7 @@ note: true
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Sale badge-->
-                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New</div>
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New Revision</div>
                             <!-- Product image-->
                             <img class="card-img-top" src="assets/img/picogus2.webp" alt="picogus" />
                             <!-- Product details-->
@@ -97,7 +97,7 @@ note: true
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Sale badge-->
-                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New</div>
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New Features</div>
                             <!-- Product image-->
                             <img class="card-img-top" src="assets/img/picomemfront.webp" alt="picomem" />
                             <!-- Product details-->

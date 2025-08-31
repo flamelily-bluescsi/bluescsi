@@ -48,8 +48,8 @@ rgb2hdmi: 0
 bluster: 0
 denise: 0
 deniseassembled: 0
-nic: 3
-assemblednic: 0
+nic: 0
+assemblednic: 1
 cffloppy: 5
 gbap2mini: 0
 pico2: 3

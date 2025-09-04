@@ -5,7 +5,7 @@ permalink: /denise
 cart_itemid: deniseuk
 cart_name: "Amiga Denise PCB Kit - UK"
 cart_description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga motherboard"
-cart_price: 120
+cart_price: 130
 cart_image: "assets/img/denise1.webp"
 cart_image1: "assets/img/denise2.webp"
 cart_image2: "assets/img/denise3.webp"

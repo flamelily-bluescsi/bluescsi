@@ -57,7 +57,7 @@ note: true
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="assets/img/powershark2.webp" alt="ram upgrade" />
+                            <img class="card-img-top" src="assets/img/powershark-black.webp" alt="ram upgrade" />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">

@@ -8,8 +8,8 @@ cart_description: "PowerShark - Fully Assembled for UK buyers"
 cart_price: 88
 cart_image: "assets/img/powershark1.webp"
 cart_image1: "assets/img/powershark2.webp"
-cart_image2: "assets/img/powershark3.webp"
-cart_image3: "assets/img/powershark-black.webp"
+cart_image2: "assets/img/powershark-black.webp"
+cart_image3: "assets/img/powershark-black1.webp"
 tags: 
   - amiga
 ---
@@ -31,7 +31,7 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 * Delivery included (48hr parcel tracked)
 * Colour - Black
 
-&#128221; STOCK COUNT (not real time): {{site.powershark}}
+&#128221; STOCK COUNT - Black (not real time): {{site.powershark}}
 
 {% if site.powershark > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

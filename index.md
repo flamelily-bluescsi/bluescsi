@@ -64,7 +64,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">Amiga Products</h5>
                                     <!-- Product price-->
-                                    From £33.00
+                                    From £10.00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -85,7 +85,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">PicoGUS Products</h5>
                                     <!-- Product price-->
-                                    From £58.00
+                                    From £56.00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -106,7 +106,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">PicoMEM Products</h5>
                                     <!-- Product price-->
-                                    From £48.00
+                                    From £46.00
                                 </div>
                             </div>
                             <!-- Product actions-->

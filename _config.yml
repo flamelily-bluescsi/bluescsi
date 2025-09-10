@@ -40,7 +40,7 @@ db25: 18
 desktop: 17
 powerbook: 15
 picogus: 23
-picomem: 18
+picomem: 16
 adlib: 8
 gottago128: 0
 gottago256: 0
@@ -54,7 +54,7 @@ cffloppy: 5
 gbap2mini: 0
 pico2: 3
 pico2w: 3
-powershark: 3
+powershark: 1
 vgaadapter: 7
 
 

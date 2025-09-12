@@ -15,7 +15,7 @@ tags:
   - uk
 ---
 
-##### 🇬🇧 Amiga Denise PCB Kit UK 🇬🇧
+##### 🇬🇧 Amiga Denise PCB Kit UK ONLY 🇬🇧
 
 {% include carousel4.html %}
 <br>
@@ -50,3 +50,5 @@ Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/c
 {% else %}
 {% include outofstock.md %}
 {% endif %}
+
+IF YOU ARE NOT IN THE UK, AND WANT TO BUY FROM US PLEASE [CONTACT US](/contact) TO DISCUSS. This price is for UK buyers only.

@@ -40,6 +40,7 @@ Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/c
 * Big/ROM selection
 * Includes 72-pin SIMM PCB (caps pre soldered)
 * Build option available [email us](/contact)
+* Tracked and insured delivery included in the price.
 
 &#128221; STOCK COUNT: {{site.denise}}
 

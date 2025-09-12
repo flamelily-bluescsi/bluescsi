@@ -40,13 +40,13 @@ db25: 18
 desktop: 17
 powerbook: 15
 picogus: 23
-picomem: 16
+picomem: 15
 adlib: 8
 gottago128: 0
 gottago256: 0
 rgb2hdmi: 0
 bluster: 0
-denise: 0
+denise: 15
 deniseassembled: 0
 nic: 5
 assemblednic: 0

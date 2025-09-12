@@ -5,7 +5,7 @@ permalink: /denise
 cart_itemid: deniseuk
 cart_name: "Amiga Denise PCB Kit - UK"
 cart_description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga motherboard"
-cart_price: 130
+cart_price: 132
 cart_image: "assets/img/denise1.webp"
 cart_image1: "assets/img/denise2.webp"
 cart_image2: "assets/img/denise3.webp"
@@ -15,7 +15,7 @@ tags:
   - uk
 ---
 
-##### 🇬🇧 Amiga Denise PCB Kit 🇬🇧
+##### 🇬🇧 Amiga Denise PCB Kit UK 🇬🇧
 
 {% include carousel4.html %}
 <br>
@@ -41,7 +41,7 @@ Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/c
 * Includes 72-pin SIMM PCB (caps pre soldered)
 * Build option available [email us](/contact)
 
-&#128221; STOCK COUNT: {{site.denise}} - Restock aound 15th September 2025
+&#128221; STOCK COUNT: {{site.denise}}
 
 {% if site.denise > 0 %}
 ##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})

@@ -25,7 +25,7 @@ Denise is an re-created Amiga mainboard which is Mini-ITX sized. More info about
 To get the best from both worlds, Denise contains a few modern components. Two MCU's control things like Amiga/PC keyboard, Amiga/PS/2 mouse and scroll wheel support, floppy disk detection, debug information and Big/ROM selection. All of this resulting in a small, semi modern, super stable and expandable home computer system. There is no exact match but Denise can best be described as a compact A500+ compatible motherboard with two Zorro2 compatible slots and a few additional features. See a great video about this here <a href="https://www.youtube.com/watch?v=pFd3QLdzTBw" target="_blank">https://www.youtube.com/watch?v=pFd3QLdzTBw</a>
 
 Included in the Kit:<br>
-1 x Denise PCB (Mini-ITX)<br>
+1 x Denise PCB (Mini-ITX) REV2.2<br>
 1 x 72-pin SIMM PCB (2MB CHIP)<br>
 2 x MCU with necessary firmware<br>
 You will get an email with tracking and BOM details after dispatch.
@@ -35,7 +35,7 @@ We include ALL SMD components pre soldered on the main board PCB! This saves lot
 Important information
 Please be aware that this is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We offer a build option (at least 8 weeks), so please use our [contact form here](/contact) to request this option. We are the <b>registered UK reseller</b> for the Denise, and the project maintainer will get a commission for every Denise we sell. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
 
-Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/cffloppy) - [Purple NIC PCB](/nic)
+Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/cffloppy) - [Black NIC PCB](/nic)
 
 * mainboard SMD components pre soldered
 * Big/ROM selection

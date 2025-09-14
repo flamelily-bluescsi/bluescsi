@@ -40,7 +40,7 @@ db25: 18
 desktop: 17
 powerbook: 15
 picogus: 23
-picomem: 15
+picomem: 14
 adlib: 6
 gottago128: 0
 gottago256: 0
@@ -50,7 +50,7 @@ denise: 10
 deniseassembled: 0
 nic: 4
 assemblednic: 0
-cffloppy: 3
+cffloppy: 1
 gbap2mini: 0
 pico2: 3
 pico2w: 3

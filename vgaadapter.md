@@ -4,7 +4,7 @@ title: VGA Adapter
 permalink: /vga
 cart_itemid: vgaadapter
 cart_name: "VGA Adapter PCB for Denise"
-cart_description: "VGA Adapter PCB for Denise to get RGB out to a VGA socket for 15Khz monitors"
+cart_description: "RGB out to a VGA socket for 15Khz monitors"
 cart_price: 15
 cart_image: "assets/img/vgaadapter.webp"
 tags: 

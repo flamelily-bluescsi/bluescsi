@@ -40,7 +40,7 @@ db25: 18
 desktop: 17
 powerbook: 15
 picogus: 23
-picomem: 12
+picomem: 11
 adlib: 6
 gottago128: 0
 gottago256: 0
@@ -48,14 +48,14 @@ rgb2hdmi: 0
 bluster: 0
 denise: 8
 deniseassembled: 0
-nic: 3
+nic: 2
 assemblednic: 0
-cffloppy: 1
+cffloppy: 0
 gbap2mini: 0
 pico2: 3
 pico2w: 3
 powershark: 0
-vgaadapter: 6
+vgaadapter: 5
 
 
 # Exclude from processing.

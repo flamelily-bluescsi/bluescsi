@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PowerShark UK
+title: Amiga PowerShark UK
 permalink: /powershark
 cart_itemid: powersharkuk
 cart_name: "PowerShark UK"

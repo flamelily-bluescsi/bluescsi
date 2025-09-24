@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BlueSCSI V2 Stock Levels
+title: PCB Stock Levels
 note: false
 permalink: /stock
 ---

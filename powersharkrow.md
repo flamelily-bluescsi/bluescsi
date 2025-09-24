@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PowerShark ROW
+title: Amiga PowerShark ROW
 permalink: /powersharkrow
 cart_itemid: powersharkrow
 cart_name: "PowerShark ROW"

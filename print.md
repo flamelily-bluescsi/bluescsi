@@ -1,5 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
+title: 3D Prints for sale
 layout: default
 note: false
 permalink: /print

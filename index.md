@@ -4,7 +4,7 @@ note: true
 ---
 
 &#8593;View our Categories menu for Product Page Links. Access your Cart and Checkout pages from the menu&#8593;
-<div class="container">
+<div class="main_content">
 <div class="row">
 <!-- Section-->
         <section class="py-5">
@@ -20,7 +20,7 @@ note: true
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">BlueSCSI Products UK</h5>
+                                    <h5 class="fw-bolder">BlueSCSI UK</h5>
                                     <!-- Product price-->
                                     From £32.00
                                 </div>
@@ -41,7 +41,7 @@ note: true
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">BlueSCSI Products Rest of the World</h5>
+                                    <h5 class="fw-bolder">BlueSCSI Rest of the World</h5>
                                     <!-- Product price-->
                                     From £48.00
                                 </div>

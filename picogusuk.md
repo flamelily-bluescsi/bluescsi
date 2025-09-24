@@ -5,7 +5,7 @@ title: PicoGUS board UK
 cart_itemid: picogusuk
 cart_name: "PicoGUS board UK"
 cart_description: "PicoGUS board UK - Fully Assembled"
-cart_price: 56
+cart_price: 50
 cart_image: "assets/img/picogusuk.webp"
 cart_image1: "assets/img/picogus201.webp"
 cart_image2: "assets/img/midiuk.webp"

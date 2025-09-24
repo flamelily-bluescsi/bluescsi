@@ -5,7 +5,7 @@ title: PicoGUS board Rest of the World
 cart_itemid: picogusrow
 cart_name: "PicoGUS board Rest of the World"
 cart_description: "PicoGUS board ROW - Fully Assembled"
-cart_price: 66
+cart_price: 60
 cart_image: "assets/img/picogusrow.webp"
 cart_image1: "assets/img/picogus201.webp"
 cart_image2: "assets/img/midirow.webp"

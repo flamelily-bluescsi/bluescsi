@@ -85,7 +85,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">PicoGUS Products</h5>
                                     <!-- Product price-->
-                                    From £56.00
+                                    From £50.00
                                 </div>
                             </div>
                             <!-- Product actions-->

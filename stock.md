@@ -18,4 +18,4 @@ All the Amiga pages have their stock count shown above the price. [(Amiga Sales)
 ###### Denise Stock : {{site.denise}}
 ###### PicoGUS Stock : {{site.picogus}}
 ###### PicoMEM Stock : {{site.picomem}}
-###### Powershark Stock : {{site.powershark}} - Next Batch Oct 2025
+###### Powershark Stock : {{site.powershark}} - Next Batch around 15th Oct 2025

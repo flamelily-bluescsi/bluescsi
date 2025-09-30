@@ -46,16 +46,16 @@ gottago128: 0
 gottago256: 0
 rgb2hdmi: 0
 bluster: 0
-denise: 7
+denise: 6
 deniseassembled: 0
-nic: 5
+nic: 6
 assemblednic: 0
-cffloppy: 8
+cffloppy: 10
 gbap2mini: 0
 pico2: 3
 pico2w: 3
 powershark: 0
-vgaadapter: 1
+vgaadapter: 0
 
 
 # Exclude from processing.

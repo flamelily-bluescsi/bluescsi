@@ -3,7 +3,7 @@ layout: page
 title: Amiga PowerShark UK
 permalink: /powershark
 cart_itemid: powersharkuk
-cart_name: "PowerShark UK"
+cart_name: "UK PowerShark"
 cart_description: "PowerShark - For UK buyers"
 cart_price: 88
 cart_image: "assets/img/powershark-black.webp"

@@ -6,10 +6,10 @@
     {% if page.cart_name contains 'PowerShark' %}
   <option value="uk" data-price="{{site.psukprice}}" data-sku="powersharkuk">🇬🇧 UK Delivery - £{{site.psukprice}} (48hr tracked)</option>
   <option value="row" data-price="{{site.psrowprice}}" data-sku="powersharkrow">🌍 Rest of World - £{{site.psrowprice}} (International tracked)</option>
-  {% else if page.cart_name contains 'PicoMEM' %}
+  {% elsif page.cart_name contains 'PicoMEM' %}
     <option value="uk" data-price="46" data-sku="picomemuk">🇬🇧 UK Delivery - £46</option>
     <option value="row" data-price="56" data-sku="picomemrow">🌍 Rest of World - £56 (International tracked)</option>
-  {% else %}
+  {% elsif page.cart_name contains 'Midi Cable' %}
     <option value="uk" data-price="6" data-sku="midi15uk">🇬🇧 UK Delivery - £6</option>
     <option value="row" data-price="10" data-sku="midi15row">🌍 Rest of World - £10 (International standard)</option>
     {% endif %}

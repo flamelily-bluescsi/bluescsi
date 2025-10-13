@@ -24,5 +24,13 @@ catalog = {
 			name: "PowerShark ROW",
 			description: "PowerShark - For buyers in the rest of the world",
 			price: 99
-			}
+		},picomemuk: {
+			name: "PicoMEM 8-bit ISA UK",
+			description: "PicoMEM All in One 8-Bit ISA Expansion Card UK",
+			price: 46
+		},picomemrow: {
+			name: "PicoMEM 8-bit ISA ROW",
+			description: "PicoMEM All in One 8-Bit ISA Expansion Card ROW",
+			price: 56
+		}
 }

@@ -2,8 +2,14 @@
   <label for="deliveryOption" class="form-label" style="font-weight: 600; font-size: 1.1rem; margin-bottom: 0.5rem; display: block;">Select Delivery Region:</label>
   <select class="form-select" id="deliveryOption" onchange="updatePrice()" style="border: 2px solid #004e92; padding: 0.75rem; font-size: 1.1rem; margin-bottom: 1rem; width: 100%;">
     <option value="">-- Please select your region --</option>
-    <option value="uk" data-price="88" data-sku="powersharkuk">🇬🇧 UK Delivery - £88 (48hr tracked)</option>
-    <option value="row" data-price="99" data-sku="powersharkrow">🌍 Rest of World - £99 (International tracked)</option>
+
+    {% if page.cart_name contains 'PowerShark' %}
+  <option value="uk" data-price="88" data-sku="powersharkuk">🇬🇧 UK Delivery - £88 (48hr tracked)</option>
+  <option value="row" data-price="99" data-sku="powersharkrow">🌍 Rest of World - £99 (International tracked)</option>
+    {% else %}
+    <option value="uk" data-price="46" data-sku="picomemuk">🇬🇧 UK Delivery - £46</option>
+    <option value="row" data-price="56" data-sku="picomemrow">🌍 Rest of World - £56 (International tracked)</option>
+    {% endif %}
   </select>
   
   <div id="priceDisplay" style="display:none; font-size: 2rem; font-weight: 700; color: #004e92; margin: 1rem 0;">

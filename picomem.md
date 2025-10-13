@@ -5,7 +5,7 @@ permalink: /picomem
 ---
 ######  PicoMEM Products for UK and the Rest of the World - IN STOCK
 
-Make sure you choose the <b>UK option ONLY</b> if your delivery address is in the UK. Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email via Paypal.
+Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email via Paypal.
 
 We are now a registered distributor for the [PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM){:target="_blank"}, and the project creator (Freddy V) will get a share of every purchase.
 
@@ -13,23 +13,9 @@ The PicoMEM is an 8-bit ISA expansion card which aims to be an all-in-one soluti
 
 While the PicoMEM is in an advanced and functioning state, please understand it is still a work in progress.  There are several caveats and known issues on various systems. Please visit the Github link above before ordering, so you can view the compatibility list as it is being updated regularly. The Tandy 1000 series of machines is NOW compatible.
 
-{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'pmuk'" %}
-<u>🇬🇧 PicoMEM Products for the UK 🇬🇧</u>
+{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'pm'" %}
+<u>🌍🇬🇧 PicoMEM Products 🇬🇧🌍</u>
 
-<div class="container">
-<div class="row">
-	{% for page in cat_items %}
-<div class="col-md-4" markdown="1">
-{% include listnoprice.md %}
-</div>
-	  {% endfor %}
-</div>
-</div>
-<hr>
-
-
-{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'pmrow'" %}
-<u>🌍 PicoMEM Products for the Rest of the World 🌍</u>
 <div class="container">
 <div class="row">
 	{% for page in cat_items %}

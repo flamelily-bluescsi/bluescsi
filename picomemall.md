@@ -1,18 +1,17 @@
 ---
 layout: page
-permalink: /picomemuk
-title: PicoMEM All in One 8-Bit ISA Expansion Card UK
-cart_itemid: picomemuk
-cart_name: "PicoMEM 8-bit ISA UK"
-cart_description: "PicoMEM All in One 8-Bit ISA Expansion Card UK"
+permalink: /picomemall
+title: PicoMEM All in One 8-Bit ISA Expansion Card
+cart_name: "PicoMEM 8-bit ISA"
+cart_description: "PicoMEM All in One 8-Bit ISA Expansion Card"
 cart_price: 46
 cart_image: "assets/img/picomemfront.webp"
 cart_image1: "assets/img/adlibpicomem.webp"
 tags: 
-  - pmuk
+  - pm
 ---
 
-##### 🇬🇧 PicoMEM All in One 8-Bit ISA Expansion Card UK 🇬🇧
+##### 🌍🇬🇧 PicoMEM All in One 8-Bit ISA Expansion Card 🇬🇧🌍
 
 {% include carousel2.html %}
 
@@ -25,10 +24,10 @@ The PicoMEM is an 8-bit ISA expansion card based on the Raspberry Pi Pico microc
 * Pico W pre-flashed with latest firmware
 * This does NOT include the audio add-on. Add an adLib audio board [here](/adlibpicomem)
 
-Price includes shipping costs. Please visit the [ROW Page](/picomemrow) if buying from outside the UK.
+Price includes shipping costs.
 
 {% if site.picomem > 0 %}
-##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% include price.md %}
 {% else %}
 {% include outofstock.md %}
 {% endif %}

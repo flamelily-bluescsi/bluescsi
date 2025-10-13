@@ -1,0 +1,35 @@
+<div class="price-selector" style="background: #f8f9fa; border: 2px solid #004e92; border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0;">
+  <label for="deliveryOption" class="form-label" style="font-weight: 600; font-size: 1.1rem; margin-bottom: 0.5rem; display: block;">Select Delivery Region:</label>
+  <select class="form-select" id="deliveryOption" onchange="updatePrice()" style="border: 2px solid #004e92; padding: 0.75rem; font-size: 1.1rem; margin-bottom: 1rem; width: 100%;">
+    <option value="">-- Please select your region --</option>
+    <option value="uk" data-price="88" data-sku="powersharkuk">🇬🇧 UK Delivery - £88 (48hr tracked)</option>
+    <option value="row" data-price="99" data-sku="powersharkrow">🌍 Rest of World - £99 (International tracked)</option>
+  </select>
+  
+  <div id="priceDisplay" style="display:none; font-size: 2rem; font-weight: 700; color: #004e92; margin: 1rem 0;">
+    Price: £<span id="priceAmount">0</span>
+  </div>
+  
+  <button class="btn btn-success btn-lg" id="addToCartBtn" onclick="addToCart()" disabled style="width: 100%; padding: 1rem; font-size: 1.2rem; font-weight: 600;">
+    🛒 Add to Cart
+  </button>
+</div>
+
+<style>
+.price-selector .form-select:focus {
+  border-color: #ff6b35;
+  box-shadow: 0 0 0 0.2rem rgba(255, 107, 53, 0.25);
+}
+
+#addToCartBtn:disabled {
+  background: #ccc !important;
+  border-color: #ccc !important;
+  cursor: not-allowed;
+}
+
+#addToCartBtn:not(:disabled):hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+</style>

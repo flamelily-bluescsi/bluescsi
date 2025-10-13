@@ -15,4 +15,14 @@ catalog = {
 		{%- endif -%} 
 	{%- endif -%}
 {%- endfor %}
+
+		,powersharkuk: {
+			name: "PowerShark",
+			description: "PowerShark - For all buyers",
+			price: 88
+		},powersharkrow: {
+			name: "PowerShark ROW",
+			description: "PowerShark - For buyers in the rest of the world",
+			price: 99
+			}
 }

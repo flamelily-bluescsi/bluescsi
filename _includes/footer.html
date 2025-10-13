@@ -5,6 +5,10 @@
           Connect with us on BlueSky <a href="https://bsky.app/profile/flamelily.co.uk" target="_blank">@flamelily.co.uk</a> or on X <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">@FlamelilyIT</a>.
 
         </footer>
+{% if page %}
+{% include cart.html %}
+{% else %}
+{% endif %}    
      <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

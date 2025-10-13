@@ -1,0 +1,55 @@
+   <!-- Cart functionality -->
+    <script>
+        let selectedSku = null;
+        let selectedPrice = 0;
+
+        function updatePrice() {
+            const select = document.getElementById('deliveryOption');
+            const selectedOption = select.options[select.selectedIndex];
+            const priceDisplay = document.getElementById('priceDisplay');
+            const priceAmount = document.getElementById('priceAmount');
+            const addButton = document.getElementById('addToCartBtn');
+            
+            if (selectedOption.value) {
+                selectedPrice = parseFloat(selectedOption.dataset.price);
+                selectedSku = selectedOption.dataset.sku;
+                
+                priceAmount.textContent = selectedPrice.toFixed(2);
+                priceDisplay.style.display = 'block';
+                addButton.disabled = false;
+            } else {
+                priceDisplay.style.display = 'none';
+                addButton.disabled = true;
+                selectedSku = null;
+            }
+        }
+
+        function addToCart() {
+            if (!selectedSku) {
+                alert('Please select a delivery region first!');
+                return;
+            }
+
+            // Get existing cart
+            let cart = {};
+            if (typeof(Storage) !== "undefined" && localStorage.cart) {
+                cart = JSON.parse(localStorage.cart);
+            }
+
+            // Add or increment item
+            if (cart[selectedSku]) {
+                cart[selectedSku]++;
+            } else {
+                cart[selectedSku] = 1;
+            }
+
+            // Save to localStorage
+            localStorage.cart = JSON.stringify(cart);
+
+            // Show confirmation
+            alert('Added to cart!\n\nClick OK to visit the cart page to checkout, or you can use the menu to add other items to the cart');
+            
+            // Optional: redirect to cart page
+            window.location.href = '/cart';
+        }
+    </script>        

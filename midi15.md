@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /midi15uk
-title: Midi Cable Type A UK
+permalink: /midi15
+title: Midi Cable Type A
 cart_itemid: midi15uk
-cart_name: "Midi Cable Type A UK"
-cart_description: "Midi Cable Type A UK"
+cart_name: "Midi Cable Type A"
+cart_description: "Midi Cable Type A"
 cart_price: 6
 cart_image: "assets/img/midiuk.webp"
 cart_image1: "assets/img/midi2.webp"
@@ -13,7 +13,7 @@ tags:
   - midi
 ---
 
-##### 🇬🇧 Midi Cable Type A UK 🇬🇧
+##### 🌍🇬🇧 Midi Cable Type A 🇬🇧🌍
 
 {% include carousel2.html %}
 

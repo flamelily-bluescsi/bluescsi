@@ -32,5 +32,13 @@ catalog = {
 			name: "PicoMEM 8-bit ISA ROW",
 			description: "PicoMEM All in One 8-Bit ISA Expansion Card ROW",
 			price: 56
+		},midi15uk: {
+			name: "Midi Cable Type A UK",
+			description: "Midi Cable Type A UK",
+			price: 6
+		},midi15row: {
+			name: "Midi Cable Type A ROW",
+			description: "Midi Cable Type A ROW",
+			price: 10
 		}
 }

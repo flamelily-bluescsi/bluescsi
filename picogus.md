@@ -12,21 +12,8 @@ To prepare your DOS computer for using the V2 PicoGUS, Please see the PicoGUS [G
 PicoGUS now supports CD-ROM emulation, see the [Wiki](https://github.com/polpo/picogus/wiki/CD%E2%80%90ROM-Emulation){:target="_blank"} for more info.
 
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'pguk'" %}
-<u>🇬🇧 PicoGUS V2 Products for the UK 🇬🇧</u>
+<u> PicoGUS V2 Products</u>
 
-<div class="container">
-<div class="row">
-	{% for page in cat_items %}
-<div class="col-md-4" markdown="1">
-{% include listnoprice.md %}
-</div>
-	  {% endfor %}
-</div>
-</div>
-<hr>
-
-{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'pgrow'" %}
-<u>🇪🇺🌍 PicoGUS V2 Products for the Rest of the World 🇪🇺🌍</u>
 <div class="container">
 <div class="row">
 	{% for page in cat_items %}

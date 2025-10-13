@@ -40,5 +40,13 @@ catalog = {
 			name: "Midi Cable Type A ROW",
 			description: "Midi Cable Type A ROW",
 			price: 10
+		},picogusrow: {
+			name: "PicoGUS board Rest of the World",
+			description: "PicoGUS board ROW - Fully Assembled",
+			price: 62
+		},picogusuk: {
+			name: "PicoGUS board UK",
+			description: "PicoGUS board UK - Fully Assembled",
+			price: 50
 		}
 }

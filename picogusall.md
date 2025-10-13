@@ -1,19 +1,18 @@
 ---
 layout: page
-permalink: /picogusrow
-title: PicoGUS board Rest of the World
-cart_itemid: picogusrow
-cart_name: "PicoGUS board Rest of the World"
-cart_description: "PicoGUS board ROW - Fully Assembled"
-cart_price: 60
-cart_image: "assets/img/picogusrow.webp"
+permalink: /picogusall
+title: PicoGUS board assembled
+cart_name: "PicoGUS board"
+cart_description: "PicoGUS board - Fully Assembled"
+cart_price: 50
+cart_image: "assets/img/picogusuk.webp"
 cart_image1: "assets/img/picogus201.webp"
-cart_image2: "assets/img/midirow.webp"
+cart_image2: "assets/img/midiuk.webp"
 tags: 
-  - pgrow
+  - pguk
 ---
 
-##### 🇪🇺🌍 PicoGUS board for Europe and the Rest of the World 🇪🇺🌍
+##### 🌍🇬🇧 PicoGUS board 🇬🇧🌍
 
 {% include carousel3.html %}
 
@@ -26,12 +25,12 @@ An ISA sound card emulator, powered by a Raspberry Pi Pico. PicoGUS can emulate 
 * Comes with a bracket (Nickel plated mild steel)
 * Red PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
 
-Price includes shipping costs. Please visit the <a href="/picogusuk">UK Page</a> if buying from the UK
+Price includes shipping costs.
 
 &#128221; STOCK COUNT: {{site.picogus}}
 
 {% if site.picogus > 0 %}
-##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% include price.md %}
 {% else %}
 {% include outofstock.md %}
 {% endif %}

@@ -3,9 +3,12 @@
   <select class="form-select" id="deliveryOption" onchange="updatePrice()" style="border: 2px solid #004e92; padding: 0.75rem; font-size: 1.1rem; margin-bottom: 1rem; width: 100%;">
     <option value="">-- Please select your region --</option>
 
-    {% if page.cart_name contains 'PowerShark' %}
+  {% if page.cart_name contains 'PowerShark' %}
   <option value="uk" data-price="{{site.psukprice}}" data-sku="powersharkuk">🇬🇧 UK Delivery - £{{site.psukprice}} (48hr tracked)</option>
   <option value="row" data-price="{{site.psrowprice}}" data-sku="powersharkrow">🌍 Rest of World - £{{site.psrowprice}} (International tracked)</option>
+  {% elsif page.cart_name contains 'PicoGUS' %}
+    <option value="uk" data-price="50" data-sku="picogusuk">🇬🇧 UK Delivery - £50</option>
+    <option value="row" data-price="62" data-sku="picogusrow">🌍 Rest of World - £62 (International tracked)</option>
   {% elsif page.cart_name contains 'PicoMEM' %}
     <option value="uk" data-price="46" data-sku="picomemuk">🇬🇧 UK Delivery - £46</option>
     <option value="row" data-price="56" data-sku="picomemrow">🌍 Rest of World - £56 (International tracked)</option>

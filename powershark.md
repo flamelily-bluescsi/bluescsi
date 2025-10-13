@@ -2,6 +2,8 @@
 layout: page
 title: Amiga PowerShark 
 permalink: /powershark
+cart_name: "PowerShark"
+cart_description: "PowerShark - For all buyers"
 cart_image: "assets/img/powershark-black.webp"
 cart_image1: "assets/img/powershark-black1.webp"
 tags: 

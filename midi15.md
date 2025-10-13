@@ -21,7 +21,4 @@ A Type A 3.5mm TRS to DIN-5 MIDI adapter cable. 15cm long
 * Type A MIDI
 * Extra cable for your PicoGUS or other sound card
 
-##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
-
-
 {% include price.md %}

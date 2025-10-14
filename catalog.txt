@@ -15,7 +15,6 @@ catalog = {
 		{%- endif -%} 
 	{%- endif -%}
 {%- endfor %}
-
 		,powersharkuk: {
 			name: "PowerShark UK",
 			description: "PowerShark - For UK buyers",
@@ -60,5 +59,17 @@ catalog = {
 			name: "PicoGUS board UK",
 			description: "PicoGUS board UK - Fully Assembled",
 			price: 50
+		},deniseuk: {
+			name: "Amiga Denise PCB Kit - UK",
+			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
+			price: {{ site.deniseukprice }}
+		},deniseus: {
+			name: "Amiga Denise PCB Kit - US",
+			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
+			price: {{ site.deniseusprice }}
+		},deniserow: {
+			name: "Amiga Denise PCB Kit - ROW",
+			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
+			price: {{ site.deniserowprice }}
 		}
 }

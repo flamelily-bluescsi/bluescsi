@@ -8,7 +8,8 @@
 
 {% if page.layout == 'page' %}
 {% include cart.html %}
-{% else %}
+{% elsif page.cart_name contains 'Amiga Denise PCB' %}
+{% include cart.html %}
 {% endif %}
      <!-- Bootstrap core JavaScript
     ================================================== -->

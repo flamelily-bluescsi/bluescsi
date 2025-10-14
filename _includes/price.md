@@ -4,9 +4,13 @@
     <option value="">-- Please select your region --</option>
 
   {% if page.cart_name contains 'PowerShark' %}
-  <option value="uk" data-price="{{site.psukprice}}" data-sku="powersharkuk">🇬🇧 UK Delivery - £{{site.psukprice}} (48hr tracked)</option>
-  <option value="us" data-price="{{site.psusprice}}" data-sku="powersharkus">🇺🇸 US Delivery - £{{site.psusprice}} (Tariffs Paid)</option>
-  <option value="row" data-price="{{site.psrowprice}}" data-sku="powersharkrow">🌍 Rest of World - £{{site.psrowprice}} (International tracked)</option>
+    <option value="uk" data-price="{{site.psukprice}}" data-sku="powersharkuk">🇬🇧 UK Delivery - £{{site.psukprice}} (48hr tracked)</option>
+    <option value="us" data-price="{{site.psusprice}}" data-sku="powersharkus">🇺🇸 US Delivery - £{{site.psusprice}} (Tariffs Paid)</option>
+    <option value="row" data-price="{{site.psrowprice}}" data-sku="powersharkrow">🌍 Rest of World - £{{site.psrowprice}} (International tracked)</option>
+  {% elsif page.cart_name contains 'Amiga Denise PCB' %}
+    <option value="uk" data-price="{{site.deniseukprice}}" data-sku="deniseuk">🇬🇧 UK Delivery - £{{site.deniseukprice}} (48hr tracked)</option>
+    <option value="us" data-price="{{site.deniseusprice}}" data-sku="deniseus">🇺🇸 US Delivery - £{{site.deniseusprice}} (Tariffs/Duites Paid)</option>
+    <option value="row" data-price="{{site.deniserowprice}}" data-sku="deniserow">🌍 Rest of World - £{{site.deniserowprice}} (International tracked)</option>
   {% elsif page.cart_name contains 'PicoGUS' %}
     <option value="uk" data-price="{{site.picogusukprice}}" data-sku="picogusuk">🇬🇧 UK Delivery - £{{site.picogusukprice}}</option>
     <option value="row" data-price="{{site.picogusrowprice}}" data-sku="picogusrow">🌍 Rest of World - £{{site.picogusrowprice}} (International tracked)</option>
@@ -22,7 +26,7 @@
     {% endif %}
   </select>
   
-  <div id="priceDisplay" style="display:none; font-size: 2rem; font-weight: 700; color: #004e92; margin: 1rem 0;">
+  <div id="priceDisplay" style="display:none; font-size: 1.4rem; font-weight: 700; color: #004e92; margin: 1rem 0;">
     Price: £<span id="priceAmount">0</span>
   </div>
   

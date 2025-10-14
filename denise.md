@@ -2,8 +2,7 @@
 layout: default
 title: Amiga Denise PCB Kit - NEW
 permalink: /denise
-cart_itemid: deniseuk
-cart_name: "Amiga Denise PCB Kit - UK"
+cart_name: "Amiga Denise PCB Kit"
 cart_description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga"
 cart_price: 132
 cart_image: "assets/img/denise1.webp"
@@ -15,7 +14,7 @@ tags:
   - uk
 ---
 
-##### 🇬🇧 Amiga Denise PCB Kit UK ONLY 🇬🇧
+##### 🇬🇧🌍🇺🇸 Amiga Denise PCB Kit 🇬🇧🌍🇺🇸
 
 {% include carousel4.html %}
 <br>
@@ -33,7 +32,7 @@ You will get an email with tracking and BOM details after dispatch.
 We include ALL SMD components pre soldered on the main board PCB! This saves lots of time and makes Denise even easier to assemble! Please note that the included SIMM PCB will <b>NOT</b> have SMD pre soldered. You will of course need to source a set of Amiga ECS chipset custom chips. A battery damaged A500+ is a great source for this. This new PCB batch also has twice the copper of previous boards as well as High-definition Exposure Silkscreen on the new beautiful SIMM.
 
 Important information
-Please be aware that this is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We offer a build option (at least 8 weeks), so please use our [contact form here](/contact) to request this option. We are the <b>registered UK reseller</b> for the Denise, and the project maintainer will get a commission for every Denise we sell. If you are outside the UK you should purchase from [https://www.enterlogic.se](https://www.enterlogic.se/?page_id=34){:target="_blank"}
+Please be aware that this is NOT a plug and play product. You are purchasing two high quality (TG-155/ENIG) PCBs, two firmware ICs and build instructions. No warranty or support is offered. We offer a build option (at least 8 weeks), so please use our [contact form here](/contact) to request this option. We are the <b>registered UK reseller</b> for the Denise, and the project maintainer will get a commission for every Denise we sell.
 
 Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/cffloppy) - [Black NIC PCB](/nic)
 
@@ -46,9 +45,7 @@ Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/c
 &#128221; STOCK COUNT: {{site.denise}}
 
 {% if site.denise > 0 %}
-##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% include price.md %}
 {% else %}
 {% include outofstock.md %}
 {% endif %}
-
-IF YOU ARE NOT IN THE UK, AND WANT TO BUY FROM US PLEASE [CONTACT US](/contact) TO DISCUSS. This price is for UK buyers only.

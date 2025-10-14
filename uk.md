@@ -15,7 +15,7 @@ permalink: /uk
 <div class="row">
 	{% for page in cat_items %}
 <div class="col-md-6" markdown="1">
-{% include regionlist.md %}
+{% include itemblurb.md %}
 </div>
 	  {% endfor %}
 </div>
@@ -29,7 +29,7 @@ permalink: /uk
 <div class="row">
 	{% for page in cat_items %}
 <div class="col-md-6" markdown="1">
-{% include regionlist.md %}
+{% include itemblurb.md %}
 </div>
 	  {% endfor %}
 </div>
@@ -42,7 +42,7 @@ permalink: /uk
 <div class="row">
 	{% for page in cat_items %}
 <div class="col-md-6" markdown="1">
-{% include regionlist.md %}
+{% include itemblurb.md %}
 </div>
 	  {% endfor %}
 </div>
@@ -55,7 +55,7 @@ permalink: /uk
 <div class="row">
 	{% for page in cat_items %}
 <div class="col-md-6" markdown="1">
-{% include regionlist.md %}
+{% include itemblurb.md %}
 </div>
 	  {% endfor %}
 </div>

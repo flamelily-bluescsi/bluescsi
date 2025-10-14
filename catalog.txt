@@ -18,20 +18,24 @@ catalog = {
 
 		,powersharkuk: {
 			name: "PowerShark UK",
-			description: "PowerShark - For all buyers",
-			price: 88
+			description: "PowerShark - For UK buyers",
+			price: {{ site.psukprice }}
+		},powersharkus: {
+			name: "PowerShark US",
+			description: "PowerShark USA - For US buyers",
+			price: {{ site.psusprice }}
 		},powersharkrow: {
 			name: "PowerShark ROW",
 			description: "PowerShark - For buyers in the rest of the world",
-			price: 99
+			price: {{ site.psrowprice }}
 		},picomemuk: {
 			name: "PicoMEM 8-bit ISA UK",
 			description: "PicoMEM All in One 8-Bit ISA Expansion Card UK",
-			price: 46
+			price: {{ site.picomemukprice }}
 		},picomemrow: {
 			name: "PicoMEM 8-bit ISA ROW",
 			description: "PicoMEM All in One 8-Bit ISA Expansion Card ROW",
-			price: 56
+			price: {{ site.picomemrowprice }}
 		},midi15uk: {
 			name: "Midi Cable Type A UK",
 			description: "Midi Cable Type A UK",

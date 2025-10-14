@@ -35,30 +35,30 @@ plugins:
   - jekyll-remote-theme
 
 icon: "&#128722;"
+# Stock
 bsv1: 5
 db25: 17
 desktop: 17
 powerbook: 8
 picogus: 23
-picomem: 4
+picomem: 3
 adlib: 6
-gottago128: 0
-gottago256: 0
 rgb2hdmi: 0
-bluster: 0
 denise: 6
-deniseassembled: 0
 nic: 5
-assemblednic: 0
 cffloppy: 10
-gbap2mini: 0
 pico2: 3
 pico2w: 3
 powershark: 0
+vgaadapter: 0
+# Prices
+picomemukprice: 46
+picomemrowprice: 58
+picogusukprice: 50
+picogusrowprice: 62
 psukprice: 88
 psrowprice: 99
-vgaadapter: 0
-
+psusprice: 112
 
 # Exclude from processing.
 # The following items will not be processed, by default.

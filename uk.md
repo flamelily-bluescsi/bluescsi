@@ -64,6 +64,4 @@ permalink: /uk
 
 ##### 3D Prints (for purchase with a BlueSCSI)
 
-Visit the [3D Print Page](/3dprints) showing all images and purchase links.
-
-[3D Print Information Page](/print) has links to purchase prints separately, without BlueSCSI's.
+Visit the [3D Print Page](/print) showing all images and purchase links.

@@ -25,7 +25,7 @@ We have confirmed that the product functions normally and is not broken, damaged
 We confirm the product has been returned with all items, parts, pieces and accessories originally included as part of the product.
 All refunds will be issued via Paypal within 15 days of confirmation that all return and refund policy conditions have been met.
 
-We reserves the right to assess a partial refund or no refund if the returned product does not meet the conditions stated above.
+We reserve the right to assess a partial refund or no refund if the returned product does not meet the conditions stated above.
 
 <b><u>Kit Repair/Return/Refund Policy</u></b>
 
@@ -36,8 +36,7 @@ If you believe your kit has a defective part (PCB, chip module, etc.), please co
 You pay for return shipping, and
 we will receive and confirm the product defect and
 your unit will be either repaired and returned for free, or you can select one of these options:<br>
-If the problem source cannot be determined, a replacement kit will be offered for the cost of return shipping<br>
-You can opt to a fully assembled unit for the cost difference, plus return shipping
+If the problem source cannot be determined, a replacement kit will be offered for the cost of return shipping. You can opt to a fully assembled unit for the cost difference, plus return shipping.
 
 <b><u>Full Assembled Product Warranty Repair/Return/Refund Policy</u></b>
 

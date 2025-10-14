@@ -4,17 +4,28 @@ layout: default
 note: false
 permalink: /print
 ---
+<div class="container">
+<div class="row" markdown="1">
 
-##### 3D Print cases and brackets for your BlueSCSI
+##### 3D Print cases and mounts for your BlueSCSI
 
-We now have a wide range of 3D Mounts/Cases for your BlueSCSI. You can view them at the bottom of each regional page, or [all on this page here](/3dprints). Please make sure you add them to your Cart before checkout if you require one. We now produce high quality PLA prints using a Prusa printer and Polyterra PLA. We charge a small fee for these prints, but you are welcome to print your own, see [here](https://bluescsi.com/docs/Accessories). We are licensed to sell mounts by PotatoFi which can be found on Printables here → [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}
+We now have a wide range of 3D Mounts/Cases for your BlueSCSI. Please make sure you add them to your Cart before checkout if you require one. We now produce high quality PLA prints using a Prusa printer and Polyterra PLA. We charge a small fee for these prints, but you are welcome to print your own, see [here](https://bluescsi.com/docs/Accessories). We are licensed to sell mounts by PotatoFi which can be found on Printables here → [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}
 
-  <p class="lead text-center">
-    <img src="/assets/img/3dprints.webp" class="img-thumbnail" alt="3d prints">
-  </p>
+&#9940; ORDERS THESE ONLY WITH A BLUESCSI &#9940;
+
+{% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'print'" %}
+<div class="container">
+<div class="row">
+  {% for page in cat_items %}
+<div class="col-md-4" markdown="1">
+{% include list3dprint.md %}
+</div>
+    {% endfor %}
+</div>
+</div>
 
 ##### Purchasing 3D Prints ONLY
-If you ONLY need to purchase a 3D print, as you built a BlueSCSI yourself, we do sell them separately below which show the postage cost. Postage is free if purchased WITH a BlueSCSI. This is more of a service to those without a 3D printer. All these are for the latest PCB revisions. If you need a print for an earlier PCB revision please use our contact form. To see pictures of the 3D prints visit [this page](/3dprints)
+If you ONLY need to purchase a 3D print, as you built a BlueSCSI yourself, we do sell them separately below which show the postage cost. Postage is free if purchased WITH a BlueSCSI. This is more of a service to those without a 3D printer. All these are for the latest PCB revisions. If you need a print for an earlier PCB revision please use our contact form.
 
 This is for worldwide buyers, but please understand we will use Royal Mail standard international shipping, so no tracking is available. Please allow up to 2 weeks for delivery of 3D prints if outside the UK.
 
@@ -25,3 +36,6 @@ This is for worldwide buyers, but please understand we will use Royal Mail stand
     hostedButtonId: "B34PV8F94KUKW",
   }).render("#paypal-container-B34PV8F94KUKW")
 </script>
+
+</div>
+</div>

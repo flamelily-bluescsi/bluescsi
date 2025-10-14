@@ -8,7 +8,7 @@ permalink: /amiga
 
 <div class="container">
 
-<u>🇬🇧 Amiga Products 🇬🇧</u>
+<u>Amiga Products</u>
 <div class="row">
 	{% for page in cat_items %}
 <div class="col-md-4" markdown="1">

@@ -8,7 +8,6 @@ permalink: /print
 <div class="row" markdown="1">
 
 ##### 3D Print cases and mounts for your BlueSCSI
-
 We now have a wide range of 3D Mounts/Cases for your BlueSCSI. Please make sure you add them to your Cart before checkout if you require one. We now produce high quality PLA prints using a Prusa printer and Polyterra PLA. We charge a small fee for these prints, but you are welcome to print your own, see [here](https://bluescsi.com/docs/Accessories). We are licensed to sell mounts by PotatoFi which can be found on Printables here → [PotatoFi](https://www.printables.com/@PotatoFi){:target="_blank"}
 
 &#9940; ORDERS THESE ONLY WITH A BLUESCSI &#9940;
@@ -36,6 +35,5 @@ This is for worldwide buyers, but please understand we will use Royal Mail stand
     hostedButtonId: "B34PV8F94KUKW",
   }).render("#paypal-container-B34PV8F94KUKW")
 </script>
-
 </div>
 </div>

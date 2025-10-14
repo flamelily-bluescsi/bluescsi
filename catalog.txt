@@ -15,6 +15,7 @@ catalog = {
 		{%- endif -%} 
 	{%- endif -%}
 {%- endfor %}
+
 		,powersharkuk: {
 			name: "PowerShark UK",
 			description: "PowerShark - For UK buyers",

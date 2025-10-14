@@ -50,7 +50,7 @@ cffloppy: 10
 pico2: 3
 pico2w: 3
 powershark: 0
-vgaadapter: 0
+vgaadapter: 10
 # Prices
 picomemukprice: 46
 picomemrowprice: 58
@@ -61,6 +61,8 @@ picogusrowprice: 62
 deniseukprice: 132
 deniseusprice: 155
 deniserowprice: 144
+denisevgapriceuk: 16
+denisevgapricerow: 22
 psukprice: 88
 psrowprice: 99
 psusprice: 112

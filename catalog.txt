@@ -72,5 +72,13 @@ catalog = {
 			name: "Amiga Denise PCB Kit - ROW",
 			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
 			price: {{ site.deniserowprice }}
+		},vgaadapter: {
+			name: "VGA Adapter PCB for Denise - UK",
+			description: "RGB out to a VGA socket for 15Khz monitors",
+			price: {{ site.denisevgapriceuk }}
+		},vgaadapterrow: {
+			name: "VGA Adapter PCB for Denise - ROW",
+			description: "RGB out to a VGA socket for 15Khz monitors",
+			price: {{ site.denisevgapricerow }}
 		}
 }

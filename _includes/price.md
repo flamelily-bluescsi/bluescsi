@@ -11,6 +11,9 @@
     <option value="uk" data-price="{{site.deniseukprice}}" data-sku="deniseuk">🇬🇧 UK Delivery - £{{site.deniseukprice}} (48hr tracked)</option>
     <option value="us" data-price="{{site.deniseusprice}}" data-sku="deniseus">🇺🇸 US Delivery - £{{site.deniseusprice}} (Tariffs/Duites Paid)</option>
     <option value="row" data-price="{{site.deniserowprice}}" data-sku="deniserow">🌍 Rest of World - £{{site.deniserowprice}} (International tracked)</option>
+  {% elsif page.cart_name contains 'VGA Adapter' %}
+    <option value="uk" data-price="{{site.denisevgapriceuk}}" data-sku="vgaadapter">🇬🇧 UK Delivery - £{{site.denisevgapriceuk}}</option>
+    <option value="row" data-price="{{site.denisevgapricerow}}" data-sku="vgaadapterrow">🌍 Rest of World - £{{site.denisevgapricerow}} (International standard)</option>  
   {% elsif page.cart_name contains 'PicoGUS' %}
     <option value="uk" data-price="{{site.picogusukprice}}" data-sku="picogusuk">🇬🇧 UK Delivery - £{{site.picogusukprice}}</option>
     <option value="row" data-price="{{site.picogusrowprice}}" data-sku="picogusrow">🌍 Rest of World - £{{site.picogusrowprice}} (International tracked)</option>

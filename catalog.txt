@@ -36,6 +36,14 @@ catalog = {
 			name: "PicoMEM 8-bit ISA ROW",
 			description: "PicoMEM All in One 8-Bit ISA Expansion Card ROW",
 			price: {{ site.picomemrowprice }}
+		},adlibpicomem: {
+			name: "AdLib Module with the PicoMEM",
+			description: "AdLib Module included with the PicoMEM ISA Expansion Card",
+			price: {{ site.adlibprice }}
+		},adlibonly: {
+			name: "AdLib Module Only for the PicoMEM",
+			description: "AdLib Module Only for the PicoMEM ISA Expansion Card",
+			price: {{ site.adlibonlyprice }}
 		},midi15uk: {
 			name: "Midi Cable Type A UK",
 			description: "Midi Cable Type A UK",

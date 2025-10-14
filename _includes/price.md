@@ -10,9 +10,12 @@
   {% elsif page.cart_name contains 'PicoGUS' %}
     <option value="uk" data-price="{{site.picogusukprice}}" data-sku="picogusuk">🇬🇧 UK Delivery - £{{site.picogusukprice}}</option>
     <option value="row" data-price="{{site.picogusrowprice}}" data-sku="picogusrow">🌍 Rest of World - £{{site.picogusrowprice}} (International tracked)</option>
-  {% elsif page.cart_name contains 'PicoMEM' %}
+  {% elsif page.cart_name contains 'PicoMEM 8-bit' %}
     <option value="uk" data-price="{{site.picomemukprice}}" data-sku="picomemuk">🇬🇧 UK Delivery - £{{site.picomemukprice}}</option>
     <option value="row" data-price="{{site.picomemrowprice}}" data-sku="picomemrow">🌍 Rest of World - £{{site.picomemrowprice}} (International tracked)</option>
+  {% elsif page.cart_name contains 'AdLib Module' %}
+    <option value="uk" data-price="{{ site.adlibprice }}" data-sku="adlibpicomem">🇬🇧🌍 Only with PicoMEM - £{{ site.adlibprice }}</option>
+    <option value="row" data-price="{{ site.adlibonlyprice }}" data-sku="adlibonly">🇬🇧🌍 Separate Adlib Purchase (without PicoMEM) - £{{ site.adlibonlyprice }} (standard delivery)</option>
   {% elsif page.cart_name contains 'Midi Cable' %}
     <option value="uk" data-price="6" data-sku="midi15uk">🇬🇧 UK Delivery - £6</option>
     <option value="row" data-price="10" data-sku="midi15row">🌍 Rest of World - £10 (International standard)</option>

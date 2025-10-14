@@ -54,6 +54,8 @@ vgaadapter: 0
 # Prices
 picomemukprice: 46
 picomemrowprice: 58
+adlibprice: 7
+adlibonlyprice: 11
 picogusukprice: 50
 picogusrowprice: 62
 psukprice: 88

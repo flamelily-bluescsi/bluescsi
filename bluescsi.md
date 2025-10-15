@@ -55,4 +55,4 @@ Please click on the Title of each item to view more information about it on the 
 
 ##### 3D Prints (for purchase with a BlueSCSI)
 
-Visit the [3D Print Page](/3dprints) to add a BlueSCSI mount for your device.
+Visit the [3D Print Page](/print) to add a BlueSCSI mount for your device.

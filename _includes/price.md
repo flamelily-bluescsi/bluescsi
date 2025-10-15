@@ -7,6 +7,33 @@
     <option value="uk" data-price="{{site.psukprice}}" data-sku="powersharkuk">🇬🇧 UK Delivery - £{{site.psukprice}} (48hr tracked)</option>
     <option value="us" data-price="{{site.psusprice}}" data-sku="powersharkus">🇺🇸 US Delivery - £{{site.psusprice}} (Tariffs Paid)</option>
     <option value="row" data-price="{{site.psrowprice}}" data-sku="powersharkrow">🌍 Rest of World - £{{site.psrowprice}} (International tracked)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI Desktop' %}
+    <option value="uk" data-price="{{ site.desktopukprice }}" data-sku="v2desktopuk">🇬🇧 UK Delivery - £{{ site.desktopukprice }}</option>
+    <option value="row" data-price="{{ site.desktoprowprice }}" data-sku="v2desktoprow">🌍 Rest of World - £{{ site.desktoprowprice }} (International tracked)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI Desktop Kit' %}
+    <option value="uk" data-price="{{ site.desktopkitukprice }}" data-sku="v2desktopkituk">🇬🇧 UK Delivery - £{{ site.desktopkitukprice }}</option>
+    <option value="row" data-price="{{ site.desktopkitrowprice }}" data-sku="v2desktopkitrow">🌍 Rest of World - £{{ site.desktopkitrowprice }} (International tracked)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI Desktop PCB Only' %}
+    <option value="uk" data-price="{{ site.desktoppcbukprice }}" data-sku="v2desktoppcbuk">🇬🇧 UK Delivery - £{{ site.desktoppcbukprice }}</option>
+    <option value="row" data-price="{{ site.desktoppcbrowprice }}" data-sku="v2desktoppcbrow">🌍 Rest of World - £{{ site.desktoppcbrowprice }} (International tracked)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI DB25 Mini' %}
+    <option value="uk" data-price="{{ site.db25ukprice }}" data-sku="v2db25uk">🇬🇧 UK Delivery - £{{ site.db25ukprice }}</option>
+    <option value="row" data-price="{{ site.db25rowprice }}" data-sku="v2db25row">🌍 Rest of World - £{{ site.db25rowprice }} (International standard)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI DB25 Mini Kit' %}
+    <option value="uk" data-price="{{ site.db25kitukprice }}" data-sku="v2db25kituk">🇬🇧 UK Delivery - £{{ site.db25kitukprice }}</option>
+    <option value="row" data-price="{{ site.db25kitrowprice }}" data-sku="v2db25kitrow">🌍 Rest of World - £{{ site.db25kitrowprice }} (International tracked)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI DB25 Mini PCB' %}
+    <option value="uk" data-price="{{ site.db25pcbukprice }}" data-sku="v2db25pcbuk">🇬🇧 UK Delivery - £{{ site.db25pcbukprice }}</option>
+    <option value="row" data-price="{{ site.db25pcbrowprice }}" data-sku="v2db25pcbrow">🌍 Rest of World - £{{ site.db25pcbrowprice }} (International tracked)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI Powerbook' %}
+    <option value="uk" data-price="{{ site.pbukprice }}" data-sku="v2pbuk">🇬🇧 UK Delivery - £{{ site.pbukprice }}</option>
+    <option value="row" data-price="{{ site.pbrowprice }}" data-sku="v2pbrow">🌍 Rest of World - £{{ site.pbrowprice }} (International standard)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI Powerbook Kit' %}
+    <option value="uk" data-price="{{ site.pbkitukprice }}" data-sku="v2pbkituk">🇬🇧 UK Delivery - £{{ site.pbkitukprice }}</option>
+    <option value="row" data-price="{{ site.pbkitrowprice }}" data-sku="v2pbkitrow">🌍 Rest of World - £{{ site.pbkitrowprice }} (International tracked)</option>
+  {% elsif page.cart_name == 'V2 BlueSCSI Powerbook PCB' %}
+    <option value="uk" data-price="{{ site.pbpcbukprice }}" data-sku="v2pbpcbuk">🇬🇧 UK Delivery - £{{ site.pbpcbukprice }}</option>
+    <option value="row" data-price="{{ site.pbpcbrowprice }}" data-sku="v2pbpcbrow">🌍 Rest of World - £{{ site.pbpcbrowprice }} (International tracked)</option>                
   {% elsif page.cart_name contains 'Amiga Denise PCB' %}
     <option value="uk" data-price="{{site.deniseukprice}}" data-sku="deniseuk">🇬🇧 UK Delivery - £{{site.deniseukprice}} (48hr tracked)</option>
     <option value="us" data-price="{{site.deniseusprice}}" data-sku="deniseus">🇺🇸 US Delivery - £{{site.deniseusprice}} (Tariffs/Duites Paid)</option>

@@ -1,7 +1,0 @@
-The V2 Desktop version allows you to directly connect your BlueSCSI to a vintage SCSI drive and copy data from it without needing a bootable "Host Device" or computer. Image those failing SCSI drives. See [this DOC](https://bluescsi.com/docs/Initiator-Mode){:target="_blank"} for more info. The latest firmware will be flashed to every Pico we send out.
-
-Please click on the Title of each item to view more information about it on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices <b>include</b> tracked delivery, and you will get a tracking number via email. You can also access the tracking info via Paypal. We ship from the U.K (Royal Mail). Please be aware you might be responsible for customs charges by your Postal provider. We are a registered distributor for the BlueSCSI, and the project creators will get a share of every purchase. Click the buttons below to view the Github pages and for detailed Assembly Instructions.
-
-<p class="lead text-center">
-    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V1 Github</a>&nbsp;<a href="https://github.com/BlueSCSI/BlueSCSI-v2" target="_blank" class="btn btn-lg btn-primary">V2 Github</a>&nbsp;<a href="https://bluescsi.com/docs/Kit-Assembly-Instructions" target="_blank" class="btn btn-lg btn-primary">Kit Assembly</a>
-</p>

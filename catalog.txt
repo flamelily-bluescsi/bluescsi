@@ -55,11 +55,11 @@ catalog = {
 		},picogusrow: {
 			name: "PicoGUS board Rest of the World",
 			description: "PicoGUS board ROW - Fully Assembled",
-			price: 62
+			price: {{ site.picogusrowprice }}
 		},picogusuk: {
 			name: "PicoGUS board UK",
 			description: "PicoGUS board UK - Fully Assembled",
-			price: 50
+			price: {{ site.picogusukprice }}
 		},deniseuk: {
 			name: "Amiga Denise PCB Kit - UK",
 			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
@@ -80,5 +80,77 @@ catalog = {
 			name: "VGA Adapter PCB for Denise - ROW",
 			description: "RGB out to a VGA socket for 15Khz monitors",
 			price: {{ site.denisevgapricerow }}
+		},v2desktopuk: {
+			name: "V2 BlueSCSI Desktop UK",
+			description: "V2 BlueSCSI Desktop 50pin Right Angle - Assembled",
+			price: {{ site.desktopukprice }}
+		},v2desktoprow: {
+			name: "V2 BlueSCSI Desktop ROW",
+			description: "V2 BlueSCSI Desktop 50pin Right Angle - Assembled",
+			price: {{ site.desktoprowprice }}
+		},v2desktopkituk: {
+			name: "V2 BlueSCSI Desktop Kit UK",
+			description: "V2 BlueSCSI Desktop 50pin Right Angle - Kit",
+			price: {{ site.desktopkitukprice }}
+		},v2desktopkitrow: {
+			name: "V2 BlueSCSI Desktop Kit ROW",
+			description: "V2 BlueSCSI Desktop 50pin Right Angle - Kit",
+			price: {{ site.desktopkitrowprice }}
+		},v2desktoppcbuk: {
+			name: "V2 BlueSCSI Desktop PCB UK",
+			description: "V2 BlueSCSI Desktop 50pin Right Angle - PCB Only",
+			price: {{ site.desktoppcbukprice }}
+		},v2desktoppcbrow: {
+			name: "V2 BlueSCSI Desktop PCB ROW",
+			description: "V2 BlueSCSI Desktop 50pin Right Angle - PCB Only",
+			price: {{ site.desktoppcbrowprice }}
+		},v2db25uk: {
+			name: "V2 BlueSCSI DB25 Mini UK",
+			description: "V2 BlueSCSI DB25 Mini - Assembled",
+			price: {{ site.db25ukprice }}
+		},v2db25row: {
+			name: "V2 BlueSCSI DB25 Mini ROW",
+			description: "V2 BlueSCSI DB25 Mini - Assembled",
+			price: {{ site.db25rowprice }}
+		},v2db25kituk: {
+			name: "V2 BlueSCSI DB25 Mini Kit UK",
+			description: "V2 BlueSCSI DB25 Mini Solder - Kit",
+			price: {{ site.db25kitukprice }}
+		},v2db25kitrow: {
+			name: "V2 BlueSCSI DB25 Mini Kit ROW",
+			description: "V2 BlueSCSI DB25 Mini Solder - Kit",
+			price: {{ site.db25kitrowprice }}
+		},v2db25pcbuk: {
+			name: "V2 BlueSCSI DB25 Mini PCB UK",
+			description: "V2 BlueSCSI DB25 Mini Solder - PCB Only",
+			price: {{ site.db25pcbukprice }}
+		},v2db25pcbrow: {
+			name: "V2 BlueSCSI DB25 Mini PCB ROW",
+			description: "V2 BlueSCSI DB25 Mini Solder - PCB Only",
+			price: {{ site.db25pcbrowprice }}
+		},v2pbuk: {
+			name: "V2 BlueSCSI Powerbook UK",
+			description: "V2 BlueSCSI Powerbook - Full Tested Version",
+			price: {{ site.pbukprice }}
+		},v2pbrow: {
+			name: "V2 BlueSCSI Powerbook ROW",
+			description: "V2 BlueSCSI Powerbook - Full Tested Version",
+			price: {{ site.pbrowprice }}
+		},v2pbkituk: {
+			name: "V2 BlueSCSI Powerbook Kit UK",
+			description: "V2 BlueSCSI Powerbook Solder - Kit",
+			price: {{ site.pbkitukprice }}
+		},v2pbkitrow: {
+			name: "V2 BlueSCSI Powerbook Kit ROW",
+			description: "V2 BlueSCSI Powerbook Solder - Kit",
+			price: {{ site.pbkitrowprice }}
+		},v2pbpcbuk: {
+			name: "V2 BlueSCSI Powerbook PCB UK",
+			description: "V2 BlueSCSI Powerbook Solder - PCB Only",
+			price: {{ site.pbpcbukprice }}
+		},v2pbpcbrow: {
+			name: "V2 BlueSCSI Powerbook PCB ROW",
+			description: "V2 BlueSCSI Powerbook Solder - PCB Only",
+			price: {{ site.pbpcbrowprice }}
 		}
 }

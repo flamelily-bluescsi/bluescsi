@@ -146,7 +146,7 @@ note: true
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">3D Prints</h5>
                                     <!-- Product price-->
-                                    From £3.00
+                                    From £4.00
                                 </div>
                             </div>
                             <!-- Product actions-->

@@ -41,14 +41,12 @@ db25: 12
 desktop: 17
 powerbook: 8
 picogus: 23
-picomem: 3
+picomem: 2
 adlib: 6
 rgb2hdmi: 0
 denise: 6
 nic: 5
 cffloppy: 10
-pico2: 3
-pico2w: 3
 powershark: 0
 vgaadapter: 10
 # Prices

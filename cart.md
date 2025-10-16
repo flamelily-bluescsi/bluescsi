@@ -8,3 +8,5 @@ title: Cart
 <div id="cartcontent"></div>
 <script src="/assets/catalog.js"></script>
 <script src="/assets/cart.js"></script>
+<hr>
+IMPORTANT: If you have an empty cart when you add an item, please clear your browser history or use another browser, and try again.

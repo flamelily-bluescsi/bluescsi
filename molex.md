@@ -16,7 +16,7 @@ tags:
 
 {% include carousel1.html %}
 
-This is to purchase a Molex floppy adpater to convert you BlueSCSI from a floppy power connector to the larger mmore common IDE Molex connector.
+This is to purchase a Molex floppy adpater to convert your BlueSCSI from a floppy power connector to the larger more common IDE Molex connector.
 
 * Additional cost molex adapter
 * ONLY purchase with a BlueSCSI

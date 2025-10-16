@@ -5,7 +5,7 @@ permalink: /vga
 cart_name: "VGA Adapter PCB"
 cart_description: "Denise RGB out to a VGA socket for 15Khz monitors"
 cart_price: 15
-cart_image: "assets/img/vgaadapter.webp"
+cart_image: "assets/img/vgapcb.webp"
 tags: 
   - amiga
 ---

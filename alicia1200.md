@@ -4,7 +4,7 @@ title: Amiga Alicia 1200 PCB Kit - NEW
 permalink: /alicia1200
 cart_name: "Amiga Alicia 1200 PCB Kit"
 cart_description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga"
-cart_price: 155
+cart_price: 165
 cart_image: "assets/img/Alicia1200.webp"
 tags: 
   - amiga
@@ -16,7 +16,7 @@ tags:
 {% include carousel1.html %}
 <br>
 
-Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Denise can be found <a href="https://www.enterlogic.se/?page_id=180" target="_blank">here</a>. 
+Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Denise can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. 
 
 Included in the Kit:<br>
 1 x Alicia 1200 PCB (Mini-ITX)<br>

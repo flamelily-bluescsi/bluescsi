@@ -16,7 +16,7 @@ tags:
 {% include carousel1.html %}
 <br>
 
-Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Denise can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. 
+Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Alicia can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. 
 
 Included in the Kit:<br>
 1 x Alicia 1200 PCB (Mini-ITX)<br>

@@ -38,6 +38,10 @@
     <option value="uk" data-price="{{site.deniseukprice}}" data-sku="deniseuk">🇬🇧 UK Delivery - £{{site.deniseukprice}} (48hr tracked)</option>
     <option value="us" data-price="{{site.deniseusprice}}" data-sku="deniseus">🇺🇸 US Delivery - £{{site.deniseusprice}} (Tariffs/Duites Paid)</option>
     <option value="row" data-price="{{site.deniserowprice}}" data-sku="deniserow">🌍 Rest of World - £{{site.deniserowprice}} (International tracked)</option>
+  {% elsif page.cart_name contains 'Alicia 1200' %}
+    <option value="uk" data-price="{{site.aliciaukprice}}" data-sku="aliciauk">🇬🇧 UK Delivery - £{{site.aliciaukprice}} (48hr tracked)</option>
+    <option value="us" data-price="{{site.aliciausprice}}" data-sku="aliciaus">🇺🇸 US Delivery - £{{site.aliciausprice}} (Tariffs/Duites Paid)</option>
+    <option value="row" data-price="{{site.aliciarowprice}}" data-sku="aliciarow">🌍 Rest of World - £{{site.aliciarowprice}} (International tracked)</option>  
   {% elsif page.cart_name contains 'VGA Adapter' %}
     <option value="uk" data-price="{{site.denisevgapriceuk}}" data-sku="vgaadapter">🇬🇧 UK Delivery - £{{site.denisevgapriceuk}}</option>
     <option value="row" data-price="{{site.denisevgapricerow}}" data-sku="vgaadapterrow">🌍 Rest of World - £{{site.denisevgapricerow}} (International standard)</option>  

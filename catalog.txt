@@ -72,6 +72,18 @@ catalog = {
 			name: "Amiga Denise PCB Kit - ROW",
 			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
 			price: {{ site.deniserowprice }}
+		},aliciauk: {
+			name: "Amiga Alicia 1200 PCB Kit - UK",
+			description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga",
+			price: {{ site.aliciaukprice }}
+		},aliciaus: {
+			name: "Amiga Alicia 1200 PCB Kit - US",
+			description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga",
+			price: {{ site.aliciausprice }}
+		},aliciarow: {
+			name: "Amiga Alicia 1200 PCB Kit - ROW",
+			description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga",
+			price: {{ site.aliciarowprice }}
 		},vgaadapter: {
 			name: "VGA Adapter PCB for Denise - UK",
 			description: "RGB out to a VGA socket for 15Khz monitors",

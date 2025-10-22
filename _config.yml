@@ -50,6 +50,7 @@ nic: 5
 cffloppy: 10
 powershark: 0
 vgaadapter: 10
+chipset: 0
 # Prices
 desktopukprice: 52
 desktoprowprice: 65

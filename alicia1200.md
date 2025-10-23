@@ -4,8 +4,10 @@ title: Amiga Alicia 1200 PCB Kit - NEW
 permalink: /alicia1200
 cart_name: "Amiga Alicia 1200 PCB Kit"
 cart_description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga"
-cart_price: 256
-cart_image: "assets/img/Alicia1200.webp"
+cart_price: 240
+cart_image: "assets/img/Alicia-top.webp"
+cart_image1: "assets/img/Alicia-bottom.webp"
+cart_image2: "assets/img/ics.webp"
 tags: 
   - amiga
   - uk
@@ -13,7 +15,7 @@ tags:
 
 ##### 🇬🇧🌍🇺🇸 Amiga Alicia 1200 PCB Kit 🇬🇧🌍🇺🇸
 
-{% include carousel1.html %}
+{% include carousel3.html %}
 <br>
 
 ##### Pre-Order opening soon
@@ -26,6 +28,8 @@ Tornado is an innovative 120-pin expansion bus containing all important signals 
 
 Included in the Kit:<br>
 1 x Alicia 1200 PCB (Mini-ITX)<br>
+4 x IC's (U3, U5, U11, U12)<br>
+1 x 120 pin GOLD connector (CN8 Local Bus)<br>
 You will get an email with tracking and BOM details after dispatch.
 
 We include most SMD components pre soldered on the main board PCB! This saves lots of time and makes Alicia 1200 easier to assemble! You will of course need to source a set of Amiga AGA chipset custom chips.

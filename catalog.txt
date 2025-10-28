@@ -15,7 +15,6 @@ catalog = {
 		{%- endif -%} 
 	{%- endif -%}
 {%- endfor %}
-
 		,powersharkuk: {
 			name: "PowerShark UK",
 			description: "PowerShark - For UK buyers",
@@ -84,6 +83,18 @@ catalog = {
 			name: "Amiga Alicia 1200 PCB Kit - ROW",
 			description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga",
 			price: {{ site.aliciarowprice }}
+		},cpuuk: {
+			name: "A1200 68EC020 Motorola CPU - UK",
+			description: "A1200 68EC020 Motorola CPU",
+			price: {{ site.cpuukprice }}
+		},cpuus: {
+			name: "A1200 68EC020 Motorola CPU - US",
+			description: "A1200 68EC020 Motorola CPU",
+			price: {{ site.cpuusprice }}
+		},cpurow: {
+			name: "A1200 68EC020 Motorola CPU - ROW",
+			description: "A1200 68EC020 Motorola CPU",
+			price: {{ site.cpurowprice }}	
 		},vgaadapter: {
 			name: "VGA Adapter PCB for Denise - UK",
 			description: "RGB out to a VGA socket for 15Khz monitors",

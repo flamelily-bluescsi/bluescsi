@@ -40,6 +40,7 @@ Please be aware that this is NOT a plug and play product. You are purchasing a q
 * Most passive components pre-soldered (~450 pcs)
 * Mainboard Rev1.6
 * Tracked and insured delivery included in the price.
+* Get the CPU for Alicia [here](/68020)
 
 {% if site.alicia > 0 %}
 {% include price.md %}

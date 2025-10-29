@@ -5,7 +5,7 @@
 
   {% if page.cart_name contains 'PowerShark' %}
     <option value="uk" data-price="{{site.psukprice}}" data-sku="powersharkuk">🇬🇧 UK Delivery - £{{site.psukprice}} (48hr tracked)</option>
-    <option value="us" data-price="{{site.psusprice}}" data-sku="powersharkus">🇺🇸 US Delivery - £{{site.psusprice}} (Tariffs Paid)</option>
+    <option value="us" data-price="{{site.psusprice}}" data-sku="powersharkus">🇺🇸 US Delivery - £{{site.psusprice}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{site.psrowprice}}" data-sku="powersharkrow">🌍 Rest of World - £{{site.psrowprice}} (International tracked)</option>
   {% elsif page.cart_name == 'V2 BlueSCSI Desktop' %}
     <option value="uk" data-price="{{ site.desktopukprice }}" data-sku="v2desktopuk">🇬🇧 UK Delivery - £{{ site.desktopukprice }}</option>
@@ -36,15 +36,15 @@
     <option value="row" data-price="{{ site.pbpcbrowprice }}" data-sku="v2pbpcbrow">🌍 Rest of World - £{{ site.pbpcbrowprice }} (International tracked)</option>                
   {% elsif page.cart_name contains 'Amiga Denise PCB' %}
     <option value="uk" data-price="{{site.deniseukprice}}" data-sku="deniseuk">🇬🇧 UK Delivery - £{{site.deniseukprice}} (48hr tracked)</option>
-    <option value="us" data-price="{{site.deniseusprice}}" data-sku="deniseus">🇺🇸 US Delivery - £{{site.deniseusprice}} (Tariffs/Duites Paid)</option>
+    <option value="us" data-price="{{site.deniseusprice}}" data-sku="deniseus">🇺🇸 US Delivery - £{{site.deniseusprice}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{site.deniserowprice}}" data-sku="deniserow">🌍 Rest of World - £{{site.deniserowprice}} (International tracked)</option>
   {% elsif page.cart_name contains 'Alicia 1200' %}
     <option value="uk" data-price="{{site.aliciaukprice}}" data-sku="aliciauk">🇬🇧 UK Delivery - £{{site.aliciaukprice}} (48hr tracked)</option>
-    <option value="us" data-price="{{site.aliciausprice}}" data-sku="aliciaus">🇺🇸 US Delivery - £{{site.aliciausprice}} (Tariffs/Duites Paid)</option>
+    <option value="us" data-price="{{site.aliciausprice}}" data-sku="aliciaus">🇺🇸 US Delivery - £{{site.aliciausprice}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{site.aliciarowprice}}" data-sku="aliciarow">🌍 Rest of World - £{{site.aliciarowprice}} (International tracked)</option>
   {% elsif page.cart_name contains '68EC020' %}
     <option value="uk" data-price="{{site.cpuukprice}}" data-sku="cpuuk">🇬🇧 UK Delivery - £{{site.cpuukprice}} (2nd Class)</option>
-    <option value="us" data-price="{{site.cpuusprice}}" data-sku="cpuus">🇺🇸 US Delivery - £{{site.cpuusprice}} (Tariffs/Duites Paid)</option>
+    <option value="us" data-price="{{site.cpuusprice}}" data-sku="cpuus">🇺🇸 US Delivery - £{{site.cpuusprice}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{site.cpurowprice}}" data-sku="cpurow">🌍 Rest of World - £{{site.cpurowprice}} (International tracked)</option>        
   {% elsif page.cart_name contains 'VGA Adapter' %}
     <option value="uk" data-price="{{site.denisevgapriceuk}}" data-sku="vgaadapter">🇬🇧 UK Delivery - £{{site.denisevgapriceuk}}</option>

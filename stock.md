@@ -16,7 +16,7 @@ All the Amiga items have their stock count shown above the price on their respec
 ###### BlueSCSI V2 DB25 Mini Stock : {{site.db25}}
 ###### BlueSCSI V2 Powerbook Stock : {{site.powerbook}}
 ###### Denise Stock : {{site.denise}}
-###### Alicia 1200 : This will now not be pre-order (1st Batch end of Nov)
+###### Alicia 1200 : This will now not be pre-order (1st Batch December)
 ###### PicoGUS Stock : {{site.picogus}}
 ###### PicoMEM Stock : {{site.picomem}}
 ###### Powershark Stock : {{site.powershark}} - Next batch will be coming November 2025

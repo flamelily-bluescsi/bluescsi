@@ -4,7 +4,7 @@ title: Amiga Alicia 1200 PCB Kit - NEW
 permalink: /alicia1200
 cart_name: "Amiga Alicia 1200 PCB Kit"
 cart_description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga"
-cart_price: 240
+cart_price: 245
 cart_image: "assets/img/Alicia-top.webp"
 cart_image1: "assets/img/Alicia-bottom.webp"
 cart_image2: "assets/img/ics.webp"

@@ -27,7 +27,7 @@ Included in the Kit:<br>
 1 x Denise PCB (Mini-ITX) REV2.2<br>
 1 x 72-pin SIMM PCB (2MB CHIP)<br>
 2 x MCU with necessary firmware<br>
-You will get an email with tracking and BOM details after dispatch.
+You can get the Denise [BOM details here](https://nextcloud.syntaxsociety.se/index.php/s/oxiJyBPqgZe8cGT){:target="_blank"}.
 
 We include ALL SMD components pre soldered on the main board PCB! This saves lots of time and makes Denise even easier to assemble! Please note that the included SIMM PCB will <b>NOT</b> have SMD pre soldered. You will of course need to source a set of Amiga ECS chipset custom chips. A battery damaged A500+ is a great source for this. This new PCB batch also has twice the copper of previous boards as well as High-definition Exposure Silkscreen on the new beautiful SIMM.
 

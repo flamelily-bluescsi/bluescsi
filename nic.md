@@ -19,7 +19,7 @@ tags:
 
 This is a carefully designed slim (15,4 x 5,3 cm) 10Mbit Zorro II Compatible AMIGA Network Card. We have a limited supply of Black Gold (ENIG). This card was designed as an accessory for Denise. A slim network card perfect for those Mini-ITX chassis. It will of course work in big box Amiga's too - A2000, A3000 and A4000. Already supported by AmigaOS TCP/IP stacks like Miami, AmiTCP and RoadShow with existing drivers [(Ariadne2).](https://amiga.resource.cx/exp/ariadne2){:target="_blank"}
 
-This is not ready for plug & play! It is a bare PCB, with a MACH111 CPLD and Flash IC. This is a Super slim Zorro II AMIGA Compatible Network Card for Denise. This is low profile so will fit in compact Mini ITX cases. You will need to source extra components. The CPLD (U7) is programed with the JED firmware. You will get an email with BOM details, and extra files after dispatch.
+This is not ready for plug & play! It is a bare PCB, with a MACH111 CPLD and Flash IC. This is a Super slim Zorro II AMIGA Compatible Network Card for Denise. This is low profile so will fit in compact Mini ITX cases. You will need to source extra components. The CPLD (U7) is programed with the JED firmware. You can get the [BOM details here](https://nextcloud.syntaxsociety.se/index.php/s/oxiJyBPqgZe8cGT){:target="_blank"}.
 
 * Amiga Zorro II network card PCB
 * MACH111 CPLD and Flash IC included

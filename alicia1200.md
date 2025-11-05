@@ -30,7 +30,7 @@ Included in the Kit:<br>
 1 x Alicia 1200 PCB (Mini-ITX)<br>
 4 x IC's (U3, U5, U11, U12)<br>
 1 x 120 pin GOLD connector (CN8 Local Bus)<br>
-You will get an email with tracking and BOM details after dispatch.
+You can get Alicia [BOM details here](https://nextcloud.syntaxsociety.se/index.php/s/R3twMwanY6oLrHd){:target="_blank"}.
 
 We include most SMD components pre soldered on the main board PCB! This saves lots of time and makes Alicia 1200 easier to assemble! You will of course need to source a set of Amiga AGA chipset custom chips.
 
@@ -40,7 +40,7 @@ Please be aware that this is NOT a plug and play product. You are purchasing a q
 * Most passive components pre-soldered (~450 pcs)
 * Mainboard Rev1.6
 * Tracked and insured delivery included in the price.
-* Get the CPU for Alicia [here](/68020)
+* Get the CPU for Alicia [here](/68020) and Video DAC [here](/dac)
 
 {% if site.alicia > 0 %}
 {% include price.md %}

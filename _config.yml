@@ -53,6 +53,7 @@ cffloppy: 10
 powershark: 0
 vgaadapter: 10
 cpu: 11
+dac: 9
 # Prices
 desktopukprice: 52
 desktoprowprice: 65

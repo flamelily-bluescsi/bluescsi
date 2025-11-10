@@ -37,6 +37,8 @@ We include most SMD components pre soldered on the main board PCB! This saves lo
 Important information:
 Please be aware that this is NOT a plug and play product. You are purchasing a quality (TG-155/ENIG) PCB, and build instructions. No warranty or support is offered. We are the <b>registered UK reseller</b> for the Alicia 1200, and the project maintainer will get a commission for every one we sell.
 
+###### We will offer a build option. Please use our contact form [here](/contact).
+
 * Most passive components pre-soldered (~450 pcs)
 * Mainboard Rev1.6
 * Tracked and insured delivery included in the price.

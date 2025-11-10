@@ -39,9 +39,9 @@
     <option value="us" data-price="{{site.deniseusprice}}" data-sku="deniseus">🇺🇸 US Delivery - £{{site.deniseusprice}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{site.deniserowprice}}" data-sku="deniserow">🌍 Rest of World - £{{site.deniserowprice}} (International tracked)</option>
   {% elsif page.cart_name contains 'Alicia 1200' %}
-    <option value="uk" data-price="{{site.aliciaukprice}}" data-sku="aliciauk">🇬🇧 UK Delivery - £{{site.aliciaukprice}} (48hr tracked)</option>
-    <option value="us" data-price="{{site.aliciausprice}}" data-sku="aliciaus">🇺🇸 US Delivery - £{{site.aliciausprice}} (Tariffs/Duties Paid)</option>
-    <option value="row" data-price="{{site.aliciarowprice}}" data-sku="aliciarow">🌍 Rest of World - £{{site.aliciarowprice}} (International tracked)</option>
+    <option value="uk" data-price="{{site.aliciaukprice}}" data-sku="aliciauk">🇬🇧 UK Delivery - £{{site.aliciaukprice}} (PREORDER Dispatch Mid December - 48hr tracked)</option>
+    <option value="us" data-price="{{site.aliciausprice}}" data-sku="aliciaus">🇺🇸 US Delivery - £{{site.aliciausprice}} (PREORDER Dispatch Mid December - Tariffs/Duties Paid)</option>
+    <option value="row" data-price="{{site.aliciarowprice}}" data-sku="aliciarow">🌍 Rest of World - £{{site.aliciarowprice}} (PREORDER Dispatch Mid December - International tracked)</option>
   {% elsif page.cart_name contains '68EC020' %}
     <option value="uk" data-price="{{site.cpuukprice}}" data-sku="cpuuk">🇬🇧 UK Delivery - £{{site.cpuukprice}} (2nd Class)</option>
     <option value="us" data-price="{{site.cpuusprice}}" data-sku="cpuus">🇺🇸 US Delivery - £{{site.cpuusprice}} (Tariffs/Duties Paid)</option>

@@ -47,7 +47,7 @@ picomem: 25
 adlib: 6
 rgb2hdmi: 0
 denise: 6
-alicia: 0
+alicia: 1
 nic: 6
 cffloppy: 10
 powershark: 19

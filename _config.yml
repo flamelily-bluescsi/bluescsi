@@ -37,7 +37,7 @@ plugins:
 icon: "&#128722;"
 # Stock
 bsv1: 5
-db25: 12
+db25: 8
 desktop: 17
 powerbook: 6
 pico2: 3
@@ -46,11 +46,11 @@ picogus: 23
 picomem: 25
 adlib: 6
 rgb2hdmi: 0
-denise: 6
+denise: 5
 alicia: 1
 nic: 6
 cffloppy: 10
-powershark: 16
+powershark: 13
 vgaadapter: 10
 cpu: 11
 dac: 9

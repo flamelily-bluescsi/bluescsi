@@ -50,10 +50,11 @@ denise: 5
 alicia: 1
 nic: 6
 cffloppy: 10
-powershark: 3
+powershark: 0
 vgaadapter: 10
 cpu: 11
 dac: 9
+juicebox: 0
 # Prices
 desktopukprice: 52
 desktoprowprice: 65
@@ -88,6 +89,9 @@ aliciarowprice: 255
 cpuukprice: 25
 cpuusprice: 38
 cpurowprice: 35
+juiceukprice: 38
+juiceusprice: 52
+juicerowprice: 48
 denisevgapriceuk: 16
 denisevgapricerow: 22
 psukprice: 88

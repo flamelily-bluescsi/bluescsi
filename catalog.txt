@@ -95,6 +95,18 @@ catalog = {
 			name: "A1200 68EC020 Motorola CPU - ROW",
 			description: "A1200 68EC020 Motorola CPU",
 			price: {{ site.cpurowprice }}	
+		},juiceuk: {
+			name: "Amiga Juice Box - UK",
+			description: "Amiga Juice Box",
+			price: {{ site.juiceukprice }}
+		},juiceus: {
+			name: "Amiga Juice Box - US",
+			description: "Amiga Juice Box",
+			price: {{ site.juiceusprice }}
+		},juicerow: {
+			name: "Amiga Juice Box - ROW",
+			description: "Amiga Juice Box",
+			price: {{ site.juicerowprice }}	
 		},vgaadapter: {
 			name: "VGA Adapter PCB for Denise - UK",
 			description: "RGB out to a VGA socket for 15Khz monitors",

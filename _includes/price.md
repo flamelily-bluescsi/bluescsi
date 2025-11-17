@@ -45,7 +45,11 @@
   {% elsif page.cart_name contains '68EC020' %}
     <option value="uk" data-price="{{site.cpuukprice}}" data-sku="cpuuk">🇬🇧 UK Delivery - £{{site.cpuukprice}} (2nd Class)</option>
     <option value="us" data-price="{{site.cpuusprice}}" data-sku="cpuus">🇺🇸 US Delivery - £{{site.cpuusprice}} (Tariffs/Duties Paid)</option>
-    <option value="row" data-price="{{site.cpurowprice}}" data-sku="cpurow">🌍 Rest of World - £{{site.cpurowprice}} (International tracked)</option>        
+    <option value="row" data-price="{{site.cpurowprice}}" data-sku="cpurow">🌍 Rest of World - £{{site.cpurowprice}} (International tracked)</option>       
+  {% elsif page.cart_name contains 'Juice' %}
+    <option value="uk" data-price="{{site.juiceukprice}}" data-sku="juiceuk">🇬🇧 UK Delivery - £{{site.juiceukprice}} (2nd Class)</option>
+    <option value="us" data-price="{{site.juiceusprice}}" data-sku="juiceus">🇺🇸 US Delivery - £{{site.juiceusprice}} (Tariffs/Duties Paid)</option>
+    <option value="row" data-price="{{site.juicerowprice}}" data-sku="juicerow">🌍 Rest of World - £{{site.juicerowprice}} (International tracked)</option>      
   {% elsif page.cart_name contains 'VGA Adapter' %}
     <option value="uk" data-price="{{site.denisevgapriceuk}}" data-sku="vgaadapter">🇬🇧 UK Delivery - £{{site.denisevgapriceuk}}</option>
     <option value="row" data-price="{{site.denisevgapricerow}}" data-sku="vgaadapterrow">🌍 Rest of World - £{{site.denisevgapricerow}} (International standard)</option>  

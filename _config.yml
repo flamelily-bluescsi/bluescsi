@@ -55,6 +55,7 @@ vgaadapter: 10
 cpu: 11
 dac: 9
 juicebox: 0
+scsiadapter: 6
 # Prices
 desktopukprice: 52
 desktoprowprice: 65

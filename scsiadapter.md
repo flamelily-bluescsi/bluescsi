@@ -18,7 +18,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is SCSI Adapter for use with any SCSI situation where you need to convert a 50 pin connector to a DB25 connector.
+This is SCSI Adapter for use with any SCSI situation where you need to convert a 50 pin connector to a DB25 connector or the other way around.
 
 * Tested and complete
 * Female to Female adapter

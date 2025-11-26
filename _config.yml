@@ -22,7 +22,7 @@ title: Flamelily Retro
 description: >- # this means to ignore newlines until "baseurl:"
   All your retro SCSI and PCB needs in one place. New stuff for old tech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https//shop.flamelily.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shop.flamelily.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlamelilyIT
 github_username:  flamelily-bluescsi
 lang: en

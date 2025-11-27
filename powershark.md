@@ -4,7 +4,11 @@ title: Amiga PowerShark
 permalink: /powershark
 cart_name: "PowerShark"
 cart_description: "PowerShark - For all buyers"
+cart_itemid: powershark
 cart_price: 88
+cart_price_uk: 88
+cart_price_us: 112
+cart_price_row: 99
 cart_image: "assets/img/powershark-black.webp"
 cart_image1: "assets/img/powershark-black1.webp"
 tags: 

@@ -1,12 +1,16 @@
 ---
 layout: page
 title: V2 Powerbook PCB
+permalink: /powerbookpcb
 cart_name: "V2 BlueSCSI Powerbook PCB"
 cart_description: "V2 BlueSCSI Powerbook Solder PCB only"
+cart_itemid: powerbookpcb
 cart_price: 32
+cart_price_uk: 32
+cart_price_us: 49
+cart_price_row: 42
 cart_image: "assets/img/powerbookpcb.webp"
 cart_image1: "assets/img/PowerBook_pcb.jpg"
-permalink: /powerbookpcb
 tags: 
   - scsi
   - pbv2

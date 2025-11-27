@@ -1,12 +1,16 @@
 ---
 layout: page
-title: V2 Desktop PCB Only 
+title: V2 Desktop PCB Only
+permalink: /desktoppcb
 cart_name: "V2 BlueSCSI Desktop PCB Only"
 cart_description: "V2 BlueSCSI Desktop PCB Only 50pin Right Angle - NO Pico"
+cart_itemid: desktoppcb
 cart_price: 32
+cart_price_uk: 32
+cart_price_us: 49
+cart_price_row: 42
 cart_image: "assets/img/desktop1.webp"
 cart_image1: "assets/img/boardonly.webp"
-permalink: /desktoppcb
 tags: 
   - scsi
   - deskv2

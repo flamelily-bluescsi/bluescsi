@@ -4,7 +4,10 @@ permalink: /adlibpicomem
 title: I2S / AdLib Module for the PicoMEM ISA Expansion Card
 cart_name: "AdLib Module for the PicoMEM"
 cart_description: "AdLib Module for the PicoMEM ISA Expansion Card"
+cart_itemid: adlibpicomem
 cart_price: 7
+cart_price_with: 7
+cart_price_without: 11
 cart_image: "assets/img/adlib.webp"
 cart_image1: "assets/img/adlibpicomem.webp"
 tags: 

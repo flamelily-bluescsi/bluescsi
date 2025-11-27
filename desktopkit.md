@@ -1,12 +1,16 @@
 ---
 layout: page
 title: V2 Desktop Kit
+permalink: /desktopkit
 cart_name: "V2 BlueSCSI Desktop Kit"
 cart_description: "V2 BlueSCSI Desktop 50pin Solder Kit"
+cart_itemid: desktopkit
 cart_price: 38
+cart_price_uk: 38
+cart_price_us: 54
+cart_price_row: 48
 cart_image: "assets/img/desktop1.webp"
 cart_image1: "assets/img/kits.webp"
-permalink: /desktopkit
 tags: 
   - scsi
   - deskv2

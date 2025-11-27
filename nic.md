@@ -6,6 +6,9 @@ cart_itemid: nicpcb
 cart_name: "Black NIC PCB for Denise"
 cart_description: "Black Network card PCB for Denise"
 cart_price: 30
+cart_price_uk: 30
+cart_price_us: 42
+cart_price_row: 40
 cart_image: "assets/img/nicblack.webp"
 tags: 
   - amiga

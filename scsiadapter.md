@@ -1,13 +1,13 @@
 ---
 layout: page
 title: SCSI Adapter
-cart_itemid: scsiadapter
+permalink: /scsiadapter
 cart_name: "SCSI Adapter"
 cart_description: "SCSI Adapter female to female"
+cart_itemid: scsiadapter
 cart_price: 12
 cart_image: "assets/img/scsiadapter.webp"
 cart_image1: "assets/img/scsiadapter1.webp"
-permalink: /scsiadapter
 tags: 
   - scsi
   - db25v2

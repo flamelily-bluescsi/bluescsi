@@ -4,7 +4,11 @@ permalink: /picomemall
 title: PicoMEM All in One 8-Bit ISA Expansion Card
 cart_name: "PicoMEM 8-bit ISA"
 cart_description: "PicoMEM All in One 8-Bit ISA Expansion Card"
+cart_itemid: picomemall
 cart_price: 46
+cart_price_uk: 46
+cart_price_us: 58
+cart_price_row: 56
 cart_image: "assets/img/picomemfront.webp"
 cart_image1: "assets/img/adlibpicomem.webp"
 tags: 

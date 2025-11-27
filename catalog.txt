@@ -1,10 +1,53 @@
 ---
 permalink: /assets/catalog.js
 ---
-{% assign catalog_items = site.pages |  where_exp:"item", "item.cart_itemid" %}
+{% assign catalog_items = site.pages | where_exp:"item", "item.cart_itemid" %}
 catalog = {
 {%- for page in catalog_items -%}
 	{%- if page.cart_itemid-%}
+		{%- assign has_regional = false -%}
+		{%- if page.cart_price_uk or page.cart_price_us or page.cart_price_row or page.cart_price_with or page.cart_price_without -%}
+			{%- assign has_regional = true -%}
+		{%- endif -%}
+		
+		{%- if has_regional -%}
+			{%- if page.cart_price_uk -%}
+			{{ page.cart_itemid }}uk: {
+				name: "{{ page.cart_name }} - UK",
+				description: "{{ page.cart_description }}",
+				price: {{ page.cart_price_uk }}
+			},
+			{%- endif -%}
+			{%- if page.cart_price_us -%}
+			{{ page.cart_itemid }}us: {
+				name: "{{ page.cart_name }} - US",
+				description: "{{ page.cart_description }}",
+				price: {{ page.cart_price_us }}
+			},
+			{%- endif -%}
+			{%- if page.cart_price_row -%}
+			{{ page.cart_itemid }}row: {
+				name: "{{ page.cart_name }} - ROW",
+				description: "{{ page.cart_description }}",
+				price: {{ page.cart_price_row }}
+			},
+			{%- endif -%}
+			{%- if page.cart_price_with -%}
+			{{ page.cart_itemid }}with: {
+				name: "{{ page.cart_name }} - WITH",
+				description: "{{ page.cart_description }}",
+				price: {{ page.cart_price_with }}
+			},
+			{%- endif -%}
+			{%- if page.cart_price_without -%}
+			{{ page.cart_itemid }}without: {
+				name: "{{ page.cart_name }} - WITHOUT",
+				description: "{{ page.cart_description }}",
+				price: {{ page.cart_price_without }}
+			},
+			{%- endif -%}
+		{%- endif -%}
+		
 		{{ page.cart_itemid }}: {
 			name: "{{ page.cart_name }}",
 			description: "{{ page.cart_description }}",
@@ -15,177 +58,4 @@ catalog = {
 		{%- endif -%} 
 	{%- endif -%}
 {%- endfor %}
-		,powersharkuk: {
-			name: "PowerShark UK",
-			description: "PowerShark - For UK buyers",
-			price: {{ site.psukprice }}
-		},powersharkus: {
-			name: "PowerShark US",
-			description: "PowerShark USA - For US buyers",
-			price: {{ site.psusprice }}
-		},powersharkrow: {
-			name: "PowerShark ROW",
-			description: "PowerShark - For buyers in the rest of the world",
-			price: {{ site.psrowprice }}
-		},picomemuk: {
-			name: "PicoMEM 8-bit ISA UK",
-			description: "PicoMEM All in One 8-Bit ISA Expansion Card UK",
-			price: {{ site.picomemukprice }}
-		},picomemrow: {
-			name: "PicoMEM 8-bit ISA ROW",
-			description: "PicoMEM All in One 8-Bit ISA Expansion Card ROW",
-			price: {{ site.picomemrowprice }}
-		},adlibpicomem: {
-			name: "AdLib Module with the PicoMEM",
-			description: "AdLib Module included with the PicoMEM ISA Expansion Card",
-			price: {{ site.adlibprice }}
-		},adlibonly: {
-			name: "AdLib Module Only for the PicoMEM",
-			description: "AdLib Module Only for the PicoMEM ISA Expansion Card",
-			price: {{ site.adlibonlyprice }}
-		},midi15uk: {
-			name: "Midi Cable Type A UK",
-			description: "Midi Cable Type A UK",
-			price: 6
-		},midi15row: {
-			name: "Midi Cable Type A ROW",
-			description: "Midi Cable Type A ROW",
-			price: 10
-		},picogusrow: {
-			name: "PicoGUS board Rest of the World",
-			description: "PicoGUS board ROW - Fully Assembled",
-			price: {{ site.picogusrowprice }}
-		},picogusuk: {
-			name: "PicoGUS board UK",
-			description: "PicoGUS board UK - Fully Assembled",
-			price: {{ site.picogusukprice }}
-		},deniseuk: {
-			name: "Amiga Denise PCB Kit - UK",
-			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
-			price: {{ site.deniseukprice }}
-		},deniseus: {
-			name: "Amiga Denise PCB Kit - US",
-			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
-			price: {{ site.deniseusprice }}
-		},deniserow: {
-			name: "Amiga Denise PCB Kit - ROW",
-			description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga",
-			price: {{ site.deniserowprice }}
-		},aliciauk: {
-			name: "Amiga Alicia 1200 PCB Kit - UK",
-			description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga",
-			price: {{ site.aliciaukprice }}
-		},aliciaus: {
-			name: "Amiga Alicia 1200 PCB Kit - US",
-			description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga",
-			price: {{ site.aliciausprice }}
-		},aliciarow: {
-			name: "Amiga Alicia 1200 PCB Kit - ROW",
-			description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga",
-			price: {{ site.aliciarowprice }}
-		},cpuuk: {
-			name: "A1200 68EC020 Motorola CPU - UK",
-			description: "A1200 68EC020 Motorola CPU",
-			price: {{ site.cpuukprice }}
-		},cpuus: {
-			name: "A1200 68EC020 Motorola CPU - US",
-			description: "A1200 68EC020 Motorola CPU",
-			price: {{ site.cpuusprice }}
-		},cpurow: {
-			name: "A1200 68EC020 Motorola CPU - ROW",
-			description: "A1200 68EC020 Motorola CPU",
-			price: {{ site.cpurowprice }}	
-		},juiceuk: {
-			name: "Amiga Juice Box - UK",
-			description: "Amiga Juice Box",
-			price: {{ site.juiceukprice }}
-		},juiceus: {
-			name: "Amiga Juice Box - US",
-			description: "Amiga Juice Box",
-			price: {{ site.juiceusprice }}
-		},juicerow: {
-			name: "Amiga Juice Box - ROW",
-			description: "Amiga Juice Box",
-			price: {{ site.juicerowprice }}	
-		},vgaadapter: {
-			name: "VGA Adapter PCB for Denise - UK",
-			description: "RGB out to a VGA socket for 15Khz monitors",
-			price: {{ site.denisevgapriceuk }}
-		},vgaadapterrow: {
-			name: "VGA Adapter PCB for Denise - ROW",
-			description: "RGB out to a VGA socket for 15Khz monitors",
-			price: {{ site.denisevgapricerow }}
-		},v2desktopuk: {
-			name: "V2 BlueSCSI Desktop UK",
-			description: "V2 BlueSCSI Desktop 50pin Right Angle - Assembled",
-			price: {{ site.desktopukprice }}
-		},v2desktoprow: {
-			name: "V2 BlueSCSI Desktop ROW",
-			description: "V2 BlueSCSI Desktop 50pin Right Angle - Assembled",
-			price: {{ site.desktoprowprice }}
-		},v2desktopkituk: {
-			name: "V2 BlueSCSI Desktop Kit UK",
-			description: "V2 BlueSCSI Desktop 50pin Right Angle - Kit",
-			price: {{ site.desktopkitukprice }}
-		},v2desktopkitrow: {
-			name: "V2 BlueSCSI Desktop Kit ROW",
-			description: "V2 BlueSCSI Desktop 50pin Right Angle - Kit",
-			price: {{ site.desktopkitrowprice }}
-		},v2desktoppcbuk: {
-			name: "V2 BlueSCSI Desktop PCB UK",
-			description: "V2 BlueSCSI Desktop 50pin Right Angle - PCB Only",
-			price: {{ site.desktoppcbukprice }}
-		},v2desktoppcbrow: {
-			name: "V2 BlueSCSI Desktop PCB ROW",
-			description: "V2 BlueSCSI Desktop 50pin Right Angle - PCB Only",
-			price: {{ site.desktoppcbrowprice }}
-		},v2db25uk: {
-			name: "V2 BlueSCSI DB25 Mini UK",
-			description: "V2 BlueSCSI DB25 Mini - Assembled",
-			price: {{ site.db25ukprice }}
-		},v2db25row: {
-			name: "V2 BlueSCSI DB25 Mini ROW",
-			description: "V2 BlueSCSI DB25 Mini - Assembled",
-			price: {{ site.db25rowprice }}
-		},v2db25kituk: {
-			name: "V2 BlueSCSI DB25 Mini Kit UK",
-			description: "V2 BlueSCSI DB25 Mini Solder - Kit",
-			price: {{ site.db25kitukprice }}
-		},v2db25kitrow: {
-			name: "V2 BlueSCSI DB25 Mini Kit ROW",
-			description: "V2 BlueSCSI DB25 Mini Solder - Kit",
-			price: {{ site.db25kitrowprice }}
-		},v2db25pcbuk: {
-			name: "V2 BlueSCSI DB25 Mini PCB UK",
-			description: "V2 BlueSCSI DB25 Mini Solder - PCB Only",
-			price: {{ site.db25pcbukprice }}
-		},v2db25pcbrow: {
-			name: "V2 BlueSCSI DB25 Mini PCB ROW",
-			description: "V2 BlueSCSI DB25 Mini Solder - PCB Only",
-			price: {{ site.db25pcbrowprice }}
-		},v2pbuk: {
-			name: "V2 BlueSCSI Powerbook UK",
-			description: "V2 BlueSCSI Powerbook - Full Tested Version",
-			price: {{ site.pbukprice }}
-		},v2pbrow: {
-			name: "V2 BlueSCSI Powerbook ROW",
-			description: "V2 BlueSCSI Powerbook - Full Tested Version",
-			price: {{ site.pbrowprice }}
-		},v2pbkituk: {
-			name: "V2 BlueSCSI Powerbook Kit UK",
-			description: "V2 BlueSCSI Powerbook Solder - Kit",
-			price: {{ site.pbkitukprice }}
-		},v2pbkitrow: {
-			name: "V2 BlueSCSI Powerbook Kit ROW",
-			description: "V2 BlueSCSI Powerbook Solder - Kit",
-			price: {{ site.pbkitrowprice }}
-		},v2pbpcbuk: {
-			name: "V2 BlueSCSI Powerbook PCB UK",
-			description: "V2 BlueSCSI Powerbook Solder - PCB Only",
-			price: {{ site.pbpcbukprice }}
-		},v2pbpcbrow: {
-			name: "V2 BlueSCSI Powerbook PCB ROW",
-			description: "V2 BlueSCSI Powerbook Solder - PCB Only",
-			price: {{ site.pbpcbrowprice }}
-		}
 }

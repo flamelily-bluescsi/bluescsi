@@ -1,13 +1,17 @@
 ---
 layout: page
 title: V2 DB25 Mini Kit
+permalink: /db25kit
 cart_name: "V2 BlueSCSI DB25 Mini Kit"
 cart_description: "V2 BlueSCSI DB25 Mini Solder Kit"
+cart_itemid: db25kit
 cart_price: 38
+cart_price_uk: 38
+cart_price_us: 54
+cart_price_row: 48
 cart_image: "assets/img/DB25-kit.webp"
 cart_image1: "assets/img/DB25_pcb.webp"
 cart_image2: "assets/img/DB25_pcb1.webp"
-permalink: /db25kit
 tags: 
   - scsi
   - db25v2

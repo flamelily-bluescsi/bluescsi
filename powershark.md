@@ -33,6 +33,8 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 * Delivery included (Choose your region below)
 * Colour - Black
 
+An alternate USB-C device can be purchased [here when available](/juicebox)
+
 &#128221; STOCK COUNT : {{site.powershark}}
 
 {% if site.powershark > 0 %}

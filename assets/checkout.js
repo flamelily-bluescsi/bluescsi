@@ -11,7 +11,8 @@ if( Object.keys( cart ).length != 0 ) {
   let total = 0;
   let totals = [];
   totals[ 'UK' ] = 0;
-  totals[ 'EU' ] = 0;
+  totals[ 'US' ] = 0;
+  totals[ 'ROW' ] = 0;
 
   for( const item in cart ) {
     const name = catalog[item].name.split( ' ' );
@@ -23,8 +24,9 @@ if( Object.keys( cart ).length != 0 ) {
     console.log( total );
   }
   
-  if( totals[ 'EU' ] >= 2 ) { discount_percentage = 5; }
+  if( totals[ 'US' ] >= 2 ) { discount_percentage = 5; }
   if( totals[ 'UK' ] >= 2 ) { discount_percentage = 2; }
+  if( totals[ 'ROW' ] >= 2 ) { discount_percentage = 5; }
   
   console.log( totals );
   

@@ -46,7 +46,7 @@ Please be aware that this is NOT a plug and play product. You are purchasing a q
 * Most passive components pre-soldered (~450 pcs)
 * Mainboard Rev1.7
 * Tracked and insured delivery included in the price.
-* Get the CPU for Alicia [here](/68020) and Video DAC [here](/dac)
+* Get the CPU for Alicia [here](/68020) and Video DAC [here](/dac) and RAM [here](/aliciaram)
 
 ###### Please be aware that if you order now, our payment processor (Paypal) will take the amount immediately, but dispatch will be in the New Year. Please don't open a case with Paypal saying you have not received the items knowing this info. If this happens you will NOT get a board. This pre-order helps gauge interest and with numbers for the first batch order.
 

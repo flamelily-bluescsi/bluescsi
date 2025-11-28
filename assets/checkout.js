@@ -24,9 +24,9 @@ if( Object.keys( cart ).length != 0 ) {
     console.log( total );
   }
   
-  if( totals[ 'US' ] >= 2 ) { discount_percentage = 5; }
+  if( totals[ 'US' ] >= 2 ) { discount_percentage = 4; }
   if( totals[ 'UK' ] >= 2 ) { discount_percentage = 2; }
-  if( totals[ 'ROW' ] >= 2 ) { discount_percentage = 5; }
+  if( totals[ 'ROW' ] >= 2 ) { discount_percentage = 4; }
   
   console.log( totals );
   

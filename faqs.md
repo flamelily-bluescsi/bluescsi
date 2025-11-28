@@ -7,7 +7,7 @@ title: Frequently Asked Questions
 <b><u>Frequently Asked Questions</u></b>
 
 Q: What are the shipping costs?<br>
-A: Shipping is including in all our pricing to simplify checkout, but please make sure you purchase from the relevant EU/ROW pages for purchases from the EU or the rest of the world.
+A: Shipping is including in all our pricing to simplify checkout, but please make sure you choose your shipping region from the dropdown.
 
 Q: What countires outside the UK do we ship too?<br>
 A: We use Royal Mail so see this link for countires we can ship to - [https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/](https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/){:target="_blank"} Please be aware you might be responsible for customs charges by your Postal provider.

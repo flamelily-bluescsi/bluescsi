@@ -26,9 +26,9 @@ tags:
 
 Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Alicia can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. Alicia rests upon the Advanced Graphics Architecture introduced in 1992, by Commodore with the Amiga A1200. With it’s revolutionary capabilities and performance it has been a haven for creative and artistic individuals to this day.
 
-Alicia gives you direct access to the most important stuff on the back of the board. Including DIN Keyboard & Mouse, standard DB9 Joysticks and DB15 RGB Video as well as R&L Audio ports. Keeping other essentials like 9-pin serial, parallel and floppy drive on internal headers. A standard 44-pin IDE and 22-pin Clock Port is also available. A dedicated Digital/Analogue Video expansion Port (VP2) provides for flexible future video upgrades. Tornado V2 offers an 120-pin expansion bus for slim yet very powerful AGA systems. The 16-bit PCMCIA port is included on Alicia 1200 ready for expansions. Storage, LAN, WIFI and even graphics – PCMCIA has got it all.
+Alicia gives you direct access to the most important stuff on the back of the board. Including PS/2 Keyboard & Mouse, standard DB9 Joysticks and DB15 RGB Video as well as left & right audio ports. Keeping other essentials like 9-pin serial, parallel and floppy drive on internal headers. A standard 44-pin IDE and 22-pin Clock Port is also available. A dedicated Digital/Analogue Video expansion Port (VP2) provides for flexible future video upgrades. Tornado V2 offers an 120-pin expansion bus for slim yet very powerful AGA systems. The 16-bit PCMCIA port is included on Alicia 1200 ready for expansions. Storage, LAN, WIFI and even graphics – PCMCIA has got it all.
 
-Tornado is an innovative 120-pin expansion bus containing all important signals needed to expand the system with everything from Powerful Processors with RAM and IDE, RTG Graphics adapters or Network cards, basically anything your heart desires! We are preparing for existing designs to be adopted to T2 for a fully optimized Mini-ITX AGA System! For cases when T2 version isn’t possible we also offer a slim high quality adapter offering card edge support.
+Tornado is an innovative 120-pin expansion bus containing all important signals needed to expand the system with everything from Powerful Processors with RAM and IDE, RTG Graphics adapters or Network cards, basically anything your heart desires! We are preparing for existing designs to be adopted to T2 for a fully optimized Mini-ITX AGA System! For historic expansions we also offer a [slim high quality adapter](/t2adapter) offering card edge support.
 
 Included in the Kit:<br>
 1 x Alicia 1200 PCB (Mini-ITX)<br>
@@ -46,7 +46,7 @@ Please be aware that this is NOT a plug and play product. You are purchasing a q
 * Most passive components pre-soldered (~450 pcs)
 * Mainboard Rev1.7
 * Tracked and insured delivery included in the price.
-* Get the CPU for Alicia [here](/68020) and Video DAC [here](/dac) and RAM [here](/aliciaram)
+* Get a CPU [here](/68020), Video DAC [here](/dac), RAM [here](/aliciaram) and T2 Adapter [here](/t2adapter)
 
 ###### Please be aware that if you order now, our payment processor (Paypal) will take the amount immediately, but dispatch will be in the New Year. Please don't open a case with Paypal saying you have not received the items knowing this info. If this happens you will NOT get a board. This pre-order helps gauge interest and with numbers for the first batch order.
 

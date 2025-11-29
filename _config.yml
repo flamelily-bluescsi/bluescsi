@@ -58,6 +58,7 @@ juicebox: 0
 scsiadapter: 6
 framethrower: 6
 ram: 8
+t2adapter: 0
 
 # Exclude from processing.
 # The following items will not be processed, by default.

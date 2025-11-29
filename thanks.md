@@ -2,6 +2,8 @@
 layout: default
 permalink: /thanks
 title: Thanks
+tags: 
+  - nopaypal
 ---
 
 ##### Thanks for your order

@@ -2,6 +2,8 @@
 layout: default
 permalink: /faqs
 title: Frequently Asked Questions
+tags: 
+  - nopaypal
 ---
 
 <b><u>Frequently Asked Questions</u></b>

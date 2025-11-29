@@ -2,6 +2,8 @@
 layout: page
 note: true
 permalink: /picoide
+tags: 
+  - nopaypal
 ---
 ######  PicoIDE Products -- COMING SOON 
 
@@ -14,8 +16,8 @@ Visit [https://picoide.com](https://picoide.com/){:target="_blank"} to learn mor
   method="POST">
   <div class="mb-3">
   	<p>If you would like to register your interest and get an email notification when the PicoIDE is available, then enter and submit your email address below. Please be aware this device is in early development (V1 prototype) so please be patient.</p>
-    <label for="Email" class="form-label">Your Email:</label>
-    <input type="email" class="form-control" name="email" id="email" aria-describedby="emailHelp" required>
+    <label for="email" class="form-label">Your Email:</label>
+    <input type="email" class="form-control" name="email" id="email" autocomplete="email" aria-describedby="emailHelp" required>
     <div id="emailHelp" class="form-text">We'll never share your email.</div>
   </div>
   <button type="submit" class="btn btn-primary">Send</button>

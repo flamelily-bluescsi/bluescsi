@@ -3,6 +3,8 @@ layout: default
 title: PCB Stock Levels
 note: false
 permalink: /stock
+tags: 
+  - nopaypal
 ---
 
 ##### PCB Stock Levels

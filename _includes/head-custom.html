@@ -12,5 +12,7 @@
 
 <!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
-<script src="https://www.paypal.com/sdk/js?client-id=ASX4J0fvrLVv3LPCHVTFiKKRgoZ2QRMN3n90vqlzL1F0vcSFVkHOqxubEwbRlwOkOtRFWKilioV3ubsV"></script>
+   {% unless page.tags contains 'nopaypal' %}
+   <script src="https://www.paypal.com/sdk/js?client-id=ASX4J0fvrLVv3LPCHVTFiKKRgoZ2QRMN3n90vqlzL1F0vcSFVkHOqxubEwbRlwOkOtRFWKilioV3ubsV"></script>
+   {% endunless %}
 <!-- end custom head snippets -->

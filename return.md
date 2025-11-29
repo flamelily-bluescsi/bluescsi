@@ -2,6 +2,8 @@
 layout: default
 permalink: /return
 title: Return & Warranty Policies
+tags: 
+  - nopaypal
 ---
 
 <b><u>Return & Warranty Policies</u></b>

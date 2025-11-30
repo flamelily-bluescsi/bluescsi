@@ -2,6 +2,8 @@
 title: Tag Index
 author: Flamelily
 layout: default
+tags: 
+  - nopaypal
 ---
 <div>
 

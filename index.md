@@ -137,11 +137,9 @@ note: true
 </div>
 </div>
 
-All our prices <b>include</b> delivery, but please make sure you "Add to Cart" from the 🇪🇺🇺🇸 EU/ROW Product pages if you are purchasing from the <b>Europe or the Rest of the world</b>. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
+All our prices <b>include</b> delivery, but please make sure you choose your delivery region from the dropdown on each product page. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
 
 Your registered Paypal delivery address will be used so please make sure it is correct before purchasing. You can see our current stock numbers on this page <a href="/stock">CURRENT STOCK.</a> View our Return/Refund policy <a href="/return">HERE.</a> Please see our page with info about <a href="/print">3D Prints</a>.
-
-We will be increasing our 3D Print options in future so keep checking our print store page. Thanks for visting.<br>
 <br>
         <p class="lead text-center">
           <a href="https://retro.directory">

@@ -5,7 +5,7 @@ permalink: /picomem
 ---
 ######  PicoMEM Products for UK and the Rest of the World - IN STOCK
 
-Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email via Paypal.
+Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email. Make sure you choose the correct delivery region from the dropdown.
 
 We are now a registered distributor for the [PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM){:target="_blank"}, and the project creator (Freddy V) will get a share of every purchase.
 

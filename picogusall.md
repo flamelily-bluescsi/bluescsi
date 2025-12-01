@@ -29,7 +29,7 @@ An ISA sound card emulator, powered by a Raspberry Pi Pico. PicoGUS can emulate 
 * Comes with a bracket (Nickel plated mild steel)
 * Red PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
 
-Price includes shipping costs. Please choose your shipping region below.
+Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.
 
 &#128221; STOCK COUNT: {{site.picogus}}
 

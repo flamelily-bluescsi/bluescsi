@@ -22,7 +22,7 @@ tags:
 {% include carousel3.html %}
 <br>
 
-##### This First batch (New Rev1.7) we will be taking Pre-orders with delivery around January/February 2026. Get yourself in the queue. If you pre-order you will be guaranteed a board.
+##### This First batch (New Rev1.7) we will be taking Pre-orders with delivery around January/February 2026. Get yourself in the queue. If you pre-order you will be guaranteed a board from the first batch.
 
 Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Alicia can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. Alicia rests upon the Advanced Graphics Architecture introduced in 1992, by Commodore with the Amiga A1200. With it’s revolutionary capabilities and performance it has been a haven for creative and artistic individuals to this day.
 
@@ -36,12 +36,12 @@ Included in the Kit:<br>
 1 x 120 pin GOLD connector (CN8 Local Bus)<br>
 You can get Alicia [BOM details here](https://nextcloud.syntaxsociety.se/index.php/s/R3twMwanY6oLrHd){:target="_blank"}.
 
-We include most SMD components pre soldered on the main board PCB! This saves lots of time and makes Alicia 1200 easier to assemble! You will of course need to source a set of Amiga AGA chipset custom chips.
+We include most SMD components pre soldered on the main board PCB! This saves lots of time and makes Alicia 1200 easier to assemble! You will of course need to source a set of Amiga AGA chipset custom chips. We have some [here.](/amiga)
 
 Important information:
 Please be aware that this is NOT a plug and play product. You are purchasing a quality (TG-155/ENIG) PCB, and build instructions. No warranty or support is offered. We are the <b>registered UK reseller</b> for the Alicia 1200, and the project maintainer will get a commission for every one we sell.
 
-###### We will offer a build option. Please use our contact form [here](/contact).
+###### We will offer a build option. Please use our contact form [here.](/contact)
 
 * Most passive components pre-soldered (~450 pcs)
 * Mainboard Rev1.7

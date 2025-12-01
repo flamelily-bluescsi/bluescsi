@@ -40,7 +40,7 @@ Please be aware that this is NOT a plug and play product. You are purchasing two
 
 Add some accessories for Denise, [VGA Adapter PCB](/vga) - [CF Floppy IO PCB](/cffloppy) - [Black NIC PCB](/nic)
 
-* mainboard SMD components pre soldered
+* Mainboard SMD components pre soldered
 * Big/ROM selection
 * Includes 72-pin SIMM PCB
 * Build option available [email us](/contact)

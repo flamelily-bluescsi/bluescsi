@@ -39,6 +39,8 @@ This is to purchase a Juice Box kit to build your own USB-C power for your Amiga
   <button type="submit" class="btn btn-primary">Send</button>
 </form>
 
+Price includes shipping costs. Please choose your delivery region below.
+
 &#128221; STOCK COUNT: {{site.juicebox}}
 
 {% if site.juicebox > 0 %}

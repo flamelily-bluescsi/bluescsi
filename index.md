@@ -1,6 +1,8 @@
 ---
 layout: default
 note: true
+tags:
+  - nopaypal
 ---
 
 &#8593;View our Categories menu for Product Page Links. Access your Cart and Checkout pages from the menu&#8593;

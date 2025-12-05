@@ -9,8 +9,8 @@ cart_price: 88
 cart_price_uk: 88
 cart_price_us: 112
 cart_price_row: 99
-cart_image: "assets/img/powershark-black.webp"
-cart_image1: "assets/img/powershark-black1.webp"
+cart_image: "assets/img/powershark2.webp"
+cart_image1: "assets/img/powershark3.webp"
 tags: 
   - amiga
 ---
@@ -35,7 +35,7 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 * Power protection features
 * NO cable or USB adapter supplied
 * Delivery included (Choose your region below)
-* Colour - Black
+* Colour - Beige
 
 Price includes shipping costs. Please choose your delivery region below. An alternate USB-C device can be purchased [here when available](/juicebox)
 

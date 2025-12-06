@@ -5,7 +5,9 @@ permalink: /picoide
 tags: 
   - nopaypal
 ---
-######  PicoIDE Products -- COMING SOON 
+######  PicoIDE Products -- COMING SOON
+
+<img src="/assets/img/picoide-power.webp" alt="PicoIDE power on" width="600" height="400">
 
 We will be the UK registered distributor for the [PicoIDE](https://picoide.com/){:target="_blank"}, and the project creator will get a share of every purchase.
 

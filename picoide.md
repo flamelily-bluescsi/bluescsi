@@ -7,7 +7,9 @@ tags:
 ---
 ######  PicoIDE Products -- COMING SOON
 
-<img src="/assets/img/picoide-power.webp" alt="PicoIDE power on" width="600" height="400">
+  <p class="lead text-center">
+    <img src="/assets/img/picoide-power.webp" class="img-thumbnail" alt="PicoIDE power on">
+  </p>
 
 We will be the UK registered distributor for the [PicoIDE](https://picoide.com/){:target="_blank"}, and the project creator will get a share of every purchase.
 

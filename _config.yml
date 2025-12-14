@@ -52,8 +52,8 @@ nic: 6
 cffloppy: 10
 powershark: 0
 vgaadapter: 10
-cpu: 9
-dac: 8
+cpu: 7
+dac: 7
 juicebox: 0
 scsiadapter: 6
 framethrower: 5

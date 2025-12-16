@@ -15,7 +15,7 @@ tags:
   - amiga
 ---
 
-##### 🇬🇧🌍🇺🇸 PowerShark USB-C power supply (Black) 🇬🇧🌍🇺🇸
+##### 🇬🇧🌍🇺🇸 PowerShark USB-C power supply 🇬🇧🌍🇺🇸
 
 {% include carousel2.html %}
 

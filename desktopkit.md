@@ -20,7 +20,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is the NEW board revision (2023.10a) Desktop V2 Kit version of the BlueSCSI for UK buyers. This has a right angle 50 pin header and molex. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required.
+This is the NEW board revision (2023.10a) Desktop V2 Kit version of the BlueSCSI for UK buyers. This has a right angle 50 pin header and molex. Some soldering will be required to complete this device. If you prefer a complete and tested device please choose the Full option. The Suface Mount Components are pre-soldered to the PCB so only through hole soldering is required. We sell a [molex adpater here.](/molex)
 
 * Latest PCB revision 2023.10a
 * SMD already soldered

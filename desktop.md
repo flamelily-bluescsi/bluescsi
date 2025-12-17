@@ -20,7 +20,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is version (2023.10a) of the BlueSCSI V2 Desktop. This has a right angle 50 pin header and molex. This is a complete and tested device. Please add a 3D print if needed.
+This is version (2023.10a) of the BlueSCSI V2 Desktop. This has a right angle 50 pin header and molex. This is a complete and tested device. Please add a 3D print if needed. We sell a [molex adpater here.](/molex)
 
 * Latest PCB revision 2023.10a
 * Right Angle headers

@@ -21,11 +21,12 @@ tags:
 
 {% include carousel4.html %}
 
-This is to purchase a Juice Box kit to build your own USB-C power for your Amiga. Andi from the YouTube channel HBR has created this power supply unit for Amigas. You can see the video about it [here.](https://youtu.be/vLpyo52PCfI){:target="_blank"} You will need to solder and build this kit up yourself using the parts we supply.
+This is to purchase a Juice Box kit to build your own USB-C power for your Amiga. Andi from the YouTube channel HBR has created this power supply unit for Amigas. You can see the video about it [here.](https://youtu.be/vLpyo52PCfI){:target="_blank"} You will need to solder and build this kit up yourself using the parts we supply. The one part you will need to supply yourself will be the 5 PIN Square DIN Male Connector, which you can either use from an old PSU or purchase from [Sordan.ie here.](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/)
 
 * This is kit to build an Amiga PSU
 * USB-C power delivery
 * Will work for an A500, A500+, A600 and A1200
+* Get your 5 PIN DIN connector [here](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/)
 
 <!-- form HTML -->
 <form action="https://formspree.io/f/xqawgwjk"

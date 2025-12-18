@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Juice Box
+title: JuiceBox
 permalink: /juicebox
-cart_name: "Amiga Juice Box kit"
-cart_description: "Amiga Juice Box USB-C power for Amiga"
+cart_name: "Amiga JuiceBox kit"
+cart_description: "Amiga JuiceBox USB-C power for Amiga"
 cart_itemid: juicebox
 cart_price: 00
 cart_price_uk: 35
@@ -17,16 +17,16 @@ tags:
   - amiga
 ---
 
-##### 🇬🇧🌍🇺🇸 Amiga Juice Box kit USB-C power for Amiga 🇬🇧🌍🇺🇸
+##### 🇬🇧🌍🇺🇸 Amiga JuiceBox kit USB-C power for Amiga 🇬🇧🌍🇺🇸
 
 {% include carousel4.html %}
 
-This is to purchase a Juice Box kit to build your own USB-C power for your Amiga. Andi from the YouTube channel HBR has created this power supply unit for Amigas. You can see the video about it [here.](https://youtu.be/vLpyo52PCfI){:target="_blank"} You will need to solder and build this kit up yourself using the parts we supply. The one part you will need to supply yourself will be the 5 PIN Square DIN Male Connector, which you can either use from an old PSU or purchase from [Sordan.ie here.](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/)
+This is to purchase a JuiceBox kit to build your own USB-C power for your Amiga. Andi from the YouTube channel HBR has created this power supply unit for Amigas. You can see the video about it [here.](https://youtu.be/vLpyo52PCfI){:target="_blank"} You will need to solder and build this kit up yourself using the parts we supply. The one part you will need to supply yourself will be the 5 PIN Square DIN Male Connector, which you can either use from an old PSU or purchase from [Sordan.ie here.](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/){:target="_blank"}
 
 * This is kit to build an Amiga PSU
 * USB-C power delivery
 * Will work for an A500, A500+, A600 and A1200
-* Get your 5 PIN DIN connector [here](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/)
+* Get your 5 PIN DIN connector [here](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/){:target="_blank"}
 
 <!-- form HTML -->
 <form action="https://formspree.io/f/xqawgwjk"

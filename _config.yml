@@ -48,12 +48,12 @@ adlib: 6
 rgb2hdmi: 0
 denise: 0
 alicia: 1
-nic: 6
-cffloppy: 10
+nic: 4
+cffloppy: 9
 powershark: 2
 vgaadapter: 10
-cpu: 7
-dac: 7
+cpu: 11
+dac: 9
 juicebox: 0
 scsiadapter: 6
 framethrower: 5

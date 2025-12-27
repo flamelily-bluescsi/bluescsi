@@ -5,10 +5,10 @@ permalink: /framethrower
 cart_name: "Framethrower for classic PiStorm"
 cart_description: "Framethrower for classic PiStorm Amiga 500/500+/2000"
 cart_itemid: framethrower
-cart_price: 32
-cart_price_uk: 32
-cart_price_us: 45
-cart_price_row: 42
+cart_price: 29
+cart_price_uk: 29
+cart_price_us: 42
+cart_price_row: 39
 cart_image: "assets/img/framethrower.webp"
 tags: 
   - amiga

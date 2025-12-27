@@ -36,16 +36,14 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-bsv1: 5
 db25: 8
 desktop: 17
-powerbook: 6
+powerbook: 5
 pico2: 3
 pico2w: 3
 picogus: 23
 picomem: 25
 adlib: 6
-rgb2hdmi: 0
 denise: 0
 alicia: 1
 nic: 4

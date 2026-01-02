@@ -38,7 +38,7 @@ icon: "&#128722;"
 # Stock
 db25: 8
 desktop: 17
-powerbook: 5
+powerbook: 9
 pico2: 3
 pico2w: 3
 picogus: 23
@@ -55,8 +55,13 @@ dac: 9
 juicebox: 0
 scsiadapter: 6
 framethrower: 5
-ram: 8
+ram: 7
 t2adapter: 0
+ultranarrow50: 1
+ultrawide68: 1
+ultrawide80: 0
+narrowexpander: 1
+audionarrowwide: 1
 
 # Exclude from processing.
 # The following items will not be processed, by default.

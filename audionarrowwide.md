@@ -1,0 +1,37 @@
+---
+layout: page
+title: BlueSCSI Ultra - Audio for Narrow/Wide
+permalink: /audionarrowwide
+cart_name: "BlueSCSI Ultra - Audio for Narrow/Wide"
+cart_description: "BlueSCSI Ultra - Audio for Narrow/Wide - Assembled"
+cart_itemid: audionarrowwide
+cart_price: 8
+cart_price_uk: 8
+cart_price_us: 20
+cart_price_row: 18
+cart_image: "assets/img/audioboard.webp"
+cart_image1: "assets/img/audioboard.webp"
+tags: 
+  - scsi
+  - ultra
+---
+
+##### 🇬🇧🌍 BlueSCSI Ultra - Audio for Narrow/Wide 🌍🇬🇧
+
+{% include carousel1.html %}
+
+This is Audio Card for the BlueSCSI Ultra. BlueSCSI Ultra and Ultra Wide both support I2S audio output for CD audio emulation. To get audio out of the BlueSCSI, you'll need this add-on BlueSCSI Ultra Audio Board, which works with both models and gives you three output options:
+
+* Vintage Apple CD-ROM connector
+* Standard PC CD/DVD audio header
+* 3.5mm headphone jack
+
+See more detailed info about this product [HERE.](https://bluescsi.com/ultra){:target="_blank"}
+
+##### PREORDER - Dispatch will be the end of January 2026.
+
+{% if site.audionarrowwide > 0 %}
+{% include price.md %}
+{% else %}
+{% include outofstock.md %}
+{% endif %}

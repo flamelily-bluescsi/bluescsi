@@ -5,10 +5,10 @@ permalink: /powerbook
 cart_name: "V2 BlueSCSI Powerbook"
 cart_description: "V2 BlueSCSI Powerbook - Full Tested Version"
 cart_itemid: powerbook
-cart_price: 52
-cart_price_uk: 52
+cart_price: 50
+cart_price_uk: 50
 cart_price_us: 65
-cart_price_row: 62
+cart_price_row: 60
 cart_image: "assets/img/v2powerbook.jpg"
 cart_image1: "assets/img/PowerBook_pcb.jpg"
 tags: 

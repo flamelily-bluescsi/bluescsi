@@ -5,10 +5,10 @@ permalink: /narrowexpander
 cart_name: "BlueSCSI Ultra - Narrow Expander Card"
 cart_description: "BlueSCSI Ultra - Narrow Expander Card - Assembled"
 cart_itemid: narrowexpander
-cart_price: 12
-cart_price_uk: 12
-cart_price_us: 24
-cart_price_row: 22
+cart_price: 16
+cart_price_uk: 16
+cart_price_us: 28
+cart_price_row: 26
 cart_image: "assets/img/expanderboard.webp"
 cart_image1: "assets/img/expanderboard.webp"
 tags: 

@@ -21,5 +21,5 @@ All the Amiga items have their stock count shown above the price on their respec
 ###### Alicia 1200 : This will now be a pre-order (Rev2.0) (1st Batch Jan/Feb 2026)
 ###### PicoGUS Stock : {{site.picogus}}
 ###### PicoMEM Stock : {{site.picomem}}
-###### Powershark Stock : {{site.powershark}}
+###### Powershark Stock : {{site.powershark}} - End of Feb 2026
 ###### Juice Box Stock : {{site.juicebox}}

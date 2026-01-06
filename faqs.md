@@ -12,7 +12,7 @@ Q: What are the shipping costs?<br>
 A: Shipping is including in all our pricing to simplify checkout, but please make sure you choose your shipping region from the dropdown.
 
 Q: What countires outside the UK do we ship too?<br>
-A: We use Royal Mail so see this link for countires we can ship to - [https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/](https://www.mailcoms.co.uk/news/royal-mail-international-zones-guide/){:target="_blank"} Please be aware you might be responsible for customs charges by your Postal provider.
+A: We use Royal Mail so see this link for countires we can ship to - [https://www.royalmail.com/sending/international/country-guides](https://www.royalmail.com/sending/international/country-guides){:target="_blank"} Please be aware you might be responsible for customs charges by your Postal provider.
 
 Q: How do I know if my order succeeded?<br>
 A: You will get an email from Paypal with your transaction details.

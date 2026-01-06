@@ -27,6 +27,8 @@ This is version (2023.10a) of the BlueSCSI V2 Desktop. This has a right angle 50
 * Tested and complete
 * NO WIFI - Click &#8594; [Add Pico Wifi](/picow) [Add Pico 2](/pico2) [Add Pico 2 Wifi](/pico2w)
 
+&#128221; STOCK COUNT: {{site.desktop}}
+
 {% if site.desktop > 0 %}
 {% include price.md %}
 {% else %}

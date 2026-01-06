@@ -26,6 +26,8 @@ This is the NEW version 2 Powerbook Full version of the BlueSCSI for buyers. Thi
 * Fully tested
 * NO WIFI - Click &#8594; [Add Pico Wifi](/picow) [Add Pico 2 Wifi](/pico2w)
 
+&#128221; STOCK COUNT: {{site.powerbook}}
+
 {% if site.powerbook > 0 %}
 {% include price.md %}
 {% else %}

@@ -31,6 +31,8 @@ See more detailed info about this product [HERE.](https://bluescsi.com/ultra){:t
 
 ##### PREORDER - Dispatch will be the end of January 2026.
 
+&#128221; STOCK COUNT: PREORDER
+
 {% if site.ultrawide68 > 0 %}
 {% include price.md %}
 {% else %}

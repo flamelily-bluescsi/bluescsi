@@ -31,6 +31,8 @@ See more detailed info about this product [HERE.](https://bluescsi.com/ultra){:t
 
 ##### NOT YET PREORDER Please be patient (Firmware in development)
 
+&#128221; STOCK COUNT: {{site.ultrawide80}}
+
 {% if site.ultrawide80 > 0 %}
 {% include price.md %}
 {% else %}

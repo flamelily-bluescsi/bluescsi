@@ -28,6 +28,8 @@ This is version (2023.10a) of the BlueSCSI V2 Desktop Board Only Kit for UK buye
 * No Pico supplied
 * Cannot order any Pico upgrade with this
 
+&#128221; STOCK COUNT: {{site.desktop}}
+
 {% if site.desktop > 0 %}
 {% include price.md %}
 {% else %}

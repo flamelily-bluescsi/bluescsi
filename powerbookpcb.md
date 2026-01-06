@@ -27,6 +27,8 @@ This is the BlueSCSI V2 Powerbook PCB Only version for buyers. This has a slim S
 * Soldering required
 * Cannot order any Pico upgrade with this
 
+&#128221; STOCK COUNT: {{site.powerbook}}
+
 {% if site.powerbook > 0 %}
 {% include price.md %}
 {% else %}

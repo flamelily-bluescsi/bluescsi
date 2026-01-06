@@ -27,6 +27,8 @@ This is the BlueSCSI V2 Powerbook Kit version for buyers. This has a slim SCSI c
 * Soldering required
 * NO WIFI - Click &#8594; [Add Pico 2 Wifi](/pico2w)
 
+&#128221; STOCK COUNT: {{site.powerbook}}
+
 {% if site.powerbook > 0 %}
 {% include price.md %}
 {% else %}

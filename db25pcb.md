@@ -29,6 +29,8 @@ This is the DB25 Mini PCB (2024.01a) only version of the BlueSCSI for buyers. Th
 * Always on termination (no termination jumper)
 * Cannot order any Pico upgrade with this
 
+&#128221; STOCK COUNT: {{site.db25}}
+
 {% if site.db25 > 0 %}
 {% include price.md %}
 {% else %}

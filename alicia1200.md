@@ -48,7 +48,7 @@ Please be aware that this is NOT a plug and play product. You are purchasing a q
 * Tracked and insured delivery included in the price.
 * Get a CPU [here](/68020), Video DAC [here](/dac), RAM [here](/aliciaram) and T2 Adapter [here](/t2adapter)
 
-###### Please be aware that if you order now, our payment processor (Paypal) will take the amount immediately, but dispatch will be in the New Year. Please don't open a case with Paypal saying you have not received the items knowing this info. If this happens you will NOT get a board. This pre-order helps gauge interest and with numbers for the first batch order.
+###### Please be aware that if you order now, our payment processor (Paypal) will take the amount immediately, but dispatch will most likely be February. Please don't open a case with Paypal saying you have not received the items knowing this info. If this happens you will NOT get a board. This pre-order helps gauge interest and with numbers for the first batch order.
 
 {% if site.alicia > 0 %}
 {% include price.md %}

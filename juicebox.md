@@ -6,13 +6,13 @@ cart_name: "Amiga JuiceBox kit"
 cart_description: "Amiga JuiceBox USB-C power for Amiga"
 cart_itemid: juicebox
 cart_price: 00
-cart_price_uk: 35
-cart_price_us: 48
-cart_price_row: 46
-cart_image: "assets/img/Juice-box1.webp"
-cart_image1: "assets/img/Juice-box2.webp"
-cart_image2: "assets/img/Juice-box3.webp"
-cart_image3: "assets/img/Juice-box4.webp"
+cart_price_uk: 32
+cart_price_us: 46
+cart_price_row: 44
+cart_image: "assets/img/jb.webp"
+cart_image1: "assets/img/jb1.webp"
+cart_image2: "assets/img/jb2.webp"
+cart_image3: "assets/img/Juice-box1.webp"
 tags: 
   - amiga
 ---

@@ -52,7 +52,7 @@ powershark: 0
 vgaadapter: 10
 cpu: 11
 dac: 9
-juicebox: 12
+juicebox: 8
 scsiadapter: 6
 framethrower: 5
 ram: 7

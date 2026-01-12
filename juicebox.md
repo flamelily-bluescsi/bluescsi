@@ -30,23 +30,11 @@ This is to purchase a JuiceBox kit to build your own USB-C power supply unit for
 
 If you need an adapter, an excellent USB-C power adpater that works very well is the UGREEN 30W which can be bought off Amazon UK here [https://amzn.to/473Q7KI](https://amzn.to/473Q7KI) and 2m USB-C cable from here [https://amzn.to/4kZrfXW](https://amzn.to/4kZrfXW) 
 
-* Kit includes Main PCB, metal housing, PCB end plates, switch and screws
+* Kit includes Main populated PCB, metal housing, PCB end plates, switch and screws
 * USB-C power delivery
 * Will work for an A500, A500+, A600 and A1200
 * Last photo shows a built version
 * Get your 5 PIN DIN connector [here](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/){:target="_blank"}
-
-<!-- form HTML -->
-<form action="https://formspree.io/f/xqawgwjk"
-  method="POST">
-  <div class="mb-3">
-    <p>If you would like to register your interest and get an email notification when we have the JuiceBox for sale, then enter and submit your email address below. We will have a initial batch of 25 kits.</p>
-    <label for="email" class="form-label">Your Email:</label>
-    <input type="email" class="form-control" name="email" id="email" autocomplete="email" aria-describedby="emailHelp" required>
-    <div id="emailHelp" class="form-text">We'll never share your email.</div>
-  </div>
-  <button type="submit" class="btn btn-primary">Send</button>
-</form>
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.
 

@@ -37,7 +37,7 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 * Delivery included (Choose your region below)
 * Colour - Beige
 
-Price includes shipping costs. Please choose your delivery region below. An alternate USB-C device can be purchased [here when available](/juicebox)
+Price includes shipping costs. Please choose your delivery region below. An alternate USB-C device can be purchased [here](/juicebox)
 
 &#128221; STOCK COUNT : {{site.powershark}}
 

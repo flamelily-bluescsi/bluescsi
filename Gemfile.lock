@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/flamelily/jekyll-remote-theme.git
-  revision: f9f47c48e32d99e09fa6ed97923953013ff2e88b
+  revision: c0ce9bbf29fad3bd3b8a36018678414842cc1821
   specs:
     jekyll-remote-theme (0.4.3)
       addressable (~> 2.0)

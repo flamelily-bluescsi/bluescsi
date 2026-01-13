@@ -5,7 +5,7 @@
   {% if page.cart_name contains 'AdLib Module' %}
     <option value="with" data-price="{{page.cart_price_with}}" data-sku="{{page.cart_itemid}}with">🇬🇧🌍 Only with PicoMEM - £{{page.cart_price_with}}</option>
     <option value="without" data-price="{{page.cart_price_without}}" data-sku="{{page.cart_itemid}}without">🇬🇧🌍 Separate Adlib Purchase (without PicoMEM) - £{{page.cart_price_without}} (standard delivery)</option>
-  {% elsif page.cart_name contains 'BlueSCSI' or page.cart_name contains 'PicoGUS' or page.cart_name contains 'PicoMEM' or page.cart_name contains 'Midi' or page.cart_name contains 'CPU' or page.cart_name contains 'Framethrower' or page.cart_name contains 'VGA' or page.cart_name contains 'T2' %}
+  {% elsif page.cart_name contains 'BlueSCSI' or page.cart_name contains 'PicoGUS' or page.cart_name contains 'PicoMEM' or page.cart_name contains 'Midi' or page.cart_name contains 'CPU' or page.cart_name contains 'Framethrower' or page.cart_name contains 'VGA' or page.cart_name contains 'T2' or page.cart_name contains 'JuiceBox' %}
     <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 UK Delivery - £{{page.cart_price_uk}}</option>
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 Rest of World - £{{page.cart_price_row}} (International tracked)</option>

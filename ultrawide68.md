@@ -22,7 +22,7 @@ tags:
 
 This is 68 pin 16bit Ultra Wide version of the BlueSCSI (shown as Ultra Wide in the picture above). This has a right angle 68 pin header and both floppy and more standard hard/CDROM drive molex for power. This contains the SPI port on the PCB for the Front Panel board which is designed by Polpo for the [PicoIDE.](/picoide) This Front Panel board has not been released yet (we will supply them when available), but can be seen in the photo [here.](/picoide) 
 
-See more detailed info about this product [HERE.](https://bluescsi.com/ultra){:target="_blank"}
+See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
 * Needs Molex power
 * Right Angle headers

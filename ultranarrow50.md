@@ -22,7 +22,7 @@ tags:
 
 This is 50 pin 8bit Ultra Narrow version of the BlueSCSI (shown as Ultra in the picture above). This has a right angle 50 pin header and both floppy and more standard hard/CDROM drive molex for power. This is a complete and tested device. 
 
-See more detailed info about this product [HERE.](https://bluescsi.com/ultra){:target="_blank"}
+See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
 * Needs Molex power
 * Right Angle headers

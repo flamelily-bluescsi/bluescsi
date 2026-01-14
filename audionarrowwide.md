@@ -26,7 +26,7 @@ This is Audio Card for the BlueSCSI Ultra. BlueSCSI Ultra and Ultra Wide both su
 * Standard PC CD/DVD audio header
 * 3.5mm headphone jack
 
-See more detailed info about this product [HERE.](https://bluescsi.com/ultra){:target="_blank"}
+See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
 ##### PREORDER - Dispatch will be the end of January 2026.
 

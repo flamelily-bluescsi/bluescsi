@@ -22,7 +22,7 @@ tags:
 
 This is 80 pin 16bit Ultra Wide version of the BlueSCSI. This has a right angle 80 pin header and both floppy and more standard hard/CDROM drive molex for power. This is a complete and tested device.
 
-See more detailed info about this product [HERE.](https://bluescsi.com/ultra){:target="_blank"}
+See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
 * Needs Molex power
 * Right Angle headers

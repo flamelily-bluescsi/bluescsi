@@ -15,7 +15,7 @@ tags:
   - amiga
 ---
 
-##### 🇬🇧🌍🇺🇸 T2 Adapter board 🇬🇧🌍🇺🇸
+##### 🇬🇧🌍🇺🇸 T2 Adapter board - PREORDERR 🇬🇧🌍🇺🇸
 
 {% include carousel2.html %}
 
@@ -24,6 +24,8 @@ This is to purchase a T2 Adapter board for [Alicia 1200](/alicia1200). Add this 
 * This is only for use in an [Alica 1200](/alicia1200)
 * Exposes the normal Amiga A1200 edge connector
 * For existing expansions for Alicia
+
+###### Please be aware that if you order now, our payment processor (Paypal) will take the amount immediately, but dispatch will be in February.
 
 &#128221; STOCK COUNT: {{site.t2adapter}}
 

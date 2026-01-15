@@ -22,7 +22,7 @@ tags:
 {% include carousel3.html %}
 <br>
 
-##### This First batch (New Rev2.0) we will be taking Pre-orders with delivery around January/February 2026. Get yourself in the queue. If you pre-order you will be guaranteed a board from the first batch.
+##### Pre-orders are closed for this batch, but we will add stock when we recieve it, which should be around mid February. Please follow us on BlueSky or X to get notified when this will be. Links at the bottom of the page.
 
 Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Alicia can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. Alicia rests upon the Advanced Graphics Architecture introduced in 1992, by Commodore with the Amiga A1200. With it’s revolutionary capabilities and performance it has been a haven for creative and artistic individuals to this day.
 
@@ -48,9 +48,7 @@ Please be aware that this is NOT a plug and play product. You are purchasing a q
 * Tracked and insured delivery included in the price.
 * Get a CPU [here](/68020), Video DAC [here](/dac), RAM [here](/aliciaram) and T2 Adapter [here](/t2adapter)
 
-###### Please be aware that if you order now, our payment processor (Paypal) will take the amount immediately, but dispatch will most likely be February. Please don't open a case with Paypal saying you have not received the items knowing this info. If this happens you will NOT get a board. This pre-order helps gauge interest and with numbers for the first batch order.
-
-&#128221; STOCK COUNT: PREORDER
+&#128221; STOCK COUNT: {{site.alicia}}
 
 {% if site.alicia > 0 %}
 {% include price.md %}

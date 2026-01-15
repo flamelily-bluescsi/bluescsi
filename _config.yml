@@ -45,7 +45,7 @@ picogus: 11
 picomem: 15
 adlib: 6
 denise: 0
-alicia: 1
+alicia: 0
 nic: 3
 cffloppy: 9
 powershark: 0
@@ -56,7 +56,7 @@ juicebox: 0
 scsiadapter: 6
 framethrower: 5
 ram: 7
-t2adapter: 1
+t2adapter: 0
 ultranarrow50: 1
 ultrawide68: 1
 ultrawide80: 0

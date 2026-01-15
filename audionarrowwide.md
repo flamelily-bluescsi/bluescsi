@@ -5,10 +5,10 @@ permalink: /audionarrowwide
 cart_name: "BlueSCSI Ultra - Audio for Narrow/Wide"
 cart_description: "BlueSCSI Ultra - Audio for Narrow/Wide - Assembled"
 cart_itemid: audionarrowwide
-cart_price: 8
-cart_price_uk: 8
-cart_price_us: 20
-cart_price_row: 18
+cart_price: 10
+cart_price_uk: 10
+cart_price_us: 25
+cart_price_row: 20
 cart_image: "assets/img/audioboard.webp"
 cart_image1: "assets/img/audioboard.webp"
 tags: 

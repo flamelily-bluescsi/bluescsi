@@ -12,14 +12,15 @@ cart_price_row: 48
 cart_image: "assets/img/jb.webp"
 cart_image1: "assets/img/jb1.webp"
 cart_image2: "assets/img/jb2.webp"
-cart_image3: "assets/img/Juice-box1.webp"
+cart_image3: "assets/img/HBRLogo.webp"
+cart_image4: "assets/img/Juice-box1.webp"
 tags: 
   - amiga
 ---
 
 ##### 🇬🇧🌍🇺🇸 Amiga JuiceBox kit USB-C power for Amiga 🇬🇧🌍🇺🇸
 
-{% include carousel4.html %}
+{% include carousel5.html %}
 
 {% if site.juicebox > 0 %}
 {% else %}

@@ -33,7 +33,6 @@ Tornado is an innovative 120-pin expansion bus containing all important signals 
 Included in the Kit:<br>
 1 x Alicia 1200 PCB (Mini-ITX)<br>
 4 x IC's (U3, U5, U11, U12)<br>
-1 x 120 pin GOLD connector (CN8 Local Bus)<br>
 You will get Alicia BOM details via email.
 
 We include most SMD components pre soldered on the main board PCB! This saves lots of time and makes Alicia 1200 easier to assemble! You will of course need to source a set of Amiga AGA chipset custom chips. We have some [here.](/amiga)

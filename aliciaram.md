@@ -15,7 +15,7 @@ tags:
 
 {% include carousel1.html %}
 
-This is to purchase an 4 RAM modules for Alicia 1200 or other A1200 re-amiga product. Add this to your Alicia 1200 order ready for soldering. To finish the Alicia Project you will still need to source some other components like the custom chips, ports, connectors, ROMS etc.
+This is to purchase an 4 RAM modules for Alicia 1200 or other A1200 re-amiga product. Add this to your Alicia 1200 order ready for soldering. These are U20, U21, U22, U23 on Alicia. To finish the Alicia Project you will still need to source some other components like the custom chips, ports, connectors, ROMS etc.
 
 * HM514260AJ8
 * Package: SOJ-40

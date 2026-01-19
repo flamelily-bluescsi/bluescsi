@@ -15,7 +15,7 @@ tags:
 
 {% include carousel1.html %}
 
-This is to purchase an Amiga Video Digital to Analog Converter (DAC) for Alicia or other A1200 re-amiga product. Add this to your Alicia 1200 order ready for soldering. To finish the Alicia Project you will still need to source some components like the custom chips, ports, connectors, ROMS etc.
+This is to purchase an Amiga Video Digital to Analog Converter (DAC) for Alicia or other A1200 re-amiga product. Add this to your Alicia 1200 order ready for soldering. This is U19 on Alicia. To finish the Alicia Project you will still need to source some components like the custom chips, ports, connectors, ROMS etc.
 
 * ADV101KP30
 * Package: 44-PLCC

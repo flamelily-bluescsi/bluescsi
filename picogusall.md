@@ -9,7 +9,7 @@ cart_price: 50
 cart_price_uk: 50
 cart_price_us: 65
 cart_price_row: 60
-cart_image: "assets/img/picogusuk.webp"
+cart_image: "assets/img/picogus2.webp"
 cart_image1: "assets/img/picogus201.webp"
 cart_image2: "assets/img/midiuk.webp"
 tags: 

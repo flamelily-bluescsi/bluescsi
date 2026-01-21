@@ -9,8 +9,7 @@ cart_price: 58
 cart_price_uk: 58
 cart_price_us: 75
 cart_price_row: 68
-cart_image: "assets/img/ultra.webp"
-cart_image1: "assets/img/ultra.webp"
+cart_image: "assets/img/ultra50.webp"
 tags: 
   - scsi
   - ultra
@@ -20,7 +19,7 @@ tags:
 
 {% include carousel1.html %}
 
-This is 50 pin 8bit Ultra Narrow version of the BlueSCSI (shown as Ultra in the picture above). This has a right angle 50 pin header and both floppy and more standard hard/CDROM drive molex for power. This is a complete and tested device. 
+This is 50 pin 8bit Ultra Narrow version of the BlueSCSI. This has a right angle 50 pin header and both floppy and more standard hard/CDROM drive full size molex for power. This is a complete and tested device. Uses the same footprint as the original V2 desktop so the all the existing [3D print mounts](/print) will work.
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 

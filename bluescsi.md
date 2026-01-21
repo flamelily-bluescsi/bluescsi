@@ -10,9 +10,9 @@ The BlueSCSI team have [announced](https://bluescsi.com/ultra){:target="_blank"}
 
 [Desktop V2](#bluescsi-desktop-50-pin-versions) and [Ultra products](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) support the Initiator Mode to copy data from your SCSI drive without needing a "Host Device" or computer. See [this DOC](https://bluescsi.com/docs/Initiator-Mode){:target="_blank"} for more info.
 
-Please click on the blue title below to view more information on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices <b>include</b> Royal Mail delivery and you will receive a dispatch email. We are a registered distributor for the BlueSCSI, and the project creators will get a share of every purchase. If you are specifically looking for the <b>older BlueSCSI V1</b> that uses a bluepill rather than pico, please use our [Contact Form](/contact) as we may have some available to purchase. Click the buttons below to view both the V1 and V2 Github pages and for detailed documentation and kit Assembly Instructions.
+Please click on the blue title below to view more information on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices <b>include</b> Royal Mail delivery and you will receive a dispatch email. We are a registered distributor for the BlueSCSI, and the project creators will get a share of every purchase. If you are specifically looking for the <b>older BlueSCSI V1</b> that uses a bluepill rather than pico, please use our [Contact Form](/contact) as we may have some available to purchase. Click the buttons below to access the BlueSCSI Github and for detailed documentation and kit Assembly Instructions.
 <p class="lead text-center">
-    <a href="https://github.com/erichelgeson/BlueSCSI" target="_blank" class="btn btn-lg btn-primary">V1 Github</a>&nbsp;<a href="https://github.com/BlueSCSI/BlueSCSI-v2" target="_blank" class="btn btn-lg btn-primary">V2 Github</a>&nbsp;<a href="https://bluescsi.com/docs/" target="_blank" class="btn btn-lg btn-primary">Documentation</a>
+    <a href="https://github.com/BlueSCSI/BlueSCSI-v2" target="_blank" class="btn btn-lg btn-primary">BlueSCSI Github</a>&nbsp;<a href="https://bluescsi.com/docs/" target="_blank" class="btn btn-lg btn-primary">Documentation</a>
 </p>
 <hr>
 

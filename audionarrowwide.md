@@ -9,8 +9,8 @@ cart_price: 10
 cart_price_uk: 10
 cart_price_us: 25
 cart_price_row: 20
-cart_image: "assets/img/audioboard.webp"
-cart_image1: "assets/img/audioboard.webp"
+cart_image: "assets/img/audioheader.webp"
+cart_image1: "assets/img/Ultra50_audio.webp"
 tags: 
   - scsi
   - ultra
@@ -18,7 +18,7 @@ tags:
 
 ##### 🇬🇧🌍 BlueSCSI Ultra - Audio for Narrow/Wide 🌍🇬🇧
 
-{% include carousel1.html %}
+{% include carousel2.html %}
 
 This is Audio Card for the BlueSCSI Ultra. BlueSCSI Ultra and Ultra Wide both support I2S audio output for CD audio emulation. To get audio out of the BlueSCSI, you'll need this add-on BlueSCSI Ultra Audio Board, which works with both Ultra models and gives you three output options:
 

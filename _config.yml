@@ -53,10 +53,10 @@ vgaadapter: 10
 cpu: 10
 dac: 9
 rtc: 10
-juicebox: 0
+juicebox: 1
 scsiadapter: 6
 framethrower: 5
-ram: 7
+ram: 6
 t2adapter: 0
 ultranarrow50: 1
 ultrawide68: 1

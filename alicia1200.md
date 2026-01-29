@@ -28,6 +28,8 @@ Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More
 
 Alicia gives you direct access to the most important stuff on the back of the board. Including PS/2 Keyboard & Mouse, standard DB9 Joysticks and DB15 RGB Video as well as left & right audio ports. Keeping other essentials like 9-pin serial, parallel and floppy drive on internal headers. A standard 44-pin IDE and 22-pin Clock Port is also available. A dedicated Digital/Analogue Video expansion Port (VP2) provides for flexible future video upgrades. Tornado V2 offers an 120-pin expansion bus for slim yet very powerful AGA systems. The 16-bit PCMCIA port is included on Alicia 1200 ready for expansions. Storage, LAN, WIFI and even graphics – PCMCIA has got it all.
 
+See an excellent Youtube video of Alicia [HERE](https://youtu.be/NMKiRaLyuD8){:target="_blank"} by Hack Build Restore.
+
 Tornado is an innovative 120-pin expansion bus containing all important signals needed to expand the system with everything from Powerful Processors with RAM and IDE, RTG Graphics adapters or Network cards, basically anything your heart desires! We are preparing for existing designs to be adopted to T2 for a fully optimized Mini-ITX AGA System! For historic expansions we also offer a [slim high quality adapter](/t2adapter) offering card edge support.
 
 Included in the Kit:<br>

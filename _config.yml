@@ -36,7 +36,7 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-db25: 8
+db25: 14
 desktop: 16
 powerbook: 9
 pico2: 3
@@ -53,7 +53,7 @@ vgaadapter: 10
 cpu: 10
 dac: 9
 rtc: 10
-juicebox: 8
+juicebox: 5
 scsiadapter: 6
 framethrower: 5
 ram: 6

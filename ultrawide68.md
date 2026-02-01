@@ -29,7 +29,7 @@ See more detailed info about the new ultra products [HERE.](https://bluescsi.com
 * Tested and complete
 * NO AUDIO - Click &#8594; [Add Audio](/audionarrowwide) - [Molex Adapter](/molex)
 
-##### PREORDER - Dispatch will be the end of January 2026.
+##### PREORDER - Dispatch will be the begining of February 2026.
 
 &#128221; STOCK COUNT: PREORDER
 

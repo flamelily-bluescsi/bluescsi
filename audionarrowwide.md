@@ -28,7 +28,7 @@ This is Audio Card for the BlueSCSI Ultra. BlueSCSI Ultra and Ultra Wide both su
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
-##### PREORDER - Dispatch will be the end of January 2026.
+##### PREORDER - Dispatch will be the begining of February 2026.
 
 &#128221; STOCK COUNT: PREORDER
 

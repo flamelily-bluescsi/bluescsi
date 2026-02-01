@@ -28,7 +28,7 @@ Ultra Wide (68 pin) has the SPI port built-in, so it doesn't need the Expander -
 * ONLY for the Ultra (50 pin)
 * Tested and complete
 
-##### PREORDER - Dispatch will be the end of January 2026.
+##### PREORDER - Dispatch will be the begining of February 2026.
 
 &#128221; STOCK COUNT: PREORDER
 

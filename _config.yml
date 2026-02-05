@@ -55,6 +55,7 @@ dac: 9
 rtc: 10
 juicebox: 8
 scsiadapter: 6
+hd68adapter: 5
 framethrower: 5
 ram: 6
 t2adapter: 0

@@ -7,8 +7,8 @@ cart_description: "Amiga Denise PCB Kit - Mini-ITX sized Amiga"
 cart_itemid: denise
 cart_price: 132
 cart_price_uk: 132
-cart_price_us: 155
-cart_price_row: 144
+cart_price_us: 159
+cart_price_row: 142
 cart_image: "assets/img/denise1.webp"
 cart_image1: "assets/img/denise2.webp"
 cart_image2: "assets/img/denise3.webp"

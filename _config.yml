@@ -64,6 +64,7 @@ ultrawide68: 1
 ultrawide80: 0
 narrowexpander: 1
 audionarrowwide: 1
+frontpanel: 25
 
 # Exclude from processing.
 # The following items will not be processed, by default.

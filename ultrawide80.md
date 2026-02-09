@@ -20,14 +20,14 @@ tags:
 
 {% include carousel1.html %}
 
-This is 80 pin 16bit Ultra Wide version of the BlueSCSI. This has a right angle 80 pin header and both floppy and more standard hard/CDROM drive molex for power. This is a complete and tested device.
+This is 80 pin 16bit Ultra Wide version of the BlueSCSI. This has a right angle 80 pin header and both floppy and more standard hard/CDROM drive molex for power. This is a complete and tested device. This device contains the SPI port on the PCB for the Front Panel board which is designed by Polpo for the [PicoIDE.](/picoide) This Front Panel board is coming soon [see here.](/frontpanel)
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
 * Needs Molex power
 * Right Angle headers
 * Tested and complete
-* NO AUDIO - Click &#8594; [Add Audio for Narrow/Wide](/audionarrowwide) - [Molex Adapter](/molex)
+* NO AUDIO - Click &#8594; [Add Audio for Narrow/Wide](/audionarrowwide) - [Front Panel](/frontpanel) - [Molex Adapter](/molex)
 
 ##### NOT YET PREORDER Please be patient (Firmware in development)
 

@@ -19,7 +19,7 @@ tags:
 
 {% include carousel1.html %}
 
-This is Front Panel for the BlueSCSI Ultra. This Front Panel is an optional extension for all BlueSCSI Ultra boards that was designed by Polpo for the [PicoIDE.](/picoide) This is the exact same Front Panel that will be used on the PicoIDE and will be interchangable. In other words you can connect it to a PicoIDE or a BlueSCSI Ultra. Just remember the narrow 50 pin Ultra needs the [expander](/narrowexpander) to work with this.
+This is Front Panel for all the BlueSCSI Ultra devices. This Front Panel is an optional extension for all BlueSCSI Ultra boards that was designed by Polpo for the [PicoIDE.](/picoide) This is the exact same Front Panel that will be used on the PicoIDE and will be interchangable. In other words you can connect it to a PicoIDE or a BlueSCSI Ultra. Just remember the narrow 50 pin Ultra needs the [expander](/narrowexpander) to work with this.
 
 Please visit the excellent documentation page here - [https://picoide.com/docs/front-panel/](https://picoide.com/docs/front-panel/){:target="_blank"} to see all the functionality of this board.
 

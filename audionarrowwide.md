@@ -20,7 +20,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is Audio Card for the BlueSCSI Ultra. BlueSCSI Ultra and Ultra Wide both support I2S audio output for CD audio emulation. To get audio out of the BlueSCSI, you'll need this add-on BlueSCSI Ultra Audio Board, which works with both Ultra models and gives you three output options:
+This is Audio Card for the BlueSCSI Ultra. BlueSCSI Ultra and Ultra Wide both support I2S audio output for CD audio emulation. To get audio out of the BlueSCSI Ultra boards, you'll need this add-on BlueSCSI Ultra Audio Board, which works with both Ultra models and gives you three output options:
 
 * Vintage Apple CD-ROM connector
 * Standard PC CD/DVD audio header
@@ -28,9 +28,7 @@ This is Audio Card for the BlueSCSI Ultra. BlueSCSI Ultra and Ultra Wide both su
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
-##### PREORDER - Dispatch will be the begining of February 2026.
-
-&#128221; STOCK COUNT: PREORDER
+&#128221; STOCK COUNT: {{site.audionarrowwide}}
 
 {% if site.audionarrowwide > 0 %}
 {% include price.md %}

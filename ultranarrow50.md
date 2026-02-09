@@ -28,9 +28,7 @@ See more detailed info about the new ultra products [HERE.](https://bluescsi.com
 * Tested and complete
 * Expansions - Click &#8594; [Add Expander Card](/narrowexpander) - [Add Audio](/audionarrowwide) - [Molex Adapter](/molex)
 
-##### PREORDER - Dispatch will be the begining of February 2026.
-
-&#128221; STOCK COUNT: PREORDER
+&#128221; STOCK COUNT: {{site.ultranarrow50}}
 
 {% if site.ultranarrow50 > 0 %}
 {% include price.md %}

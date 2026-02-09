@@ -42,7 +42,7 @@ powerbook: 8
 pico2: 3
 pico2w: 3
 picogus: 2
-picomem: 12
+picomem: 11
 adlib: 5
 denise: 0
 alicia: 0
@@ -59,11 +59,11 @@ hd68adapter: 5
 framethrower: 5
 ram: 6
 t2adapter: 0
-ultranarrow50: 1
-ultrawide68: 1
+ultranarrow50: 35
+ultrawide68: 25
 ultrawide80: 0
-narrowexpander: 1
-audionarrowwide: 1
+narrowexpander: 40
+audionarrowwide: 40
 frontpanel: 25
 
 # Exclude from processing.

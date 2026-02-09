@@ -28,9 +28,7 @@ Ultra Wide (68 pin and SCA 80 pin) has the SPI port built-in, so it doesn't need
 * ONLY for the Ultra Narrow (50 pin)
 * Tested and complete
 
-##### PREORDER - Dispatch will be the begining of February 2026.
-
-&#128221; STOCK COUNT: PREORDER
+&#128221; STOCK COUNT: {{site.narrowexpander}}
 
 {% if site.narrowexpander > 0 %}
 {% include price.md %}

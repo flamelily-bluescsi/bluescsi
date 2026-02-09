@@ -9,8 +9,7 @@ cart_price: 70
 cart_price_uk: 70
 cart_price_us: 87
 cart_price_row: 80
-cart_image: "assets/img/ultra.webp"
-cart_image1: "assets/img/ultra.webp"
+cart_image: "assets/img/ultrawide.webp"
 tags: 
   - scsi
   - ultra
@@ -29,9 +28,7 @@ See more detailed info about the new ultra products [HERE.](https://bluescsi.com
 * Tested and complete
 * NO AUDIO - Click &#8594; [Add Audio](/audionarrowwide) - [Molex Adapter](/molex)
 
-##### PREORDER - Dispatch will be the begining of February 2026.
-
-&#128221; STOCK COUNT: PREORDER
+&#128221; STOCK COUNT: {{site.ultrawide68}}
 
 {% if site.ultrawide68 > 0 %}
 {% include price.md %}

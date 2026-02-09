@@ -6,7 +6,7 @@ permalink: /bluescsi
 
 ##### NEW for 2026 &#127881; - BlueSCSI Ultra and Ultra Wide - All our prices include delivery cost, just select your region from the dropdown
 
-The BlueSCSI team have [announced](https://bluescsi.com/ultra){:target="_blank"} two new versions of BlueSCSI: [Ultra](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) and [Ultra Wide.](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) These new models support faster ultra wide SCSI connections to better support more high end workstations and SCSI cards. These will begin as <b>PREORDER PRODUCTS</b> and will dispatch around the <b>beginning of February 2026.</b> Preorders will be sent once stock arrives and has been fully tested, then once these are dispatched we will remove the preorder info/notes and dispatch will return to the normal 2 working days.
+The BlueSCSI team have [announced](https://bluescsi.com/ultra){:target="_blank"} two new versions of BlueSCSI: [Ultra](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) and [Ultra Wide.](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) These new models support faster ultra wide SCSI connections to better support more high end workstations and SCSI cards.
 
 [Desktop V2](#bluescsi-desktop-50-pin-versions) and [Ultra products](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) support the Initiator Mode to copy data from your SCSI drive without needing a "Host Device" or computer. See [this DOC](https://bluescsi.com/docs/Initiator-Mode){:target="_blank"} for more info.
 

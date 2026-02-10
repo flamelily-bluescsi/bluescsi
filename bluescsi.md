@@ -4,7 +4,7 @@ note: true
 permalink: /bluescsi
 ---
 
-##### NEW for 2026 &#127881; - BlueSCSI Ultra and Ultra Wide - All our prices include delivery cost, just select your region from the dropdown
+##### NEW for 2026 &#127881; - BlueSCSI Ultra and Ultra Wide - IN STOCK NOW!
 
 The BlueSCSI team have [announced](https://bluescsi.com/ultra){:target="_blank"} two new versions of BlueSCSI: [Ultra](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) and [Ultra Wide.](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) These new models support faster ultra wide SCSI connections to better support more high end workstations and SCSI cards.
 
@@ -16,7 +16,7 @@ Please click on the blue title below to view more information on the product pag
 </p>
 <hr>
 
-###### NEW &#127881; - BlueSCSI Ultra versions - PREORDER ONLY - Delivery Included in the price
+###### NEW &#127881; - BlueSCSI Ultra versions - Delivery Included in the price
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'ultra'" %}
 <div class="container">
 <div class="row">

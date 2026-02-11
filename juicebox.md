@@ -24,7 +24,7 @@ tags:
 
 {% if site.juicebox > 0 %}
 {% else %}
-##### We hope to have more stock around 1st Week Feb 2026.
+##### We hope to have more stock around 1st Week March 2026.
 {% endif %}
 
 This is to purchase a JuiceBox hobby test kit to build your own USB-C power supply unit for your Amiga. Andi from the YouTube channel HBR has created this power supply unit for Amigas. You can see the video about it [here.](https://youtu.be/xJbwops7EXk){:target="_blank"} You will need to solder and build this kit up yourself using the parts we supply. The one part you will need to supply yourself will be the 5 PIN Square DIN Male Connector, which you can either use from an old PSU or purchase from [Sordan.ie here.](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/){:target="_blank"} You will also need some standard cable for the switch and DIN plug. You can use Cat6a ethernet cable with copper cores as Andi shows in his video.

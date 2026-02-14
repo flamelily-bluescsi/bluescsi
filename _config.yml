@@ -49,9 +49,9 @@ alicia: 0
 nic: 3
 cffloppy: 9
 powershark: 0
-vgaadapter: 10
-cpu: 10
-dac: 9
+vgaadapter: 8
+cpu: 9
+dac: 8
 rtc: 10
 juicebox: 0
 scsiadapter: 6

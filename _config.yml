@@ -50,9 +50,9 @@ nic: 3
 cffloppy: 9
 powershark: 0
 vgaadapter: 8
-cpu: 9
-dac: 8
-rtc: 10
+cpu: 8
+dac: 5
+rtc: 9
 juicebox: 0
 scsiadapter: 6
 hd68adapter: 5

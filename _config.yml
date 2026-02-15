@@ -44,8 +44,8 @@ pico2w: 3
 picogus: 0
 picomem: 9
 adlib: 5
-denise: 0
-alicia: 0
+denise: 5
+alicia: 3
 nic: 3
 cffloppy: 9
 powershark: 0
@@ -58,7 +58,7 @@ scsiadapter: 6
 hd68adapter: 5
 framethrower: 5
 ram: 6
-t2adapter: 0
+t2adapter: 5
 ultranarrow50: 35
 ultrawide68: 25
 ultrawide80: 0

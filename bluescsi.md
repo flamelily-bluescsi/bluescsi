@@ -6,9 +6,9 @@ permalink: /bluescsi
 
 ##### NEW for 2026 &#127881; - BlueSCSI Ultra and Ultra Wide - IN STOCK NOW!
 
-The BlueSCSI team have [announced](https://bluescsi.com/ultra){:target="_blank"} two new versions of BlueSCSI: [Ultra](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) and [Ultra Wide.](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) These new models support faster ultra wide SCSI connections to better support more high end workstations and SCSI cards.
+The BlueSCSI team have [announced](https://bluescsi.com/ultra){:target="_blank"} two new versions of BlueSCSI: [Ultra](#new----bluescsi-ultra-versions---delivery-included-in-the-price) and [Ultra Wide.](#new----bluescsi-ultra-versions---delivery-included-in-the-price) These new models support faster ultra wide SCSI connections to better support more high end workstations and SCSI cards.
 
-[Desktop V2](#bluescsi-desktop-50-pin-versions) and [Ultra products](#new----bluescsi-ultra-versions---preorder-only---delivery-included-in-the-price) support the Initiator Mode to copy data from your SCSI drive without needing a "Host Device" or computer. See [this DOC](https://bluescsi.com/docs/Initiator-Mode){:target="_blank"} for more info.
+[Desktop V2](#bluescsi-desktop-50-pin-versions) and [Ultra products](#new----bluescsi-ultra-versions---delivery-included-in-the-price) support the Initiator Mode to copy data from your SCSI drive without needing a "Host Device" or computer. See [this DOC](https://bluescsi.com/docs/Initiator-Mode){:target="_blank"} for more info.
 
 Please click on the blue title below to view more information on the product page, and photos of the product. You can "Add to cart" from these product pages. Our prices <b>include</b> Royal Mail delivery and you will receive a dispatch email. We are a registered distributor for the BlueSCSI, and the project creators will get a share of every purchase. If you are specifically looking for the <b>older BlueSCSI V1</b> that uses a bluepill rather than pico, please use our [Contact Form](/contact) as we may have some available to purchase. Click the buttons below to access the BlueSCSI Github and for detailed documentation and kit Assembly Instructions.
 <p class="lead text-center">
@@ -71,3 +71,5 @@ Please click on the blue title below to view more information on the product pag
 ##### 3D Prints (for purchase with a BlueSCSI)
 
 Visit the [3D Print Page](/print) to add a BlueSCSI mount for your device.
+
+<h6 id="new----bluescsi-ultra-versions---delivery-included-in-the-price">NEW 🎉 - BlueSCSI Ultra versions - Delivery Included in the price</h6>

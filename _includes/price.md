@@ -10,9 +10,9 @@
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 Rest of World - £{{page.cart_price_row}} (International tracked)</option>
   {% elsif page.cart_name contains 'Alicia' %}
-    <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 UK Delivery - PREORDER £{{page.cart_price_uk}} (48hr tracked)</option>
-    <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - PREORDER £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
-    <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 Rest of World - PREORDER £{{page.cart_price_row}} (International tracked)</option>
+    <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 UK Delivery - £{{page.cart_price_uk}} (48hr tracked)</option>
+    <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
+    <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 Rest of World - £{{page.cart_price_row}} (International tracked)</option>
   {% else %}
     <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 UK Delivery - £{{page.cart_price_uk}} (48hr tracked)</option>
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>

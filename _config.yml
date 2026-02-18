@@ -44,7 +44,7 @@ pico2w: 3
 picogus: 0
 picomem: 9
 adlib: 5
-denise: 5
+denise: 4
 alicia: 2
 nic: 3
 cffloppy: 9
@@ -54,8 +54,8 @@ cpu: 8
 dac: 5
 rtc: 9
 juicebox: 0
-scsiadapter: 6
-hd68adapter: 5
+scsiadapter: 5
+hd68adapter: 2
 framethrower: 5
 ram: 6
 t2adapter: 5

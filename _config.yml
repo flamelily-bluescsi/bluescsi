@@ -50,14 +50,14 @@ nic: 3
 cffloppy: 9
 powershark: 0
 vgaadapter: 8
-cpu: 5
+cpu: 4
 dac: 3
 rtc: 9
 juicebox: 0
 scsiadapter: 5
 hd68adapter: 2
 framethrower: 5
-ram: 4
+ram: 2
 t2adapter: 5
 ultranarrow50: 35
 ultrawide68: 25

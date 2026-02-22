@@ -56,7 +56,7 @@ rtc: 9
 juicebox: 0
 scsiadapter: 5
 hd68adapter: 2
-framethrower: 5
+framethrower: 0
 ram: 2
 t2adapter: 5
 ultranarrow50: 35

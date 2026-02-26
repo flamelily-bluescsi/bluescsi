@@ -22,6 +22,11 @@ tags:
 {% include carousel3.html %}
 <br>
 
+{% if site.alicia > 0 %}
+{% else %}
+##### Sorry, sold out, Next batch will be coming around the end of March 2026
+{% endif %}
+
 Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Alicia can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. Alicia rests upon the Advanced Graphics Architecture introduced in 1992, by Commodore with the Amiga A1200. With it’s revolutionary capabilities and performance it has been a haven for creative and artistic individuals to this day.
 
 Alicia gives you direct access to the most important stuff on the back of the board. Including PS/2 Keyboard & Mouse, standard DB9 Joysticks and DB15 RGB Video as well as left & right audio ports. Keeping other essentials like 9-pin serial, parallel and floppy drive on internal headers. A standard 44-pin IDE and 22-pin Clock Port is also available. A dedicated Digital/Analogue Video expansion Port (VP2) provides for flexible future video upgrades. Tornado V2 offers an 120-pin expansion bus for slim yet very powerful AGA systems. The 16-bit PCMCIA port is included on Alicia 1200 ready for expansions. Storage, LAN, WIFI and even graphics – PCMCIA has got it all.

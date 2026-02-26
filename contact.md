@@ -7,7 +7,7 @@ tags:
 ---
 You can email us using this form below if you have any questions that are not answered on our website. Please read the [Frequently Asked Questions](/faqs) page which explains most things about purchasing and shipping. We will do our best to reply within 24 hours, thanks.
 <!-- form HTML -->
-<form action="https://formspree.io/f/mzbqzzod"
+<form action="https://formspree.io/f/meelnkaj"
   method="POST">
   <div class="mb-3">
   <label for="name" class="form-label">Name</label>

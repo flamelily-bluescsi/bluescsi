@@ -16,7 +16,7 @@ We will be the UK registered distributor for the [PicoIDE](https://picoide.com/)
 Visit [https://picoide.com](https://picoide.com/){:target="_blank"} to learn more.
 
 <!-- form HTML -->
-<form action="https://formspree.io/f/xanbkzjz"
+<form action="https://formspree.io/f/mreajkpq"
   method="POST">
   <div class="mb-3">
   	<p>If you would like to register your interest and get an email notification when the PicoIDE is available, then enter and submit your email address below. Please be aware this device is still in development so please be patient. We estimate around June/July 2026.</p>

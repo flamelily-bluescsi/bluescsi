@@ -27,7 +27,7 @@ tags:
 ##### We hope to have more stock around 1st Week March 2026.
 
 <!-- form HTML -->
-<form action="https://formspree.io/f/xbdaoyke"
+<form action="https://formspree.io/f/mwvnybll"
   method="POST">
   <div class="mb-3">
     <p>If you would like to get an email notification when they are available, then enter your email address below.</p>

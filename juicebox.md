@@ -24,7 +24,7 @@ tags:
 
 {% if site.juicebox > 0 %}
 {% else %}
-##### We hope to have more stock around 1st Week March 2026.
+##### We hope to have more stock around 9th March 2026.
 
 <!-- form HTML -->
 <form action="https://formspree.io/f/mwvnybll"

@@ -24,7 +24,6 @@ This is 80 pin 16bit Ultra Wide version of the BlueSCSI. This has a right angle 
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
-* Needs Molex power
 * Right Angle headers
 * Tested and complete
 * NO AUDIO - Click &#8594; [Add Audio for Narrow/Wide](/audionarrowwide) - [Front Panel](/frontpanel) - [Molex Adapter](/molex)

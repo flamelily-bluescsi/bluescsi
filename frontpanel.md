@@ -9,7 +9,8 @@ cart_price: 35
 cart_price_uk: 35
 cart_price_us: 49
 cart_price_row: 45
-cart_image: "assets/img/frontpanel.webp"
+cart_image: "assets/img/Front-bottom.webp"
+cart_image1: "assets/img/Front-top.webp"
 tags: 
   - scsi
   - ultra
@@ -17,7 +18,7 @@ tags:
 
 ##### 🇬🇧🌍 BlueSCSI Ultra - Front Panel - COMING SOON 🌍🇬🇧
 
-{% include carousel1.html %}
+{% include carousel2.html %}
 
 This is Front Panel for all the BlueSCSI Ultra devices. This Front Panel is an optional extension for all BlueSCSI Ultra boards that was designed by Polpo for the [PicoIDE.](/picoide) This is the exact same Front Panel that will be used on the PicoIDE and will be interchangable (with alternate firmware). In other words you can connect it to a PicoIDE or a BlueSCSI Ultra. Just remember the narrow 50 pin Ultra needs the [expander](/narrowexpander) to work with this.
 

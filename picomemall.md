@@ -32,6 +32,8 @@ Price includes shipping costs. Make sure you choose the correct delivery region 
 
 &#128221; STOCK COUNT: {{site.picomem}}
 
+##### We hope to have more stock around mid March 2026.
+
 {% if site.picomem > 0 %}
 {% include price.md %}
 {% else %}

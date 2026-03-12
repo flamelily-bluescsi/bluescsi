@@ -40,7 +40,7 @@ Included in the Kit:<br>
 4 x IC's (U3, U5, U11, U12)<br>
 You will get Alicia BOM details via email.
 
-We include most SMD components pre soldered on the main board PCB! This saves lots of time and makes Alicia 1200 easier to assemble! You will of course need to source a set of Amiga AGA chipset custom chips. We have some [here.](/amiga)
+We include most SMD components pre soldered on the main board PCB! This saves lots of time and makes Alicia 1200 easier to assemble! You will of course need to source a set of Amiga AGA chipset custom chips. We may have some, so please use our contact form [here](/contact) to request what we have available, since we don't list everything.
 
 Important information:
 Please be aware that this is NOT a plug and play product. You are purchasing a quality (TG-155/ENIG) PCB, and build instructions. No warranty or support is offered. We are the <b>registered UK reseller</b> for the Alicia 1200, and the project maintainer will get a commission for every one we sell.

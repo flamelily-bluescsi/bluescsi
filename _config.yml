@@ -53,7 +53,7 @@ vgaadapter: 8
 cpu: 4
 dac: 3
 rtc: 6
-juicebox: 20
+juicebox: 16
 scsiadapter: 5
 hd68adapter: 2
 framethrower: 0

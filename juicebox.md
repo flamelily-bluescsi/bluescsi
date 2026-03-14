@@ -12,7 +12,7 @@ cart_price_row: 48
 cart_image: "assets/img/jb.webp"
 cart_image1: "assets/img/jb1.webp"
 cart_image2: "assets/img/jb2.webp"
-cart_image3: "assets/img/Juice-box1.webp"
+cart_image3: "assets/img/jb3.webp"
 tags: 
   - amiga
 ---
@@ -44,10 +44,10 @@ This is to purchase a JuiceBox hobby test kit to build your own USB-C power supp
 
 If you need an adapter, an excellent USB-C power adpater that works very well is the UGREEN 30W which can be bought off Amazon UK here [https://amzn.to/473Q7KI](https://amzn.to/473Q7KI) and 2m USB-C cable from here [https://amzn.to/4kZrfXW](https://amzn.to/4kZrfXW) 
 
-* Kit includes Main populated PCB, metal housing, PCB end plates, switch and screws
-* USB-C power delivery
+* Kit incl. Main populated PCB, housing, PCB end plates, switch and screws
+* NEW - Rev 4 PCB with larger holes for soldering
 * Will work for an A500, A500+, A600 and A1200
-* Last photo shows a built version
+* Some photos show built versions as examples only
 * Get your 5 PIN DIN connector [here](https://sordan.ie/product/732/5-pin-square-din-male-connector-amiga-500-600-1200-commodore-128/){:target="_blank"}
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.

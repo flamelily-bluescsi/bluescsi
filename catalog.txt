@@ -6,8 +6,12 @@ catalog = {
 {%- for page in catalog_items -%}
 	{%- if page.cart_itemid-%}
 		{%- assign has_regional = false -%}
-		{%- if page.cart_price_uk or page.cart_price_us or page.cart_price_row or page.cart_price_with or page.cart_price_without -%}
+		{%- assign has_black = false -%}
+		{%- if page.cart_price_uk or page.cart_price_us or page.cart_price_row -%}
 			{%- assign has_regional = true -%}
+		{%- endif -%}
+		{%- if page.cart_price_uk_black or page.cart_price_us_black or page.cart_price_row_black -%}
+			{%- assign has_black = true -%}
 		{%- endif -%}
 		
 		{%- if has_regional -%}
@@ -32,18 +36,28 @@ catalog = {
 				price: {{ page.cart_price_row }}
 			},
 			{%- endif -%}
-			{%- if page.cart_price_with -%}
-			{{ page.cart_itemid }}with: {
-				name: "{{ page.cart_name }} - WITH",
+		{%- endif -%}
+		
+		{%- if has_black -%}
+			{%- if page.cart_price_uk_black -%}
+			{{ page.cart_itemid }}ukblack: {
+				name: "{{ page.cart_name }} - UK - Black",
 				description: "{{ page.cart_description }}",
-				price: {{ page.cart_price_with }}
+				price: {{ page.cart_price_uk_black }}
 			},
 			{%- endif -%}
-			{%- if page.cart_price_without -%}
-			{{ page.cart_itemid }}without: {
-				name: "{{ page.cart_name }} - WITHOUT",
+			{%- if page.cart_price_us_black -%}
+			{{ page.cart_itemid }}usblack: {
+				name: "{{ page.cart_name }} - US - Black",
 				description: "{{ page.cart_description }}",
-				price: {{ page.cart_price_without }}
+				price: {{ page.cart_price_us_black }}
+			},
+			{%- endif -%}
+			{%- if page.cart_price_row_black -%}
+			{{ page.cart_itemid }}rowblack: {
+				name: "{{ page.cart_name }} - ROW - Black",
+				description: "{{ page.cart_description }}",
+				price: {{ page.cart_price_row_black }}
 			},
 			{%- endif -%}
 		{%- endif -%}

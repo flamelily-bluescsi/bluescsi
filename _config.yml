@@ -59,11 +59,11 @@ hd68adapter: 2
 framethrower: 0
 ram: 1
 t2adapter: 4
-ultranarrow50: 35
-ultrawide68: 25
+ultranarrow50: 32
+ultrawide68: 22
 ultrawide80: 0
-narrowexpander: 40
-audionarrowwide: 40
+narrowexpander: 38
+audionarrowwide: 39
 frontpanel: 0
 picogx: 0
 

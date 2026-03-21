@@ -38,10 +38,10 @@ icon: "&#128722;"
 # Stock
 db25: 12
 desktop: 16
-powerbook: 6
+powerbook: 5
 pico2: 3
 pico2w: 3
-picogus: 25
+picogus: 19
 picomem: 0
 adlib: 5
 denise: 4
@@ -58,7 +58,7 @@ scsiadapter: 5
 hd68adapter: 2
 framethrower: 0
 ram: 1
-t2adapter: 4
+t2adapter: 8
 ultranarrow50: 32
 ultrawide68: 22
 ultrawide80: 0

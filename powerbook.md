@@ -24,7 +24,7 @@ This is the NEW version 2 Powerbook Full version of the BlueSCSI for buyers. Thi
 
 * New Version with castellated pins for soldering Pico
 * Fully tested
-* NO WIFI - Click &#8594; [Add Pico Wifi](/picow) [Add Pico 2 Wifi](/pico2w)
+* NO WIFI - Click &#8594; [Add Pico 2 Wifi](/pico2w)
 
 &#128221; STOCK COUNT: {{site.powerbook}}
 

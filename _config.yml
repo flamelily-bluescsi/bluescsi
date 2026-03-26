@@ -51,7 +51,7 @@ cffloppy: 8
 powershark: 37
 vgaadapter: 8
 cpu: 4
-dac: 3
+dac: 2
 rtc: 6
 juicebox: 16
 scsiadapter: 5
@@ -65,7 +65,7 @@ ultrawide80: 0
 narrowexpander: 38
 audionarrowwide: 39
 frontpanel: 0
-picogx: 34
+picogx: 24
 
 # Exclude from processing.
 # The following items will not be processed, by default.

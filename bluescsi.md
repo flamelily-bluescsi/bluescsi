@@ -71,5 +71,3 @@ Please click on the blue title below to view more information on the product pag
 ##### 3D Prints (for purchase with a BlueSCSI)
 
 Visit the [3D Print Page](/print) to add a BlueSCSI mount for your device.
-
-<h6 id="new----bluescsi-ultra-versions---delivery-included-in-the-price">NEW 🎉 - BlueSCSI Ultra versions - Delivery Included in the price</h6>

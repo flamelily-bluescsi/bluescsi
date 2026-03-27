@@ -48,8 +48,8 @@ denise: 4
 alicia: 0
 nic: 3
 cffloppy: 8
-powershark: 19
-powersharkbk: 4
+powershark: 23
+powersharkbk: 3
 vgaadapter: 8
 cpu: 4
 dac: 2
@@ -66,7 +66,7 @@ ultrawide80: 0
 narrowexpander: 38
 audionarrowwide: 39
 frontpanel: 0
-picogx: 16
+picogx: 14
 
 # Exclude from processing.
 # The following items will not be processed, by default.

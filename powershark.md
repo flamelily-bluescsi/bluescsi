@@ -44,7 +44,7 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 
 Price includes shipping costs. Please choose your delivery region below. An alternate USB-C device can be purchased [here](/juicebox)
 
-&#128221; STOCK COUNT : Beige - {{site.powershark}} Black - {{site.powersharkbk}}
+&#128221; STOCK COUNT : Beige - {{site.powershark}} Black - {{site.powersharkbk}} (Sold Out)
 
 {% if site.powershark > 0 %}
 {% include price.md %}

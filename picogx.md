@@ -11,13 +11,14 @@ cart_price_us: 55
 cart_price_row: 50
 cart_image: "assets/img/PicoGX.webp"
 cart_image1: "assets/img/picogxmenu.webp"
+cart_image2: "assets/img/picogx-pcb.webp"
 tags: 
   - gx
 ---
 
 ##### PicoGX Cartridge for the Amstrad GX4000 and Plus range
 
-{% include carousel2.html %}
+{% include carousel3.html %}
 
 {% if site.picogx > 0 %}
 {% else %}

@@ -24,7 +24,7 @@ This is Front Panel for all the BlueSCSI Ultra devices. This Front Panel is an o
 
 Please visit the excellent documentation page here - [https://picoide.com/docs/front-panel/](https://picoide.com/docs/front-panel/){:target="_blank"} to see all the functionality of this board.
 
-Ultra Wide (68 pin and SCA 80 pin) has the SPI port built-in, so it doesn't need the Expander - just connect the Front Panel directly via the flex cable. See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
+Ultra Wide (68 pin and SCA 80 pin) has the SPI port built-in, so it doesn't need the Expander - just connect the Front Panel directly via the flex cable. If you connect this to the Non-Ultra V2 desktop BlueSCSI you will need a QWIIC cable. See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
 * Latest PCB revision
 * Comes with short flex cable (7.5cm)

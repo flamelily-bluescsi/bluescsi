@@ -39,6 +39,7 @@ You store your .cpr and .bin files on a microSD card. It support folders and sub
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.
 ###### Waiting on 3D prints - DISPATCH FOR ORDERS will be week commencing 6th April
+###### Please be patient.
 
 &#128221; STOCK COUNT: {{site.picogx}}
 

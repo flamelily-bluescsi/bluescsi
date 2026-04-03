@@ -35,7 +35,7 @@ You store your .cpr and .bin files on a microSD card. It support folders and sub
 * Built-in MicroSD card reader
 * Support ROM files .cpr and .bin
 * Latest Rev 1.0 PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
-* Pre-flashed with latest firmware (1.0.4)
+* Pre-flashed with latest firmware (1.0.5)
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.
 ###### Waiting on 3D prints - DISPATCH FOR ORDERS will be week commencing 7th April (6th is holiday)

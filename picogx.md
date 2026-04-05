@@ -38,7 +38,7 @@ You store your .cpr and .bin files on a microSD card. It support folders and sub
 * Pre-flashed with latest firmware (1.0.5)
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.
-###### Waiting more 3D prints - DISPATCH FOR NEW ORDERS from today will be week commencing 13th April
+###### Waiting more 3D prints - DISPATCH FOR NEW ORDERS from 4th April will be week commencing 13th April
 ###### Please be patient. This product has been popular.
 
 &#128221; STOCK COUNT: {{site.picogx}}

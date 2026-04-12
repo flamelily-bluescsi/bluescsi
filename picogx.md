@@ -29,7 +29,7 @@ The PicoGX is cartridge emulator for the Amstrad GX4000 and Amstrad Plus range, 
 
 We are the registered UK reseller and the project creator will get a share of every purchase. Github link for firmware updates is [https://github.com/Neo2003/PicoGX](https://github.com/Neo2003/PicoGX)
 
-You store your .cpr and .bin files on a microSD card. It support folders and sub-folders. You can connect the PicoGX via USB-C to a PC with a Micro SD loaded and the PC will mount the SD card as a drive. If you remove the SD card, the cartridge will launch the last game loaded automatically. The most recent game used will always show at the top of the list, so you just push the fire button to launch. The filenames on the SD card can be up to 80 characters long (from Firmware 1.0.3 and above).
+You store your .cpr and .bin files on a microSD card. It support folders and sub-folders. You can connect the PicoGX via USB-C to a PC with a Micro SD loaded and the PC will mount the SD card as a drive. The most recent game loaded will always show at the top of the list, so you just press fire button to launch. If you remove the SD card, the cartridge will launch the last game loaded, automatically. So you could use the PicoGX as a single game cartridge without an SD card (the game is stored in the 2MB flash memory on the pico chip). The filenames on the SD card can be up to 80 characters long (from Firmware 1.0.3 and above).
 
 * Resin printed 3D case
 * Built-in MicroSD card reader

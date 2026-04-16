@@ -36,18 +36,18 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-db25: 12
-desktop: 16
-powerbook: 5
+db25: 22
+desktop: 14
+powerbook: 4
 pico2w: 3
-picogus: 16
-picomem: 19
+picogus: 15
+picomem: 14
 adlib: 5
-denise: 3
+denise: 2
 alicia: 0
 nic: 3
-cffloppy: 11
-powershark: 18
+cffloppy: 10
+powershark: 14
 powersharkbk: 0
 vgaadapter: 5
 cpu: 4
@@ -62,8 +62,8 @@ t2adapter: 19
 ultranarrow50: 32
 ultrawide68: 22
 ultrawide80: 0
-narrowexpander: 38
-audionarrowwide: 39
+narrowexpander: 37
+audionarrowwide: 38
 frontpanel: 0
 picogx: 52
 

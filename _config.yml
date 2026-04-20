@@ -65,7 +65,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 0
-picogx: 52
+picogx: 34
 
 # Exclude from processing.
 # The following items will not be processed, by default.

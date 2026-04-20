@@ -22,7 +22,7 @@ tags:
 
 {% if site.picogx > 0 %}
 {% else %}
-##### COMING SOON. First batch should be here on 25th March 2026
+##### DISPATCH FOR NEW ORDERS will be week commencing 25th June 2026
 {% endif %}
 
 The PicoGX is cartridge emulator for the Amstrad GX4000 and Amstrad Plus range, based on the Raspberry Pi Pico microcontroller.  It offers a range of features and aims to be an all-in-one solution for running your games for your GX console and Amstrad Plus computers. It comes fully assembled in a resin factory printed case and a lovely sticker with a homage to the original cartridge design from back in the day. It's creator Rodrik has a video showing the features here [https://youtu.be/3OqgBA5MhvY](https://youtu.be/3OqgBA5MhvY) (English AI voice)
@@ -35,11 +35,9 @@ You store your .cpr and .bin files on a microSD card. It support folders and sub
 * Built-in MicroSD card reader
 * Support ROM files .cpr and .bin
 * Latest Rev 1.0 PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
-* Pre-flashed with latest firmware (1.0.7)
+* Pre-flashed with latest firmware (1.1.0)
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.
-###### Waiting on 3D prints - DISPATCH FOR NEW ORDERS from 10th April will be week commencing 20th April
-###### Please be patient, as dispatch time is around 5 working days from order. Thanks.
 
 &#128221; STOCK COUNT: {{site.picogx}}
 

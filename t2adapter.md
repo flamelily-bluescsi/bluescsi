@@ -22,7 +22,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is to purchase a T2 Adapter board for [Alicia 1200](/alicia1200). Add this to your Alicia 1200 order ready for use. This will convert the Alicia BUS expansion into the card edge connector found on an original Amiga A1200, so you can plug in any original/historic expansion into your Mini-ITX Amiga. This makes the edge connector at a right angle and your expansion will sit parallel to the mainboard.
+This is to purchase a T2 Adapter board assembled or kit version for [Alicia 1200](/alicia1200). Add this to your Alicia 1200 order ready for use. This will convert the Alicia BUS expansion into the card edge connector found on an original Amiga A1200, so you can plug in any original/historic expansion into your Mini-ITX Amiga. This makes the edge connector at a right angle and your expansion will sit parallel to the mainboard.
 
 If you can solder the connector yourself, then choose the KIT version to save on the purchase price.
 

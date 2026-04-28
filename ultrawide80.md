@@ -3,7 +3,7 @@ layout: page
 title: BlueSCSI Ultra - Wide SCA (80 pin)
 permalink: /ultrawide80
 cart_name: "BlueSCSI Ultra - Wide SCA (80 pin)"
-cart_description: "BBlueSCSI Ultra - Wide SCA (80 pin) - Assembled"
+cart_description: "BlueSCSI Ultra - Wide SCA (80 pin) - Assembled"
 cart_itemid: ultrawide80
 cart_price: 80
 cart_price_uk: 80
@@ -28,7 +28,7 @@ See more detailed info about the new ultra products [HERE.](https://bluescsi.com
 * Tested and complete
 * NO AUDIO - Click &#8594; [Add Audio for Narrow/Wide](/audionarrowwide) - [Front Panel](/frontpanel) - [Molex Adapter](/molex)
 
-##### NOT YET PREORDER Please be patient (Firmware in development)
+##### NOT AVAILABLE Please be patient (Firmware in development)
 
 &#128221; STOCK COUNT: {{site.ultrawide80}}
 

@@ -24,7 +24,7 @@ tags:
 
 {% if site.alicia > 0 %}
 {% else %}
-##### Sorry, sold out, Next batch will be coming around the end of March 2026
+##### Sorry, sold out, Next batch will be coming around the beginning of May 2026
 {% endif %}
 
 Alicia 1200 is an re-created Amiga A1200 mainboard which is Mini-ITX sized. More info about Alicia can be found <a href="https://www.enterlogic.se/?page_id=607" target="_blank">here</a>. Alicia rests upon the Advanced Graphics Architecture introduced in 1992, by Commodore with the Amiga A1200. With it’s revolutionary capabilities and performance it has been a haven for creative and artistic individuals to this day.

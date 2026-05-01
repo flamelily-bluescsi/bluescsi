@@ -7,7 +7,7 @@ cart_description: "V2 BlueSCSI Powerbook Solder Kit"
 cart_itemid: powerbookkit
 cart_price: 38
 cart_price_uk: 38
-cart_price_us: 54
+cart_price_us: 50
 cart_price_row: 48
 cart_image: "assets/img/powerbook-kit.webp"
 cart_image1: "assets/img/PowerBook_pcb.jpg"

@@ -7,7 +7,7 @@ cart_description: "V2 BlueSCSI Desktop 50pin Right Angle - Assembled"
 cart_itemid: desktop
 cart_price: 50
 cart_price_uk: 50
-cart_price_us: 65
+cart_price_us: 64
 cart_price_row: 60
 cart_image: "assets/img/desktop.webp"
 cart_image1: "assets/img/desktop1.webp"

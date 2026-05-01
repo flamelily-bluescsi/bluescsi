@@ -5,10 +5,10 @@ permalink: /juicebox
 cart_name: "Amiga JuiceBox kit"
 cart_description: "Amiga JuiceBox USB-C power for Amiga"
 cart_itemid: juicebox
-cart_price: 36
-cart_price_uk: 36
-cart_price_us: 52
-cart_price_row: 48
+cart_price: 35
+cart_price_uk: 35
+cart_price_us: 48
+cart_price_row: 45
 cart_image: "assets/img/jb.webp"
 cart_image1: "assets/img/jb1.webp"
 cart_image2: "assets/img/jb2.webp"

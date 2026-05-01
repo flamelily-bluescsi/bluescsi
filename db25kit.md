@@ -7,7 +7,7 @@ cart_description: "V2 BlueSCSI DB25 Mini Solder Kit"
 cart_itemid: db25kit
 cart_price: 38
 cart_price_uk: 38
-cart_price_us: 54
+cart_price_us: 50
 cart_price_row: 48
 cart_image: "assets/img/DB25-kit.webp"
 cart_image1: "assets/img/DB25_pcb.webp"

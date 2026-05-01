@@ -5,10 +5,10 @@ permalink: /ultranarrow50
 cart_name: "BlueSCSI Ultra - Narrow 50 pin"
 cart_description: "BlueSCSI Ultra - Narrow 50 pin - Assembled"
 cart_itemid: ultranarrow50
-cart_price: 58
-cart_price_uk: 58
+cart_price: 55
+cart_price_uk: 55
 cart_price_us: 75
-cart_price_row: 68
+cart_price_row: 65
 cart_image: "assets/img/ultra50.webp"
 tags: 
   - scsi

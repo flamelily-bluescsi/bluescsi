@@ -24,7 +24,7 @@ tags:
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">BlueSCSI</h5>
                                     <!-- Product price-->
-                                    From £32.00
+                                    From £38.00
                                 </div>
                             </div>
                             <!-- Product actions-->

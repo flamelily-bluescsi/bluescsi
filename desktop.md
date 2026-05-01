@@ -30,6 +30,11 @@ This is version (2023.10a) of the BlueSCSI V2 Desktop. This has a right angle 50
 &#128221; STOCK COUNT: {{site.desktop}}
 
 {% if site.desktop > 0 %}
+{% else %}
+##### NEW STOCK will be arriving 11th May 2026 - You can still purchase Ultra Narrow [here](/ultranarrow50)
+{% endif %}
+
+{% if site.desktop > 0 %}
 {% include price.md %}
 {% else %}
 {% include outofstock.md %}

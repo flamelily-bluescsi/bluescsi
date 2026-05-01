@@ -31,6 +31,11 @@ This is the NEW board revision (2023.10a) Desktop V2 Kit version of the BlueSCSI
 &#128221; STOCK COUNT: {{site.desktop}}
 
 {% if site.desktop > 0 %}
+{% else %}
+##### NEW STOCK will be arriving 11th May 2026 - You can still purchase Ultra Narrow [here](/ultranarrow50)
+{% endif %}
+
+{% if site.desktop > 0 %}
 {% include price.md %}
 {% else %}
 {% include outofstock.md %}

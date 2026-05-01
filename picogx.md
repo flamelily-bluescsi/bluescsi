@@ -8,7 +8,7 @@ cart_itemid: picogx
 cart_price: 40
 cart_price_uk: 40
 cart_price_us: 55
-cart_price_row: 50
+cart_price_row: 48
 cart_image: "assets/img/PicoGX.webp"
 cart_image1: "assets/img/picogxmenu.webp"
 cart_image2: "assets/img/picogx-pcb.webp"

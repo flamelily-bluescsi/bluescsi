@@ -5,7 +5,7 @@
   {% if page.cart_name contains 'AdLib Module' %}
     <option value="with" data-price="{{page.cart_price_with}}" data-sku="{{page.cart_itemid}}with">🇬🇧🌍 Only with PicoMEM - £{{page.cart_price_with}}</option>
     <option value="without" data-price="{{page.cart_price_without}}" data-sku="{{page.cart_itemid}}without">🇬🇧🌍 Separate Adlib Purchase (without PicoMEM) - £{{page.cart_price_without}} (standard delivery)</option>
-  {% elsif page.cart_name contains 'PotatoFi' or page.cart_name contains 'Floppy' or page.cart_name contains 'DB25 Mini Case' or page.cart_name contains 'Desktop Mount V2' or page.cart_name contains 'Powerbook Mount' %}
+  {% elsif page.cart_name contains 'PotatoFi' or page.cart_name contains 'Floppy' or page.cart_name contains 'DB25 Mini Case' or page.cart_name contains 'Desktop Mount' or page.cart_name contains 'Powerbook Mount' %}
     <option value="with" data-price="{{page.cart_price_with}}" data-sku="{{page.cart_itemid}}with">🇬🇧🌍 Only with BlueSCSI - £{{page.cart_price_with}}</option>
     <option value="without" data-price="{{page.cart_price_without}}" data-sku="{{page.cart_itemid}}without">🇬🇧🌍 Separate Purchase (without BlueSCSI) - £{{page.cart_price_without}} (standard delivery)</option>  
   {% elsif page.cart_name contains 'BlueSCSI' or page.cart_name contains 'PicoGUS' or page.cart_name contains 'PicoMEM' or page.cart_name contains 'PicoGX' or page.cart_name contains 'Midi' or page.cart_name contains 'CPU' or page.cart_name contains 'Framethrower' or page.cart_name contains 'VGA' or page.cart_name contains 'JuiceBox' or page.cart_name contains 'HD68' or page.cart_name contains 'Front Panel' %}

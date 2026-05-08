@@ -53,7 +53,7 @@ vgaadapter: 5
 cpu: 3
 dac: 1
 rtc: 3
-juicebox: 5
+juicebox: 24
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0
@@ -65,7 +65,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 0
-picogx: 31
+picogx: 28
 
 # Exclude from processing.
 # The following items will not be processed, by default.

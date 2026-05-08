@@ -13,13 +13,21 @@ if( Object.keys( cart ).length != 0 ) {
   totals[ 'UK' ] = 0;
   totals[ 'US' ] = 0;
   totals[ 'ROW' ] = 0;
+  totals[ 'WITHOUT' ] = 0;
 
   for( const item in cart ) {
-    const name = catalog[item].name.split( ' ' );
-    const country = name[ name.length - 1 ].toUpperCase();
+    const name = catalog[item].name;
+    const nameParts = name.split( ' ' );
+    const lastWord = nameParts[ nameParts.length - 1 ].toUpperCase();
     
     total += catalog[item].price * cart[item];
-    totals[ country ] += cart[ item ];
+    
+    // Check if name contains "WITHOUT"
+    if( name.toUpperCase().includes('WITHOUT') ) {
+      totals[ 'WITHOUT' ] += cart[ item ];
+    } else {
+      totals[ lastWord ] += cart[ item ];
+    }
     
     console.log( total );
   }
@@ -27,6 +35,7 @@ if( Object.keys( cart ).length != 0 ) {
   if( totals[ 'US' ] >= 2 ) { discount_percentage = 4; }
   if( totals[ 'UK' ] >= 2 ) { discount_percentage = 2; }
   if( totals[ 'ROW' ] >= 2 ) { discount_percentage = 4; }
+  if( totals[ 'WITHOUT' ] >= 2 ) { discount_percentage = 2; }
   
   console.log( totals );
   

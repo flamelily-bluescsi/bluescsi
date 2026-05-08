@@ -24,7 +24,7 @@ Q: Can I track my parcel once shipped?<br>
 A: You will receive a tracking number via an email that is sent from Paypal. This number with also show within Paypal under the transaction. Use this on the Royal Mail tracking page [here](https://www.royalmail.com/track-your-item#/). We also now send a basic text email with link when dispatched.
 
 Q: What if I order multiple items, will I be charged extra for shipping?<br>
-A: No, you will recieve a "Shipping Discount" which will show on the checkout page. Multiple 3D prints if purchasing alone (wihtout a device) will get a shipping discount, but not if purchasing 'with' an item as these don't have shipping costs added to their price.
+A: No, you will recieve a "Shipping Discount" which will show on the checkout page. Multiple 3D prints if purchasing alone (without a device) will get a shipping discount, but not if purchasing 'with' an item as these don't have shipping costs added to their price.
 
 Q: What is your return policy?<br>
 A: Please read our policy page [here](/return).

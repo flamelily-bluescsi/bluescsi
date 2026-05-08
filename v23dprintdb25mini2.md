@@ -8,8 +8,8 @@ cart_description: "BlueSCSI DB25 Mini slide Case 3D Print V2"
 cart_price: 5
 cart_price_with: 5
 cart_price_without: 7
-cart_image: "assets/img/3ddb25O2.webp"
-cart_image1: "assets/img/3ddb25O2a.webp"
+cart_image: "assets/img/3ddb25-1.webp"
+cart_image1: "assets/img/3ddb25-2.webp"
 cart_image2: "assets/img/3ddb25O2b.webp"
 cart_image3: "assets/img/3ddb25O2c.webp"
 tags: 

@@ -7,7 +7,8 @@ cart_description: "BlueSCSI Powerbook Mount 3D Print V2"
 cart_price: 4
 cart_price_with: 4
 cart_price_without: 6
-cart_image: "assets/img/3dprintpowerbookv2.webp"
+cart_image: "assets/img/3dpowerbook.webp"
+cart_image1: "assets/img/3dprintpowerbookv2.webp"
 tags: 
   - scsi
   - print
@@ -15,9 +16,7 @@ tags:
 
 ##### 🇬🇧🇪🇺 Powerbook Mount 3D Print V2 🇬🇧🇪🇺
 
-  <p class="lead text-center">
-    <img src="{{page.cart_image}}" class="img-thumbnail" alt="{{page.cart_description}}">
-  </p>
+{% include carousel2.html %}
 
 Please choose the correct option below for either purchasing this 3D print with a BlueSCSI device as postage is included. This is the standard case for the V2 Powerbook BlueSCSI.
 

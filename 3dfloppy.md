@@ -16,7 +16,7 @@ tags:
   - print
 ---
 
-##### 🇬🇧🇪🇺 Desktop Mount 3D Print V2 (Floppy) 🇬🇧🇪🇺
+##### Desktop Mount 3D Print V2 (Floppy)
 
 {% include carousel3.html %}
 

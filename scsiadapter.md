@@ -14,7 +14,7 @@ tags:
   - deskv2
 ---
 
-##### 🇬🇧🌍 SCSI Adapter Assembled 🌍🇬🇧
+##### SCSI Adapter Assembled
 
 {% include carousel2.html %}
 

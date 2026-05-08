@@ -14,7 +14,7 @@ tags:
   - print
 ---
 
-##### 🇬🇧🇪🇺 Desktop Mount 3D Print V1 🇬🇧🇪🇺
+##### Desktop Mount 3D Print V1
 
   <p class="lead text-center">
     <img src="{{page.cart_image}}" class="img-thumbnail" alt="{{page.cart_description}}">

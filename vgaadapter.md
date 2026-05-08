@@ -14,7 +14,7 @@ tags:
   - amiga
 ---
 
-##### 🇬🇧🌍 VGA Adapter PCB for Denise 🇬🇧🌍
+##### VGA Adapter PCB for Denise
 
 {% include carousel1.html %}
 

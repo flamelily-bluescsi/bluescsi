@@ -15,7 +15,7 @@ tags:
   - print
 ---
 
-##### 🇬🇧🇪🇺 Desktop Mount 3D Print V2 🇬🇧🇪🇺
+##### Desktop Mount 3D Print V2
 
 {% include carousel3.html %}
 

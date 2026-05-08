@@ -14,7 +14,7 @@ tags:
   - print
 ---
 
-##### 🇬🇧🇪🇺 Powerbook Mount 3D Print V2 🇬🇧🇪🇺
+##### Powerbook Mount 3D Print V2
 
 {% include carousel2.html %}
 

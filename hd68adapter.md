@@ -17,7 +17,7 @@ tags:
   - ultra
 ---
 
-##### 🇬🇧🌍 HD68 SCSI Adapter Assembled 🌍🇬🇧
+##### HD68 SCSI Adapter Assembled
 
 {% include carousel2.html %}
 

@@ -16,7 +16,7 @@ tags:
   - print
 ---
 
-##### 🇬🇧🇪🇺 Desktop Mount 3D Print V2 (PotatoFi) 🇬🇧🇪🇺
+##### Desktop Mount 3D Print V2 (PotatoFi)
 
 {% include carousel3.html %}
 

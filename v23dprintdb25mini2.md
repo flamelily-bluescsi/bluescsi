@@ -17,7 +17,7 @@ tags:
   - print
 ---
 
-##### 🇬🇧🇪🇺 DB25 Mini Case 3D Print V2 🇬🇧🇪🇺
+##### DB25 Mini Case 3D Print V2
 
 {% include carousel4.html %}
 

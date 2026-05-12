@@ -23,7 +23,7 @@ This is 50 pin 8bit Ultra Narrow version of the BlueSCSI. This has a right angle
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
-* Needs Molex power
+* Needs Molex or USB power
 * Right Angle headers
 * Tested and complete
 * Expansions - Click &#8594; [Add Expander Card](/narrowexpander) - [Add Audio](/audionarrowwide) - [Front Panel](/frontpanel) - [Molex Adapter](/molex)

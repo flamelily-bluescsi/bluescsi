@@ -58,6 +58,8 @@ scsiadapter: 4
 hd68adapter: 1
 framethrower: 0
 ram: 0
+denisepanel: 4
+aliciapanel: 1
 t2adapter: 19
 ultranarrow50: 21
 ultrawide68: 19

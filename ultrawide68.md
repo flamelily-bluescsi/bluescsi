@@ -23,7 +23,7 @@ This is 68 pin 16bit Ultra Wide version of the BlueSCSI (shown as Ultra Wide in 
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 
-* Needs Molex power
+* Needs Molex or USB power
 * Right Angle headers
 * Tested and complete
 * NO AUDIO - Click &#8594; [Add Audio](/audionarrowwide) - [Front Panel](/frontpanel) - [Molex Adapter](/molex)

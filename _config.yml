@@ -40,14 +40,14 @@ db25: 22
 desktop: 25
 powerbook: 2
 pico2w: 3
-picogus: 9
+picogus: 7
 picomem: 6
 adlib: 5
 denise: 1
 alicia: 10
 nic: 3
 cffloppy: 10
-powershark: 4
+powershark: 2
 powersharkbk: 0
 vgaadapter: 5
 cpu: 3
@@ -67,7 +67,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 0
-picogx: 28
+picogx: 27
 
 # Exclude from processing.
 # The following items will not be processed, by default.

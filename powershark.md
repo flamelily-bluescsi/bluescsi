@@ -33,7 +33,7 @@ The PowerShark is a compact, efficient USB-C power adapter designed for Amiga co
 
 We are a registered UK reseller of the PowerShark and our website link can be seen on <a href="https://retrousbpower.com" target="_blank">https://retrousbpower.com</a>. We dispatch with tracked and insured service, which is included in the price below. If from the USA please choose your shipping region as US for the baseline tariff and duties to be prepaid using the Royal Mail Postal Delivered Duties Paid (PDDP) service.
 
-If you need an adapter for the PowerShark, an excellent USB-C power adpater that works very well is the UGREEN 30W which can be bought off Amazon UK here [https://amzn.to/473Q7KI](https://amzn.to/473Q7KI) and 2m USB-C cable from here [https://amzn.to/4kZrfXW](https://amzn.to/4kZrfXW) 
+If you need an adapter for the PowerShark, an excellent USB-C power adpater that works very well is the UGREEN 30W which can be bought off Amazon UK here [https://amzn.to/473Q7KI](https://amzn.to/473Q7KI) and 2m USB-C cable from here [https://amzn.to/4kZrfXW](https://amzn.to/4kZrfXW)
 
 * Efficient USB-C power
 * for Amiga computers (A500, A600, A1200)

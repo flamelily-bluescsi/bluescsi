@@ -4,6 +4,8 @@ note: false
 permalink: /amiga
 ---
 
+###### If you are looking for Amiga repairs in the UK use our recommended service from [Pure Amiga.](https://www.pureamiga.co.uk/repairs/){:target="_blank"}
+
 {% assign cat_items = site.pages |  where_exp:"page", "page.tags contains 'amiga'" %}
 
 <div class="container">
@@ -17,3 +19,5 @@ permalink: /amiga
 	  {% endfor %}
 </div>
 </div>
+
+###### If you are looking for Amiga repairs in the UK use our recommended service from [Pure Amiga.](https://www.pureamiga.co.uk/repairs/){:target="_blank"}

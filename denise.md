@@ -25,7 +25,7 @@ tags:
 
 {% if site.denise > 0 %}
 {% else %}
-##### Sorry, sold out, Next batch will be coming around begining of February 2026
+##### Sorry, sold out, Next batch will be coming around July 2026
 {% endif %}
 
 Denise is an re-created Amiga mainboard which is Mini-ITX sized. More info about Denise can be found <a href="https://www.enterlogic.se/?page_id=180" target="_blank">here</a>. The concept is an extremely compatible, stable yet flexible hobbyist Amiga home computer that you build yourself. Which now thanks to the ingenious design based mainly on through hole components is really easy to build. Even if you're not a wizard with a soldering iron! Denise is designed with quality components throughout. From ESD protected I/O ports to high fidelity audio components and crystal clear RGB video. You have to hear and see it to believe it.

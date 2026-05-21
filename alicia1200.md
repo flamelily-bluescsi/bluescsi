@@ -33,7 +33,7 @@ Alicia gives you direct access to the most important stuff on the back of the bo
 
 See an excellent Youtube video of Alicia [HERE](https://youtu.be/NMKiRaLyuD8){:target="_blank"} by Hack Build Restore.
 
-Tornado is an innovative 120-pin expansion bus containing all important signals needed to expand the system with everything from Powerful Processors with RAM and IDE, RTG Graphics adapters or Network cards, basically anything your heart desires! We are preparing for existing designs to be adopted to T2 for a fully optimized Mini-ITX AGA System! For historic expansions we also offer a [slim high quality adapter](/t2adapter) offering card edge support.
+Tornado is an innovative 120-pin expansion bus containing all important signals needed to expand the system with everything from Powerful Processors with RAM and IDE, RTG Graphics adapters or Network cards, basically anything your heart desires! We are preparing for existing designs to be adopted to T2 for a fully optimized Mini-ITX AGA System! For historic expansions we also offer a [slim high quality adapter](/t2adapter) offering card edge support. We also have a [PCB back panel.](aliciapanel)
 
 Included in the Kit:<br>
 1 x Alicia 1200 PCB (Mini-ITX)<br>

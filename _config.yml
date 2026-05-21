@@ -40,8 +40,8 @@ db25: 22
 desktop: 25
 powerbook: 2
 pico2w: 3
-picogus: 5
-picomem: 5
+picogus: 3
+picomem: 4
 adlib: 5
 denise: 0
 alicia: 10
@@ -59,7 +59,7 @@ hd68adapter: 1
 framethrower: 0
 ram: 0
 denisepanel: 4
-aliciapanel: 1
+aliciapanel: 10
 t2adapter: 19
 ultranarrow50: 28
 ultrawide68: 15

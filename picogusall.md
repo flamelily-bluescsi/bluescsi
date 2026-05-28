@@ -34,6 +34,11 @@ Price includes shipping costs. Make sure you choose the correct delivery region 
 &#128221; STOCK COUNT: {{site.picogus}}
 
 {% if site.picogus > 0 %}
+{% else %}
+##### We hope to have more stock around mid June 2026.
+{% endif %}
+
+{% if site.picogus > 0 %}
 {% include price.md %}
 {% else %}
 {% include outofstock.md %}

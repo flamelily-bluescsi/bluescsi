@@ -40,8 +40,9 @@ db25: 22
 desktop: 25
 powerbook: 2
 pico2w: 3
-picogus: 3
+picogus: 0
 picomem: 4
+picomem2: 45
 adlib: 5
 denise: 0
 alicia: 10

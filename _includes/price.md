@@ -17,9 +17,11 @@
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 Rest of World - £{{page.cart_price_row}} (International tracked)</option>
   {% elsif page.cart_name contains 'PowerShark' %}
+   {% if site.powershark > 0 %}
     <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 BEIGE - UK Delivery - £{{page.cart_price_uk}} (48hr tracked)</option>
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 BEIGE - US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 BEIGE - Rest of World - £{{page.cart_price_row}} (International tracked)</option>  
+    {% endif %}
     {% if site.powersharkbk > 0 %}
     <option value="uk" data-price="{{page.cart_price_uk_black}}" data-sku="{{page.cart_itemid}}ukblack">🇬🇧 BLACK - UK Delivery - £{{page.cart_price_uk_black}} (48hr tracked)</option>
     <option value="us" data-price="{{page.cart_price_us_black}}" data-sku="{{page.cart_itemid}}usblack">🇺🇸 BLACK - US Delivery - £{{page.cart_price_us_black}} (Tariffs/Duties Paid)</option>

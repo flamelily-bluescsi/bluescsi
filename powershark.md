@@ -24,7 +24,7 @@ tags:
 
 {% include carousel4.html %}
 
-{% if site.powershark > 0 %}
+{% if site.powersharkbk > 0 %}
 {% else %}
 ##### Sorry, sold out, Next batch should be arriving around June 2026
 {% endif %}
@@ -44,9 +44,9 @@ If you need an adapter for the PowerShark, an excellent USB-C power adpater that
 
 Price includes shipping costs. Please choose your delivery region below. An alternate USB-C device can be purchased [here](/juicebox)
 
-&#128221; STOCK COUNT : Beige - {{site.powershark}} Black - {{site.powersharkbk}} (Sold Out)
+&#128221; STOCK COUNT : Beige - {{site.powershark}} Black - {{site.powersharkbk}}
 
-{% if site.powershark > 0 %}
+{% if site.powersharkbk > 0 %}
 {% include price.md %}
 {% else %}
 {% include outofstock.md %}

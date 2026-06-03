@@ -49,7 +49,7 @@ alicia: 10
 nic: 3
 cffloppy: 10
 powershark: 0
-powersharkbk: 0
+powersharkbk: 25
 vgaadapter: 5
 cpu: 3
 dac: 0

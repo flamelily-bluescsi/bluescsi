@@ -46,7 +46,7 @@ picomem2: 45
 adlib: 5
 denise: 0
 alicia: 10
-nic: 3
+nic: 2
 cffloppy: 10
 powershark: 0
 powersharkbk: 25
@@ -54,13 +54,13 @@ vgaadapter: 5
 cpu: 3
 dac: 0
 rtc: 3
-juicebox: 10
+juicebox: 9
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0
 ram: 0
-denisepanel: 1
-aliciapanel: 14
+denisepanel: 14
+aliciapanel: 12
 t2adapter: 19
 ultranarrow50: 16
 ultrawide68: 12

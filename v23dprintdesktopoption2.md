@@ -15,14 +15,14 @@ tags:
   - print
 ---
 
-##### Desktop Mount 3D Print V2
+##### Desktop Mount 3D Print V2 and Ultra
 
 {% include carousel3.html %}
 
-Please choose the correct option below for either purchasing this 3D print with a BlueSCSI device as postage is included. This is a solid option for the V2 Desktop, with a single mounting screw. This gives a solid fit and has 4 side mounting points like a traditional hard drive. This is for desktop board revision 2023.10a only.
+Please choose the correct option below for either purchasing this 3D print with a BlueSCSI device as postage is included. This is a solid option for the V2 Desktop, with a single mounting screw. This gives a solid fit and has 4 side mounting points like a traditional hard drive. This is for desktop board revision 2023.10a or the Ultra and Ultra wide versions.
 
 * 3D PLA print (colour will vary)
-* for board revision 2023.10a
+* for board revision 2023.10a and Ultra versions
 * Fits standard Hard drive bays
 * Choose options below for purchase with or without a BlueSCSI
 

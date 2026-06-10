@@ -11,7 +11,7 @@ cart_price_us: 38
 cart_price_row: 35
 cart_price_uk_kit: 15
 cart_price_us_kit: 28
-cart_price_row_kit: 15
+cart_price_row_kit: 20
 cart_image: "assets/img/t2adapter.webp"
 cart_image1: "assets/img/t2adapter1.webp"
 tags: 

@@ -45,7 +45,7 @@ picomem: 0
 picomem2: 45
 adlib: 5
 denise: 0
-alicia: 10
+alicia: 9
 nic: 2
 cffloppy: 10
 powershark: 0
@@ -54,7 +54,7 @@ vgaadapter: 5
 cpu: 3
 dac: 0
 rtc: 3
-juicebox: 9
+juicebox: 7
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0

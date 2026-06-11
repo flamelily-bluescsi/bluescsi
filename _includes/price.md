@@ -33,7 +33,7 @@
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
     <option value="uskit" data-price="{{page.cart_price_us_kit}}" data-sku="{{page.cart_itemid}}uskit">🇺🇸 KIT US Delivery - £{{page.cart_price_us_kit}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 Rest of World - £{{page.cart_price_row}} (International tracked)</option>  
-    <option value="rowkit" data-price="{{page.cart_price_row_kit}}" data-sku="{{page.cart_itemid}}rowkit">🌍 KIT Rest of World - £{{page.cart_price_row_kit}} (International tracked)</option>  
+    <option value="rowkit" data-price="{{page.cart_price_row_kit}}" data-sku="{{page.cart_itemid}}rowkit">🌍 KIT Rest of World - £{{page.cart_price_row_kit}} (Standard Delivery)</option>  
   {% else %}
     <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 UK Delivery - £{{page.cart_price_uk}} (48hr tracked)</option>
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>

@@ -3,7 +3,7 @@ layout: default
 note: true
 permalink: /picomem
 ---
-######  PicoMEM Products for UK and the Rest of the World - IN STOCK
+######  PicoMEM Products for UK and the Rest of the World - PicoMEM2 IN STOCK
 
 Our prices <b>include</b> delivery to simplify checkout and you will receive a dispatch email. Make sure you choose the correct delivery region from the dropdown.
 

@@ -41,7 +41,7 @@ desktop: 25
 powerbook: 2
 pico2w: 3
 picogus: 0
-picomem: 0
+picomem: 22
 picomem2: 45
 adlib: 5
 denise: 0
@@ -49,7 +49,7 @@ alicia: 9
 nic: 2
 cffloppy: 10
 powershark: 0
-powersharkbk: 25
+powersharkbk: 23
 vgaadapter: 5
 cpu: 3
 dac: 0

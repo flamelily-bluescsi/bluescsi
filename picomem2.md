@@ -19,7 +19,7 @@ tags:
 
 {% include carousel2.html %}
 
-The PicoMEM 2 is an new iteration on the original [PicoMEM](/picomemall) 8-bit ISA expansion card based on the Raspberry Pi Pico 2 microcontroller.  It adds a huge range of features from the original. This PicoMEM 2 comes as default with a Pico 2, and a RM2 wifi adapter so NE2000 networking can be used straight away. Improvements and additions over PicoMEM 1 listed below: 
+The PicoMEM 2 is an new iteration on the original [PicoMEM](/picomemall) 8-bit ISA expansion card based on the Raspberry Pi Pico 2 microcontroller.  It adds a huge range of features from the original. Integrated Soundblaster and GUS support, with onboard audio jack. This PicoMEM 2 comes as default with a Pico 2, and a RM2 wifi adapter so NE2000 networking can be used straight away. Improvements and additions over PicoMEM 1 listed below: 
 
 ###### Performance increase / New hardware:
 

@@ -53,7 +53,7 @@ powersharkbk: 23
 vgaadapter: 5
 cpu: 3
 dac: 0
-rtc: 3
+rtc: 2
 juicebox: 7
 scsiadapter: 4
 hd68adapter: 1
@@ -61,7 +61,7 @@ framethrower: 0
 ram: 0
 denisepanel: 14
 aliciapanel: 12
-t2adapter: 19
+t2adapter: 17
 ultranarrow50: 16
 ultrawide68: 12
 ultrawide80: 0

@@ -5,10 +5,10 @@ permalink: /t2adapter
 cart_name: "T2 Adapter board"
 cart_description: "T2 Adapter board with A1200 card edge"
 cart_itemid: t2adapter
-cart_price: 25
-cart_price_uk: 25
-cart_price_us: 38
-cart_price_row: 35
+cart_price: 28
+cart_price_uk: 28
+cart_price_us: 42
+cart_price_row: 38
 cart_price_uk_kit: 15
 cart_price_us_kit: 28
 cart_price_row_kit: 20

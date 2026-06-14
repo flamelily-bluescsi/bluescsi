@@ -49,7 +49,7 @@ alicia: 9
 nic: 2
 cffloppy: 10
 powershark: 0
-powersharkbk: 23
+powersharkbk: 18
 vgaadapter: 5
 cpu: 3
 dac: 0
@@ -62,8 +62,8 @@ ram: 0
 denisepanel: 14
 aliciapanel: 12
 t2adapter: 17
-ultranarrow50: 16
-ultrawide68: 12
+ultranarrow50: 15
+ultrawide68: 14
 ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29

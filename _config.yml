@@ -54,7 +54,7 @@ vgaadapter: 5
 cpu: 3
 dac: 0
 rtc: 2
-juicebox: 7
+juicebox: 5
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0

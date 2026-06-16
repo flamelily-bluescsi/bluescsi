@@ -57,7 +57,7 @@ Key Features:
 * Built-in MicroSD card reader
 * USB Mouse & Joystick Support
 * Latest Rev 2.02 PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
-* Pre-flashed with latest firmware
+* Pre-flashed with latest [firmware](https://github.com/FreddyVRetro/ISA-PicoMEM/tree/main/firmware/PicoMEM2){:target="_blank"}
 * Audio jack onboard
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.

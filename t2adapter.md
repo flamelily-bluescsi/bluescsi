@@ -8,10 +8,10 @@ cart_itemid: t2adapter
 cart_price: 28
 cart_price_uk: 28
 cart_price_us: 42
-cart_price_row: 38
+cart_price_row: 40
 cart_price_uk_kit: 15
-cart_price_us_kit: 28
-cart_price_row_kit: 20
+cart_price_us_kit: 29
+cart_price_row_kit: 25
 cart_image: "assets/img/t2adapter.webp"
 cart_image1: "assets/img/t2adapter1.webp"
 tags: 

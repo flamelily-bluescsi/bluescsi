@@ -5,7 +5,7 @@ permalink: /aliciapanel
 cart_itemid: aliciapanel
 cart_name: "Alicia back panel PCB"
 cart_description: "IO back panel PCB for Alicia"
-cart_price: 12
+cart_price: 14
 cart_image: "assets/img/Alicia-back-panel.webp"
 tags: 
   - amiga

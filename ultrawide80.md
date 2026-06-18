@@ -7,8 +7,8 @@ cart_description: "BlueSCSI Ultra - Wide SCA (80 pin) - Assembled"
 cart_itemid: ultrawide80
 cart_price: 80
 cart_price_uk: 80
-cart_price_us: 97
-cart_price_row: 90
+cart_price_us: 98
+cart_price_row: 92
 cart_image: "assets/img/ultra.webp"
 cart_image1: "assets/img/ultra.webp"
 tags: 

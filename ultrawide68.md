@@ -8,7 +8,7 @@ cart_itemid: ultrawide68
 cart_price: 70
 cart_price_uk: 70
 cart_price_us: 87
-cart_price_row: 80
+cart_price_row: 82
 cart_image: "assets/img/ultrawide.webp"
 tags: 
   - scsi

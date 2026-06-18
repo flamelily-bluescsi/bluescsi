@@ -8,7 +8,7 @@ cart_itemid: frontpanel
 cart_price: 35
 cart_price_uk: 35
 cart_price_us: 49
-cart_price_row: 45
+cart_price_row: 47
 cart_image: "assets/img/Front-bottom.webp"
 cart_image1: "assets/img/Front-top.webp"
 tags: 

@@ -5,7 +5,7 @@ permalink: /denisepanel
 cart_itemid: denisepanel
 cart_name: "Denise back panel PCB"
 cart_description: "IO back panel PCB for Denise"
-cart_price: 10
+cart_price: 12
 cart_image: "assets/img/Denise-back-panel.webp"
 tags: 
   - amiga

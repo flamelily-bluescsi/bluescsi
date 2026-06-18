@@ -7,8 +7,8 @@ cart_description: "PicoGX Cartridge for the Amstrad GX4000 and Amstrad Plus rang
 cart_itemid: picogx
 cart_price: 40
 cart_price_uk: 40
-cart_price_us: 55
-cart_price_row: 48
+cart_price_us: 56
+cart_price_row: 52
 cart_image: "assets/img/PicoGX.webp"
 cart_image1: "assets/img/picogxmenu.webp"
 cart_image2: "assets/img/picogx-pcb.webp"

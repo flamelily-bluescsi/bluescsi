@@ -8,10 +8,10 @@ cart_itemid: powershark
 cart_price: 88
 cart_price_uk: 88
 cart_price_uk_black: 88
-cart_price_us: 112
-cart_price_us_black: 112
-cart_price_row: 99
-cart_price_row_black: 99
+cart_price_us: 114
+cart_price_us_black: 114
+cart_price_row: 102
+cart_price_row_black: 102
 cart_image: "assets/img/powershark2.webp"
 cart_image1: "assets/img/powershark3.webp"
 cart_image2: "assets/img/powershark-black.webp"

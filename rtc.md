@@ -8,7 +8,7 @@ cart_itemid: rtc
 cart_price: 6
 cart_price_uk: 6
 cart_price_us: 15
-cart_price_row: 12
+cart_price_row: 14
 cart_image: "assets/img/rtc.webp"
 tags: 
   - amiga

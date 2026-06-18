@@ -8,7 +8,7 @@ cart_itemid: vga
 cart_price: 15
 cart_price_uk: 15
 cart_price_us: 25
-cart_price_row: 20
+cart_price_row: 22
 cart_image: "assets/img/vgapcb.webp"
 tags: 
   - amiga

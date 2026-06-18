@@ -8,7 +8,7 @@ cart_itemid: audionarrowwide
 cart_price: 10
 cart_price_uk: 10
 cart_price_us: 25
-cart_price_row: 20
+cart_price_row: 22
 cart_image: "assets/img/audioheader.webp"
 cart_image1: "assets/img/Ultra50_audio.webp"
 tags: 

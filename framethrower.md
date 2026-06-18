@@ -8,7 +8,7 @@ cart_itemid: framethrower
 cart_price: 29
 cart_price_uk: 29
 cart_price_us: 42
-cart_price_row: 39
+cart_price_row: 41
 cart_image: "assets/img/framethrower.webp"
 tags: 
   - amiga

@@ -8,7 +8,7 @@ cart_itemid: hd68adapter
 cart_price: 18
 cart_price_uk: 18
 cart_price_us: 32
-cart_price_row: 28
+cart_price_row: 30
 cart_image: "assets/img/hd68-adapter.webp"
 cart_image1: "assets/img/hd68-adapter1.webp"
 tags: 

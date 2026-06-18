@@ -7,8 +7,8 @@ cart_description: "BlueSCSI Ultra - Narrow Expander Card - Assembled"
 cart_itemid: narrowexpander
 cart_price: 18
 cart_price_uk: 18
-cart_price_us: 29
-cart_price_row: 28
+cart_price_us: 34
+cart_price_row: 30
 cart_image: "assets/img/narrowexpander.webp"
 cart_image1: "assets/img/Ultra50_expander.webp"
 tags: 

@@ -8,7 +8,7 @@ cart_itemid: desktop
 cart_price: 50
 cart_price_uk: 50
 cart_price_us: 64
-cart_price_row: 60
+cart_price_row: 62
 cart_image: "assets/img/desktop.webp"
 cart_image1: "assets/img/desktop1.webp"
 tags: 

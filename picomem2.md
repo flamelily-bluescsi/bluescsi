@@ -8,7 +8,7 @@ cart_itemid: picomem2
 cart_price: 75
 cart_price_uk: 75
 cart_price_us: 92
-cart_price_row: 85
+cart_price_row: 87
 cart_image: "assets/img/PicoMEM2.webp"
 cart_image1: "assets/img/PicoMEM2back.webp"
 tags: 

@@ -42,14 +42,14 @@ powerbook: 2
 pico2w: 3
 picogus: 0
 picomem: 22
-picomem2: 45
+picomem2: 39
 adlib: 5
 denise: 0
 alicia: 9
 nic: 2
 cffloppy: 10
 powershark: 0
-powersharkbk: 17
+powersharkbk: 16
 vgaadapter: 5
 cpu: 3
 dac: 0
@@ -59,8 +59,8 @@ scsiadapter: 4
 hd68adapter: 1
 framethrower: 0
 ram: 0
-denisepanel: 14
-aliciapanel: 12
+denisepanel: 12
+aliciapanel: 11
 t2adapter: 17
 ultranarrow50: 15
 ultrawide68: 14
@@ -68,7 +68,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 0
-picogx: 27
+picogx: 16
 
 # Exclude from processing.
 # The following items will not be processed, by default.

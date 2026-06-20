@@ -49,12 +49,12 @@ alicia: 9
 nic: 2
 cffloppy: 10
 powershark: 0
-powersharkbk: 16
+powersharkbk: 15
 vgaadapter: 5
 cpu: 3
 dac: 0
 rtc: 2
-juicebox: 5
+juicebox: 4
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0

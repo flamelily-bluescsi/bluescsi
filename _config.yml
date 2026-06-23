@@ -49,17 +49,17 @@ alicia: 9
 nic: 1
 cffloppy: 10
 powershark: 0
-powersharkbk: 15
+powersharkbk: 14
 vgaadapter: 5
 cpu: 3
 dac: 0
-rtc: 2
+rtc: 1
 juicebox: 4
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0
 ram: 0
-denisepanel: 12
+denisepanel: 11
 aliciapanel: 11
 t2adapter: 17
 ultranarrow50: 15
@@ -68,7 +68,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 0
-picogx: 16
+picogx: 15
 
 # Exclude from processing.
 # The following items will not be processed, by default.

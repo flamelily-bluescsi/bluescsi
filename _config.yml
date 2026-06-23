@@ -53,7 +53,7 @@ powersharkbk: 14
 vgaadapter: 5
 cpu: 3
 dac: 0
-rtc: 1
+rtc: 0
 juicebox: 4
 scsiadapter: 4
 hd68adapter: 1

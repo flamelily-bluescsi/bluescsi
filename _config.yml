@@ -42,8 +42,8 @@ powerbook: 2
 pico2w: 3
 picogus: 29
 picomem: 22
-picomem2: 38
-adlib: 5
+picomem2: 36
+adlib: 4
 denise: 0
 alicia: 9
 nic: 1
@@ -68,7 +68,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 0
-picogx: 15
+picogx: 14
 
 # Exclude from processing.
 # The following items will not be processed, by default.

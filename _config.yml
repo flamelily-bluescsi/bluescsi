@@ -49,7 +49,7 @@ alicia: 9
 nic: 1
 cffloppy: 10
 powershark: 0
-powersharkbk: 14
+powersharkbk: 12
 vgaadapter: 5
 cpu: 3
 dac: 0
@@ -67,8 +67,10 @@ ultrawide68: 14
 ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
-frontpanel: 0
+frontpanel: 42
 picogx: 14
+misterfloppy: 20
+slimlinefloppy: 10
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -40,7 +40,7 @@ db25: 22
 desktop: 25
 powerbook: 2
 pico2w: 3
-picogus: 29
+picogus: 28
 picomem: 22
 picomem2: 36
 adlib: 4
@@ -49,7 +49,7 @@ alicia: 9
 nic: 1
 cffloppy: 10
 powershark: 0
-powersharkbk: 12
+powersharkbk: 10
 vgaadapter: 5
 cpu: 3
 dac: 0
@@ -68,7 +68,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 42
-picogx: 14
+picogx: 11
 misterfloppy: 20
 slimlinefloppy: 10
 

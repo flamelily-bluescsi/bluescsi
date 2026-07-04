@@ -5,10 +5,10 @@ permalink: /misterfloppy
 cart_name: "Mister Floppy board for Amiga"
 cart_description: "Mister Floppy for a real drive usage within MisterFPGA"
 cart_itemid: misterfloppy
-cart_price: 25
-cart_price_uk: 25
-cart_price_us: 39
-cart_price_row: 35
+cart_price: 23
+cart_price_uk: 23
+cart_price_us: 35
+cart_price_row: 32
 cart_image: "assets/img/Mister-floppy.webp"
 tags: 
   - amiga

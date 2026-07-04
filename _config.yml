@@ -36,13 +36,13 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-db25: 22
-desktop: 25
-powerbook: 2
+db25: 18
+desktop: 19
+powerbook: 6
 pico2w: 3
 picogus: 28
 picomem: 22
-picomem2: 36
+picomem2: 29
 adlib: 4
 denise: 0
 alicia: 9

@@ -25,6 +25,8 @@ tags:
 
 This is to purchase a Mister Floppy board to use a real floppy drive for your Amiga FPGA experience in the Mister or MultiSystem. Created by Rob Smith and you can see his video about it [here.](https://youtu.be/kN8TCz7Z0n8){:target="_blank"} You can find all info about this excellent device on Rob's page [here.](https://mister.robsmithdev.co.uk/){:target="_blank"} We have permission to sell these and Rob will get a commission on our sales.
 
+###### Important - To use this on a Mister Multisystem2 you will need a SNAC Classic Cartridge here [https://shop.heber.co.uk/snac-classic-cartridge-for-multisystem2-with-black-blue-enclosure/](https://shop.heber.co.uk/snac-classic-cartridge-for-multisystem2-with-black-blue-enclosure/){:target="_blank"}
+
 
 * Main SMD soldered PCB, with default jumpers set
 * Rev 1.65 PCB

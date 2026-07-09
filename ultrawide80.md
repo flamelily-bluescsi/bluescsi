@@ -28,7 +28,7 @@ See more detailed info about the new ultra products [HERE.](https://bluescsi.com
 * Tested and complete
 * NO AUDIO - Click &#8594; [Add Audio for Narrow/Wide](/audionarrowwide) - [Front Panel](/frontpanel) - [Molex Adapter](/molex)
 
-##### NOT AVAILABLE Please be patient (Firmware in development)
+##### Stock arriving around the end of July
 
 &#128221; STOCK COUNT: {{site.ultrawide80}}
 

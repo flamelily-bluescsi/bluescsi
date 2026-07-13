@@ -54,13 +54,13 @@ vgaadapter: 5
 cpu: 3
 dac: 0
 rtc: 9
-juicebox: 4
+juicebox: 3
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0
 ram: 0
-denisepanel: 11
-aliciapanel: 11
+denisepanel: 9
+aliciapanel: 8
 t2adapter: 17
 ultranarrow50: 15
 ultrawide68: 14

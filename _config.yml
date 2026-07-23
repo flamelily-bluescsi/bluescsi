@@ -46,10 +46,10 @@ picomem2: 29
 adlib: 4
 denise: 0
 alicia: 9
-nic: 1
+nic: 0
 cffloppy: 10
 powershark: 0
-powersharkbk: 5
+powersharkbk: 4
 vgaadapter: 5
 cpu: 3
 dac: 0
@@ -68,7 +68,7 @@ ultrawide80: 0
 narrowexpander: 32
 audionarrowwide: 29
 frontpanel: 41
-picogx: 8
+picogx: 28
 misterfloppy: 18
 slimlinefloppy: 10
 

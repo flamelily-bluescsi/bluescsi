@@ -9,8 +9,8 @@ cart_price: 80
 cart_price_uk: 80
 cart_price_us: 98
 cart_price_row: 92
-cart_image: "assets/img/ultra.webp"
-cart_image1: "assets/img/ultra.webp"
+cart_image: "assets/img/SCA80-top.webp"
+cart_image1: "assets/img/SCA80-back.webp"
 tags: 
   - scsi
   - ultra
@@ -18,7 +18,7 @@ tags:
 
 ##### 🇬🇧🌍 BlueSCSI Ultra - Wide SCA (80 pin) (COMING SOON) 🌍🇬🇧
 
-{% include carousel1.html %}
+{% include carousel2.html %}
 
 This is 80 pin 16bit Ultra Wide version of the BlueSCSI. This has a right angle 80 pin header and both floppy and more standard hard/CDROM drive molex for power. This is a complete and tested device. This device contains the SPI port on the PCB for the Front Panel board which is designed by Polpo for the [PicoIDE.](/picoide) This Front Panel board is [here.](/frontpanel)
 

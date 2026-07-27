@@ -23,7 +23,7 @@ tags:
 
 {% if site.juicebox > 0 %}
 {% else %}
-##### We hope to have more stock around June 2026.
+##### We hope to have more stock around September 2026.
 
 <!-- form HTML -->
 <form action="https://formspree.io/f/mwvnybll"

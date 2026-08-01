@@ -71,6 +71,7 @@ frontpanel: 38
 picogx: 26
 misterfloppy: 18
 slimlinefloppy: 10
+molex: 9
 
 # Exclude from processing.
 # The following items will not be processed, by default.

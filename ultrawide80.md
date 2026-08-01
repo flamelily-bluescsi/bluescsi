@@ -16,7 +16,7 @@ tags:
   - ultra
 ---
 
-##### 🇬🇧🌍 BlueSCSI Ultra - Wide SCA (80 pin) (COMING SOON) 🌍🇬🇧
+##### 🇬🇧🌍 BlueSCSI Ultra - Wide SCA (80 pin) 🌍🇬🇧
 
 {% include carousel2.html %}
 
@@ -27,8 +27,6 @@ See more detailed info about the new ultra products [HERE.](https://bluescsi.com
 * Right Angle headers
 * Tested and complete
 * NO AUDIO - Click &#8594; [Add Audio for Narrow/Wide](/audionarrowwide) - [Front Panel](/frontpanel) - [Molex Adapter](/molex)
-
-##### Stock arriving around the end of July 2026
 
 &#128221; STOCK COUNT: {{site.ultrawide80}}
 

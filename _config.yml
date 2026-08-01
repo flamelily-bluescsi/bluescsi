@@ -37,7 +37,7 @@ plugins:
 icon: "&#128722;"
 # Stock
 db25: 16
-desktop: 13
+desktop: 6
 powerbook: 6
 pico2w: 3
 picogus: 28
@@ -62,13 +62,13 @@ ram: 0
 denisepanel: 9
 aliciapanel: 8
 t2adapter: 17
-ultranarrow50: 8
+ultranarrow50: 4
 ultrawide68: 10
-ultrawide80: 0
+ultrawide80: 38
 narrowexpander: 32
 audionarrowwide: 29
-frontpanel: 41
-picogx: 28
+frontpanel: 38
+picogx: 26
 misterfloppy: 18
 slimlinefloppy: 10
 

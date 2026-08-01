@@ -26,7 +26,7 @@ This front-panel uses the same hardware and firmware as the PicoIDE which will b
 
 You can also visit the documentation page here - [https://picoide.com/docs/front-panel/](https://picoide.com/docs/front-panel/){:target="_blank"} to see how it functions in the PicoIDE, since some things are similar.
 
-Remember the narrow 50 pin Ultra needs the [expander](/narrowexpander) to work with this. Ultra Wide (68 pin and SCA 80 pin) has the SPI port built-in, so it doesn't need the Expander - just connect the Front Panel directly via the flex cable. If you connect this to the Non-Ultra V2 desktop BlueSCSI you will need a QWIIC cable. See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"} If purchased you will get a link to the front panel 3D print enclosure and buttons STL.
+Remember the narrow 50 pin Ultra needs the [expander](/narrowexpander) to work with this. Ultra Wide (68 pin and SCA 80 pin) has the SPI port built-in, so it doesn't need the Expander - just connect the Front Panel directly via the flex cable. If you connect this to the Non-Ultra V2 desktop BlueSCSI you will need a QWIIC cable. See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"} Please see [this link](https://github.com/polpo/open-retro-storage-frontpanel/tree/main/enclosure){:target="_blank"} to the front panel 3D print enclosure and buttons STL files.
 
 * BETA Firmware for V2 pre-flashed
 * Comes with short flex cable (7.5cm)

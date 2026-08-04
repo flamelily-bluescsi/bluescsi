@@ -5,7 +5,6 @@ tags:
   - nopaypal
 ---
 
-&#8593;View our Categories menu for Product Page Links. Access your Cart and Checkout pages from the menu&#8593;
 <div class="main_content">
 <div class="row">
 <!-- Section-->
@@ -159,11 +158,6 @@ tags:
                     </div>
 </div>
 </div>
-
-All our prices <b>include</b> delivery, but please make sure you choose your delivery region from the dropdown on each product page. If you purchase multiple items you will get a "Shipping Discount". This will show on the Checkout page.
-
-Your registered Paypal delivery address will be used so please make sure to check it before purchasing. Please see information on our stock on this page <a href="/stock">STOCK INFO.</a> View our Return/Refund policy <a href="/return">HERE.</a> Please see our page with info about <a href="/print">3D Prints</a>.<br>
-<br>
         <p class="lead text-center">
           <a href="https://retro.directory">
           <img src="//retro.directory/images/b191x98.png"

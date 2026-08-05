@@ -50,11 +50,11 @@ nic: 0
 cffloppy: 5
 powershark: 12
 powersharkbk: 11
-vgaadapter: 5
+vgaadapter: 3
 cpu: 3
 dac: 0
 rtc: 9
-juicebox: 7
+juicebox: 6
 scsiadapter: 4
 hd68adapter: 1
 framethrower: 0

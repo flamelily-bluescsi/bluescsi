@@ -19,6 +19,11 @@ tags:
 
 {% include carousel1.html %}
 
+{% if site.ultranarrow50 > 0 %}
+{% else %}
+##### Sorry we are out of stock. The next batch should be arriving around 15th August 2026
+{% endif %}
+
 This is 50 pin 8bit Ultra Narrow version of the BlueSCSI. This has a right angle 50 pin header and both floppy and more standard hard/CDROM drive full size molex for power. This is a complete and tested device. You can add the Front Panel board (which coming soon [see here.](/frontpanel)) You will need the [Expander Card](/narrowexpander) to use the front panel. These new Ultra devices use the same footprint as the original V2 desktop so the all the existing [3D print mounts](/print) will work.
 
 See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}

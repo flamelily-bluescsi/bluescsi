@@ -44,7 +44,7 @@ picogus: 28
 picomem: 22
 picomem2: 29
 adlib: 4
-denise: 0
+denise: 2
 alicia: 9
 nic: 0
 cffloppy: 5
@@ -65,11 +65,11 @@ t2adapter: 17
 ultranarrow50: 0
 ultrawide68: 10
 ultrawide80: 38
-narrowexpander: 32
-audionarrowwide: 29
-frontpanel: 38
-picogx: 26
-misterfloppy: 18
+narrowexpander: 30
+audionarrowwide: 24
+frontpanel: 36
+picogx: 18
+misterfloppy: 14
 slimlinefloppy: 10
 molex: 9
 

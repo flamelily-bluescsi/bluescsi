@@ -36,18 +36,18 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-db25: 16
+db25: 14
 desktop: 6
 powerbook: 6
 pico2w: 3
 picogus: 28
 picomem: 22
-picomem2: 29
+picomem2: 24
 adlib: 4
-denise: 2
+denise: 1
 alicia: 9
 nic: 0
-cffloppy: 5
+cffloppy: 8
 powershark: 0
 powersharkbk: 0
 vgaadapter: 3
@@ -59,19 +59,19 @@ scsiadapter: 4
 hd68adapter: 1
 framethrower: 0
 ram: 0
-denisepanel: 9
-aliciapanel: 8
+denisepanel: 4
+aliciapanel: 2
 t2adapter: 17
-ultranarrow50: 0
+ultranarrow50: 33
 ultrawide68: 10
 ultrawide80: 38
 narrowexpander: 30
 audionarrowwide: 24
-frontpanel: 36
-picogx: 18
+frontpanel: 31
+picogx: 17
 misterfloppy: 14
-slimlinefloppy: 10
-molex: 9
+slimlinefloppy: 9
+molex: 8
 
 # Exclude from processing.
 # The following items will not be processed, by default.

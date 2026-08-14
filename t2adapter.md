@@ -28,7 +28,7 @@ If you can solder the connector yourself, then choose the KIT version to save on
 
 * This is only for use in an [Alica 1200](/alicia1200)
 * Exposes the normal Amiga A1200 edge connector
-* For existing expansions for Alicia
+* For existing A1200 trapdoor expansions to work in Alicia
 * Kit version to solder yourself (Choose KIT version below)
 
 &#128221; STOCK COUNT: {{site.t2adapter}}

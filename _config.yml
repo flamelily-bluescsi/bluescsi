@@ -57,6 +57,7 @@ rtc: 9
 juicebox: 6
 scsiadapter: 4
 hd68adapter: 1
+hd50adapter: 5
 framethrower: 0
 ram: 0
 denisepanel: 4

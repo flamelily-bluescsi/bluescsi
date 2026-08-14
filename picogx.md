@@ -11,7 +11,7 @@ cart_price_us: 56
 cart_price_row: 52
 cart_image: "assets/img/PicoGX.webp"
 cart_image1: "assets/img/picogxmenu.webp"
-cart_image2: "assets/img/picogx-pcb.webp"
+cart_image2: "assets/img/picogx11.webp"
 tags: 
   - gx
 ---
@@ -34,7 +34,7 @@ You store your .cpr and .bin files on a microSD card. It support folders and sub
 * Resin printed 3D case
 * Built-in MicroSD card reader
 * Support ROM files .cpr and .bin
-* Latest Rev 1.0 PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
+* Latest Rev 1.1 PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}
 * Pre-flashed with latest firmware (1.1.4)
 
 Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.

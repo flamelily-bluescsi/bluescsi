@@ -5,10 +5,10 @@ permalink: /hd68adapter
 cart_name: "HD68 SCSI Adapter"
 cart_description: "HD68 SCSI Adapter female to female"
 cart_itemid: hd68adapter
-cart_price: 20
-cart_price_uk: 20
-cart_price_us: 32
-cart_price_row: 30
+cart_price: 22
+cart_price_uk: 22
+cart_price_us: 34
+cart_price_row: 32
 cart_price_uk_kit: 10
 cart_price_us_kit: 23
 cart_price_row_kit: 21

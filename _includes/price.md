@@ -8,7 +8,7 @@
   {% elsif page.cart_name contains 'PotatoFi' or page.cart_name contains 'DB25 Mini Case' or page.cart_name contains 'Desktop Mount' or page.cart_name contains 'Powerbook Mount' %}
     <option value="with" data-price="{{page.cart_price_with}}" data-sku="{{page.cart_itemid}}with">🇬🇧🌍 Only with BlueSCSI - £{{page.cart_price_with}}</option>
     <option value="without" data-price="{{page.cart_price_without}}" data-sku="{{page.cart_itemid}}without">🇬🇧🌍 Separate Purchase (without BlueSCSI) - £{{page.cart_price_without}} (standard delivery)</option>  
-  {% elsif page.cart_name contains 'BlueSCSI' or page.cart_name contains 'PicoGUS' or page.cart_name contains 'PicoMEM' or page.cart_name contains 'PicoGX' or page.cart_name contains 'Midi' or page.cart_name contains 'CPU' or page.cart_name contains 'Framethrower' or page.cart_name contains 'VGA' or page.cart_name contains 'JuiceBox' or page.cart_name contains 'Front Panel' or page.cart_name contains 'Mister Floppy' or page.cart_name contains 'Slimline Floppy' %}
+  {% elsif page.cart_name contains 'BlueSCSI' or page.cart_name contains 'PicoGUS' or page.cart_name contains 'PicoMEM' or page.cart_name contains 'PicoGX' or page.cart_name contains 'Midi' or page.cart_name contains 'CPU' or page.cart_name contains 'Framethrower' or page.cart_name contains 'VGA' or page.cart_name contains 'JuiceBox' or page.cart_name contains 'Front Panel' or page.cart_name contains 'Mister Floppy' or page.cart_name contains 'Slimline Floppy' or page.cart_name contains 'CF Floppy' %}
     <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 UK Delivery - £{{page.cart_price_uk}}</option>
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{page.cart_price_row}}" data-sku="{{page.cart_itemid}}row">🌍 Rest of World - £{{page.cart_price_row}} (International tracked)</option>
@@ -27,7 +27,7 @@
     <option value="us" data-price="{{page.cart_price_us_black}}" data-sku="{{page.cart_itemid}}usblack">🇺🇸 BLACK - US Delivery - £{{page.cart_price_us_black}} (Tariffs/Duties Paid)</option>
     <option value="row" data-price="{{page.cart_price_row_black}}" data-sku="{{page.cart_itemid}}rowblack">🌍 BLACK - Rest of World - £{{page.cart_price_row_black}} (International tracked)</option>
     {% endif %}
-  {% elsif page.cart_name contains 'T2' or page.cart_name contains 'CF Floppy' or page.cart_name contains 'HD68' or page.cart_name contains 'HD50'%}
+  {% elsif page.cart_name contains 'T2' or page.cart_name contains 'HD68' or page.cart_name contains 'HD50'%}
     <option value="uk" data-price="{{page.cart_price_uk}}" data-sku="{{page.cart_itemid}}uk">🇬🇧 UK Delivery - £{{page.cart_price_uk}}</option>
     <option value="ukkit" data-price="{{page.cart_price_uk_kit}}" data-sku="{{page.cart_itemid}}ukkit">🇬🇧 KIT UK Delivery - £{{page.cart_price_uk_kit}}</option>
     <option value="us" data-price="{{page.cart_price_us}}" data-sku="{{page.cart_itemid}}us">🇺🇸 US Delivery - £{{page.cart_price_us}} (Tariffs/Duties Paid)</option>

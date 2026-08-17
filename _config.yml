@@ -50,7 +50,7 @@ nic: 0
 cffloppy: 8
 powershark: 0
 powersharkbk: 0
-vgaadapter: 3
+vgaadapter: 1
 cpu: 3
 dac: 0
 rtc: 9

@@ -13,15 +13,13 @@ cart_price_uk_kit: 30
 cart_price_us_kit: 38
 cart_price_row_kit: 35
 cart_image: "assets/img/CF-Floppy-IO.webp"
-cart_image1: "assets/img/cffloppytopkit.webp"
-cart_image2: "assets/img/cffloppybottomkit.webp"
 tags: 
   - amiga
 ---
 
 ##### 🇬🇧 CF Floppy IO PCB for Denise 🇬🇧
 
-{% include carousel3.html %}
+{% include carousel1.html %}
 
 This is to purchase a CF Floppy IO PCB for Denise. Add this to your Denise order for a nice Compact Flash + Floppy optional IO PCB. You will need to source everything if purchasing the PCB only. You will get an email with BOM details after dispatch. This can be used without the CF card slot of course.
 

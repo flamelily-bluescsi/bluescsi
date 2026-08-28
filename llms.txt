@@ -1,0 +1,30 @@
+# Flamelily Retro
+
+> Flamelily Retro (shop.flamelily.co.uk) is a UK-based online shop selling retro SCSI storage solutions and PCBs for vintage computing — "new stuff for old tech." It is the registered UK/worldwide distributor for several open-source retro hardware projects, including BlueSCSI, PicoGUS, and PicoMEM, and also sells Amiga replacement/upgrade PCBs and 3D-printed accessories. The shop is run by Flamelily IT and ships internationally via Royal Mail, with delivery cost included in listed prices.
+
+## Product Categories
+
+- [BlueSCSI](https://shop.flamelily.co.uk/bluescsi): SCSI-to-SD storage boards for vintage computers, including the new BlueSCSI Ultra/Ultra Wide, Desktop, DB25 external, and PowerBook laptop versions, plus SCSI adapters and cables. Flamelily is a registered BlueSCSI distributor.
+- [PicoGUS](https://shop.flamelily.co.uk/picogus): Raspberry Pi Pico-based sound card emulation board for DOS-era PCs (Sound Blaster/AdLib/MPU-401/Gravis UltraSound emulation, plus CD-ROM emulation support), sold with MIDI cables. Flamelily is the registered UK distributor.
+- [PicoMEM](https://shop.flamelily.co.uk/picomem): 8-bit ISA expansion card for vintage PCs that emulates ISA boards using a Raspberry Pi Pico, including the PicoMEM 2 (Pico 2-based) and an AdLib sound module add-on. Flamelily is the registered UK distributor.
+- [PicoGX](https://shop.flamelily.co.uk/picogx): PicoGX cartridge emulator product for the Amstrad GX4000 and Amstrad Plus line of consoles and computers.
+- [PicoIDE](https://shop.flamelily.co.uk/picoide): PicoIDE is a SD based IDE Integrated Drive electronics emulator for many computers and consoles that use the IDE interface for mass storage.
+- [Amiga](https://shop.flamelily.co.uk/amiga): Replacement and upgrade PCBs for Commodore Amiga systems — including Alicia 1200 and Denise Mini-ITX-sized Amiga kits, RAM modules, video DAC, VGA/RGB adapters, network card, real-time clock IC, JuiceBox USB-C power kit, Powershark, MisterFloppy board, and CPU/adapter boards. Also recommends Pure Amiga for UK Amiga repairs.
+- [3D Prints](https://shop.flamelily.co.uk/print): 3D-printed accessories and mounts, including mounts for BlueSCSI devices.
+
+## Company Information
+
+- [Contact](https://shop.flamelily.co.uk/contact): Contact form for order queries, custom soldering requests, address changes, and general questions.
+- [FAQs](https://shop.flamelily.co.uk/faqs): Covers shipping (included in price, international via Royal Mail), payment (PayPal or card via PayPal checkout, no account required), order tracking, multi-item shipping discounts, and a paid soldering service for kit buyers who can't solder themselves.
+- [Return/Refund Policy](https://shop.flamelily.co.uk/return): The shop's returns and refunds policy.
+- [Stock Info](https://shop.flamelily.co.uk/stock): Current stock status information for products.
+
+## Social
+
+- BlueSky: [@flamelily.co.uk](https://bsky.app/profile/flamelily.co.uk)
+- X/Twitter: [@FlamelilyIT](https://twitter.com/FlamelilyIT)
+
+## Notes
+
+- Prices and stock levels change frequently and are not included here — check individual product pages for current pricing and availability.
+- Delivery region must be selected on each product page, as it affects the delivery-inclusive price.

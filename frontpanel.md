@@ -22,7 +22,7 @@ tags:
 
 This is Front Panel for all the BlueSCSI Ultra devices, and the BlueSCSI V2 desktop (via QWIIC connector). You will need a QWIIC cable if buying for a V2 desktop or Powerbook. This Front Panel is an optional extension for all BlueSCSI boards (DB25 needs modification) that was designed by Polpo for the [PicoIDE.](/picoide)
 
-This front-panel uses the same hardware and firmware as the PicoIDE which will be open sourced once the PicoIDE ships. You can find information about how to use it at [https://bluescsi.com/docs/Front-Panel](https://bluescsi.com/docs/Front-Panel){:target="_blank"} - BlueSCSI pre-release beta firmware is at [https://github.com/polpo/open-retro-storage-frontpanel/releases](https://github.com/polpo/open-retro-storage-frontpanel/releases) This item will be sent with the Beta firmware and you can update the firmware to any NEW version via the web interface. 
+This front-panel uses the same hardware as the PicoIDE. You can find information about how to use it at [https://bluescsi.com/docs/Front-Panel](https://bluescsi.com/docs/Front-Panel){:target="_blank"} - BlueSCSI pre-release beta firmware is at [https://github.com/polpo/open-retro-storage-frontpanel/releases](https://github.com/polpo/open-retro-storage-frontpanel/releases) This item will be sent with the Beta firmware and you can update the firmware to any NEW version via the web interface. 
 
 You can also visit the documentation page here - [https://picoide.com/docs/front-panel/](https://picoide.com/docs/front-panel/){:target="_blank"} to see how it functions in the PicoIDE, since some things are similar.
 

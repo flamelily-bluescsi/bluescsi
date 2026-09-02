@@ -13,6 +13,8 @@ tags:
 
 We will be the registered UK distributor for the [PicoIDE](https://picoide.com/){:target="_blank"}, and the project creator will get a share of every purchase.
 
+You can visit the PicoIDE documentation page here - [https://picoide.com/docs/](https://picoide.com/docs/){:target="_blank"} to learn about how it functions.
+
 Visit [https://picoide.com](https://picoide.com/){:target="_blank"} to learn more.
 
 <!-- form HTML -->

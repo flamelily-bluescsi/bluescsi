@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlueSCSI Ultra - Front Panel
+title: BlueSCSI Ultra and V2 - Front Panel
 permalink: /frontpanel
 cart_name: "BlueSCSI Ultra - Front Panel"
 cart_description: "BlueSCSI Ultra - Front Panel - Assembled"
@@ -16,7 +16,7 @@ tags:
   - ultra
 ---
 
-##### 🇬🇧🌍 BlueSCSI Ultra - Front Panel 🌍🇬🇧
+##### 🇬🇧🌍 BlueSCSI Ultra and V2 - Front Panel 🌍🇬🇧
 
 {% include carousel2.html %}
 

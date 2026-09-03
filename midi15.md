@@ -5,8 +5,8 @@ title: Midi Cable Type A
 cart_name: "Midi Cable Type A"
 cart_description: "Midi Cable Type A"
 cart_itemid: midi15
-cart_price: 6
-cart_price_uk: 6
+cart_price: 8
+cart_price_uk: 8
 cart_price_us: 15
 cart_price_row: 12
 cart_image: "assets/img/midiuk.webp"

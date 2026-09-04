@@ -28,7 +28,7 @@ This is HD50 SCSI Adapter for use with any SCSI situation where you need to conv
 
 * Assembled and complete (unless buying the kit version)
 * Female to Female adapter
-* Choose a kit version to save
+* Choose a kit version to save money
 
 &#128221; STOCK COUNT: {{site.hd50adapter}}
 

@@ -5,10 +5,10 @@ title: PicoMEM 2 New all in One 8-Bit ISA Expansion Card
 cart_name: "PicoMEM 2 New 8-bit ISA"
 cart_description: "PicoMEM 2 New all in One 8-Bit ISA Expansion Card"
 cart_itemid: picomem2
-cart_price: 75
-cart_price_uk: 75
-cart_price_us: 92
-cart_price_row: 87
+cart_price: 74
+cart_price_uk: 74
+cart_price_us: 90
+cart_price_row: 84
 cart_image: "assets/img/PicoMEM2.webp"
 cart_image1: "assets/img/PicoMEM2back.webp"
 tags: 

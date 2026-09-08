@@ -63,11 +63,11 @@ ram: 0
 denisepanel: 4
 aliciapanel: 2
 t2adapter: 17
-ultranarrow50: 31
-ultrawide68: 10
+ultranarrow50: 28
+ultrawide68: 9
 ultrawide80: 33
-narrowexpander: 29
-audionarrowwide: 24
+narrowexpander: 22
+audionarrowwide: 21
 frontpanel: 31
 picogx: 17
 misterfloppy: 8

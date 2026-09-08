@@ -20,7 +20,7 @@ tags:
 
 {% include carousel2.html %}
 
-This is Narrow Expander Card for the BlueSCSI Ultra. The Ultra Expander is an optional hat for BlueSCSI Ultra (50 pin) that adds WiFi support and the SPI flex cable connector for supporting the Front Panel board which is designed by Polpo for the [PicoIDE.](/picoide) The Front Panel board is coming soon - [see here.](/frontpanel)
+This is Narrow Expander Card for the BlueSCSI Ultra. The Ultra Expander is an optional hat for BlueSCSI Ultra (50 pin) that adds WiFi support and the SPI flex cable connector for supporting the Front Panel board which is designed by Polpo for the [PicoIDE.](/picoide) The Front Panel board is available [here.](/frontpanel)
 
 Ultra Wide (68 pin and SCA 80 pin) has the SPI port built-in, so it doesn't need this Expander - just connect the Front Panel directly via the flex cable. See more detailed info about the new ultra products [HERE.](https://bluescsi.com/ultra){:target="_blank"}
 

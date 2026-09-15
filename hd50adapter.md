@@ -5,13 +5,13 @@ permalink: /hd50adapter
 cart_name: "HD50 SCSI Adapter"
 cart_description: "HD50 SCSI Adapter female to female"
 cart_itemid: hd50adapter
-cart_price: 20
-cart_price_uk: 20
+cart_price: 22
+cart_price_uk: 22
 cart_price_us: 32
 cart_price_row: 30
-cart_price_uk_kit: 10
-cart_price_us_kit: 23
-cart_price_row_kit: 21
+cart_price_uk_kit: 12
+cart_price_us_kit: 18
+cart_price_row_kit: 16
 cart_image: "assets/img/HD50-top.webp"
 cart_image1: "assets/img/HD50-bottom.webp"
 tags: 

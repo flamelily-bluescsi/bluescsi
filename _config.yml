@@ -36,9 +36,9 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-db25: 14
+db25: 8
 desktop: 6
-powerbook: 5
+powerbook: 4
 pico2w: 3
 picogus: 28
 picomem: 22

@@ -36,14 +36,14 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-db25: 8
-desktop: 6
-powerbook: 4
+db25: 18
+desktop: 9
+powerbook: 14
 pico2w: 3
-picogus: 28
-picomem: 22
-picomem2: 24
-adlib: 4
+picogus: 19
+picomem: 14
+picomem2: 10
+adlib: 1
 denise: 2
 alicia: 7
 nic: 0
@@ -54,7 +54,7 @@ vgaadapter: 1
 cpu: 3
 dac: 0
 rtc: 8
-juicebox: 6
+juicebox: 14
 scsiadapter: 4
 hd68adapter: 1
 hd50adapter: 5
@@ -63,16 +63,16 @@ ram: 0
 denisepanel: 4
 aliciapanel: 2
 t2adapter: 17
-ultranarrow50: 28
+ultranarrow50: 17
 ultrawide68: 9
-ultrawide80: 33
-narrowexpander: 22
-audionarrowwide: 21
-frontpanel: 31
-picogx: 17
-misterfloppy: 8
+ultrawide80: 24
+narrowexpander: 16
+audionarrowwide: 18
+frontpanel: 28
+picogx: 12
+misterfloppy: 9
 slimlinefloppy: 9
-molex: 8
+molex: 6
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -36,13 +36,13 @@ plugins:
 
 icon: "&#128722;"
 # Stock
-db25: 18
-desktop: 9
+db25: 28
+desktop: 14
 powerbook: 14
 pico2w: 3
-picogus: 19
+picogus: 17
 picomem: 14
-picomem2: 10
+picomem2: 4
 adlib: 1
 denise: 2
 alicia: 7
@@ -69,7 +69,7 @@ ultrawide80: 24
 narrowexpander: 16
 audionarrowwide: 18
 frontpanel: 28
-picogx: 12
+picogx: 9
 misterfloppy: 9
 slimlinefloppy: 9
 molex: 6

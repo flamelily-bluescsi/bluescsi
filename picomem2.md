@@ -54,7 +54,7 @@ The PicoMEM 2 is an new iteration on the original [PicoMEM](/picomemall) 8-bit I
 Key Features:
 
 * NE2000 Network Support emulation
-* CD-ROM and CD Audio emulation (MKE Interface)
+* CD-ROM and CD Audio emulation (MKE Interface) (Only from firmware 4th Oct 2026)
 * Built-in MicroSD card reader
 * USB Mouse & Joystick Support
 * Latest Rev 2.02 PCB with [gold ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold){:target="_blank"}

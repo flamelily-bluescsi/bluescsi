@@ -5,7 +5,10 @@ permalink: /dac
 cart_itemid: videodac
 cart_name: "Amiga Video DAC"
 cart_description: "Amiga Video Digital to Analog Converter (DAC)"
-cart_price: 16
+cart_price: 18
+cart_price_uk: 18
+cart_price_us: 28
+cart_price_row: 26
 cart_image: "assets/img/dac.webp"
 tags: 
   - amiga
@@ -25,7 +28,7 @@ This is to purchase an Amiga Video Digital to Analog Converter (DAC) for Alicia 
 &#128221; STOCK COUNT: {{site.dac}}
 
 {% if site.dac > 0 %}
-##### £{{page.cart_price}} &nbsp; {{site.icon}}[Add to cart](/cart#{{page.cart_itemid}})
+{% include price.md %}
 {% else %}
 {% include outofstock.md %}
 {% endif %}

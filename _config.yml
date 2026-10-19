@@ -40,9 +40,9 @@ db25: 28
 desktop: 14
 powerbook: 14
 pico2w: 3
-picogus: 17
-picomem: 14
-picomem2: 48
+picogus: 19
+picomem: 10
+picomem2: 39
 adlib: 8
 denise: 2
 alicia: 7
@@ -54,7 +54,7 @@ vgaadapter: 1
 cpu: 3
 dac: 9
 rtc: 8
-juicebox: 14
+juicebox: 11
 scsiadapter: 4
 hd68adapter: 1
 hd50adapter: 5

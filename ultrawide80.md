@@ -3,7 +3,7 @@ layout: page
 title: BlueSCSI Ultra - Wide SCA (80 pin)
 permalink: /ultrawide80
 cart_name: "BlueSCSI Ultra - Wide SCA (80 pin)"
-cart_description: "BlueSCSI Ultra - Wide SCA (80 pin) - Assembled"
+cart_description: "BlueSCSI Ultra - Wide SCA (80 pin)"
 cart_itemid: ultrawide80
 cart_price: 80
 cart_price_uk: 80

@@ -55,6 +55,7 @@ cpu: 3
 dac: 9
 rtc: 8
 juicebox: 11
+juicest: 0
 scsiadapter: 4
 hd68adapter: 1
 hd50adapter: 5

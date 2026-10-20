@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JuiceBox
+title: JuiceST
 permalink: /juicest
 cart_name: "JuiceST kit"
 cart_description: "Atari ST USB-C power - JuiceST"
@@ -34,6 +34,8 @@ tags:
   <button type="submit" class="btn btn-primary">Send</button>
 </form>
 {% endif %}
+
+Check out the video here [https://youtu.be/JnuOpCTVtKk](https://youtu.be/JnuOpCTVtKk){:target="_blank"}
 
 {% if site.juicest > 0 %}
 This is to purchase a JuiceST hobby test kit to build your own USB-C power supply unit for your Atari ST. Andi from the YouTube channel HBR has created this power supply unit. You will need to solder some components. The main PCB SMD components will already soldered.

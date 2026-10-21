@@ -47,7 +47,7 @@ adlib: 8
 denise: 2
 alicia: 7
 nic: 0
-cffloppy: 7
+cffloppy: 6
 powershark: 0
 powersharkbk: 0
 vgaadapter: 1
@@ -61,7 +61,7 @@ hd68adapter: 1
 hd50adapter: 5
 framethrower: 0
 ram: 0
-denisepanel: 4
+denisepanel: 5
 aliciapanel: 2
 t2adapter: 17
 ultranarrow50: 17
@@ -73,7 +73,7 @@ frontpanel: 28
 picogx: 9
 misterfloppy: 9
 slimlinefloppy: 9
-molex: 6
+molex: 18
 
 # Exclude from processing.
 # The following items will not be processed, by default.

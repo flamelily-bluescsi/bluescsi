@@ -52,7 +52,7 @@ powershark: 0
 powersharkbk: 0
 vgaadapter: 1
 cpu: 3
-dac: 9
+dac: 23
 rtc: 8
 juicebox: 9
 juicest: 0

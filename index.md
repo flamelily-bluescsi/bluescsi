@@ -56,6 +56,27 @@ tags:
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Sale badge-->
+                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New</div>
+                            <!-- Product image-->
+                            <img class="card-img-top" src="assets/img/juicest1.webp" alt="ram upgrade" />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">Atari Products</h5>
+                                    <!-- Product price-->
+                                    From £40.00
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="/atari">View options</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">New Revision</div>
                             <!-- Product image-->
                             <img class="card-img-top" src="assets/img/picogus2.webp" alt="picogus" />

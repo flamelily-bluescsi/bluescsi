@@ -15,11 +15,36 @@ tags:
   - atari
 ---
 
-##### 🇬🇧🌍🇺🇸 Atari ST USB-C power - JuiceST 🇬🇧🌍🇺🇸
+##### 🇬🇧🌍🇺🇸 JuiceST: USB-C Power Supply Kit for the Atari ST 🇬🇧🌍🇺🇸
 
 {% include carousel2.html %}
 
 {% if site.juicest > 0 %}
+Designed by Andi of the YouTube channel Hack Build Restore (HBR), JuiceST is a compact, modern USB-C powered replacement for the original Atari ST power supply. It fits neatly into the existing power supply tray. After plenty of development and testing, it’s now available as a kit.
+
+Easy to build<br>
+All electronic components come pre-soldered onto their circuit boards, so there’s no surface-mount work or complicated PCB assembly. The only soldering is connecting a few wires between the boards and other parts. Everything else is included, from the circuit boards to the mounting hardware and fixings.
+
+What you reuse from your original power supply:<br>
+The original power switch, which stays in the new installation. Its connections need to be desoldered from the old supply.
+The original motherboard power connector, which needs to be desoldered from the old supply and transplanted into the JuiceST assembly.
+
+Basic soldering skills and tools are enough. Step-by-step assembly instructions are provided, with customer support from both Flamelily Retro and Hack Build Restore if you need help.
+
+How the pre-order works:<br>
+This is the first production batch, so it’s a limited pre-order. Once at least 25 orders are placed, the pre-order window closes and manufacturing begins. Expect a wait of a few weeks to around a month, depending on takeup, manufacturing and shipping times. You’ll be kept updated on production progress and expected dispatch dates.
+
+###### Please choose you region below: Price difference is only shipping cost
+
+UK Buyers: pre-order here [https://pay.tide.co/products/juicest-kit-KyIQMIDi/](https://pay.tide.co/products/juicest-kit-KyIQMIDi/){:target="_blank"}
+
+Rest of the World Buyers: pre-order here [https://pay.tide.co/products/juicest-kit-VD4ktTnM/](https://pay.tide.co/products/juicest-kit-VD4ktTnM/){:target="_blank"}
+
+Thanks to customers for their patience and support with this first batch.
+
+Check out Andi's video here [https://youtu.be/JnuOpCTVtKk](https://youtu.be/JnuOpCTVtKk){:target="_blank"}
+
+If you need an adapter, an excellent USB-C power adpater that works very well is the UGREEN 30W which can be bought off Amazon UK here [https://amzn.to/473Q7KI](https://amzn.to/473Q7KI) and 2m USB-C cable from here [https://amzn.to/4kZrfXW](https://amzn.to/4kZrfXW)
 {% else %}
 
 <!-- form HTML -->
@@ -33,23 +58,4 @@ tags:
   </div>
   <button type="submit" class="btn btn-primary">Send</button>
 </form>
-{% endif %}
-
-Check out the video here [https://youtu.be/JnuOpCTVtKk](https://youtu.be/JnuOpCTVtKk){:target="_blank"}
-
-{% if site.juicest > 0 %}
-This is to purchase a JuiceST hobby test kit to build your own USB-C power supply unit for your Atari ST. Andi from the YouTube channel HBR has created this power supply unit. You will need to solder some components. The main PCB SMD components will already soldered.
-
-If you need an adapter, an excellent USB-C power adpater that works very well is the UGREEN 30W which can be bought off Amazon UK here [https://amzn.to/473Q7KI](https://amzn.to/473Q7KI) and 2m USB-C cable from here [https://amzn.to/4kZrfXW](https://amzn.to/4kZrfXW) 
-
-Price includes shipping costs. Make sure you choose the correct delivery region from the dropdown.
-
-&#128221; STOCK COUNT: {{site.juicest}}
-
-{% if site.juicest > 0 %}
-{% include price.md %}
-{% else %}
-{% include outofstock.md %}
-{% endif %}
-{% else %}
 {% endif %}

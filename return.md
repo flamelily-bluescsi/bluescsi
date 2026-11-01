@@ -10,7 +10,7 @@ tags:
 
 <b><u>Return Policy</u></b>
 
-All physical products purchased may be returned for full refund (minus initial shipping cost) within 30 days of purchase, under the following conditions:
+All physical products purchased may be returned for a refund <b>(minus initial postage and packing costs)</b> within 30 days of purchase, under the following conditions:
 
 The product is in original, working order or quality and can be returned with all items, parts, pieces and accessories originally included as part of the product.
 A return is requested prior to the return expiration date

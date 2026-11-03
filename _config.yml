@@ -45,7 +45,7 @@ picomem: 10
 picomem2: 39
 adlib: 8
 denise: 2
-alicia: 7
+alicia: 6
 nic: 0
 cffloppy: 6
 powershark: 0
@@ -62,7 +62,7 @@ hd50adapter: 5
 framethrower: 0
 ram: 0
 denisepanel: 5
-aliciapanel: 2
+aliciapanel: 0
 t2adapter: 17
 ultranarrow50: 17
 ultrawide68: 9

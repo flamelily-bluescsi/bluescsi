@@ -81,7 +81,7 @@ function drawCart(){
 				sku: item,
 				unit_amount: {value: catalog[item].price.toString(), currency_code: "GBP"},
 				quantity: cart[item],
-				categoryenum:"DIGITAL_GOODS"
+				category:"PHYSICAL_GOODS"
 			});
 			total += catalog[item].price * cart[item];
 		}		
@@ -101,7 +101,7 @@ function drawCart(){
 							value: total_with_discount.toFixed(2),
 							breakdown: {
                 item_total:{value:total.toFixed(2), currency_code: "GBP"},
-                discount: {currency_code:"GBP",value:discount_total}
+                discount: {currency_code:"GBP",value:discount_total.toFixed(2)}
               },
               
 						},

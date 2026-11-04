@@ -34,7 +34,7 @@ Basic soldering skills and tools are enough. Step-by-step assembly instructions 
 How the pre-order works:<br>
 This is the first production batch, so it’s a limited pre-order. Once at least 25 orders are placed, the pre-order window closes and manufacturing begins. Expect a wait of a few weeks to around a month, depending on takeup, manufacturing and shipping times. You’ll be kept updated on production progress and expected dispatch dates.
 
-###### Please choose you region below: Price difference is only shipping cost
+###### Please choose your region below: Price difference is only shipping cost
 
 UK Buyers: pre-order here [https://pay.tide.co/products/juicest-kit-KyIQMIDi/](https://pay.tide.co/products/juicest-kit-KyIQMIDi/){:target="_blank"}
 
@@ -45,6 +45,8 @@ Thanks to customers for their patience and support with this first batch.
 Check out Andi's video here [https://youtu.be/JnuOpCTVtKk](https://youtu.be/JnuOpCTVtKk){:target="_blank"}
 
 If you need an adapter, an excellent USB-C power adpater that works very well is the UGREEN 30W which can be bought off Amazon UK here [https://amzn.to/473Q7KI](https://amzn.to/473Q7KI) and 2m USB-C cable from here [https://amzn.to/4kZrfXW](https://amzn.to/4kZrfXW)
+
+Pre-Orders Left: {{site.juicest}}
 {% else %}
 
 <!-- form HTML -->

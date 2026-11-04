@@ -54,8 +54,8 @@ vgaadapter: 1
 cpu: 3
 dac: 23
 rtc: 8
-juicebox: 9
-juicest: 1
+juicebox: 7
+juicest: 21
 scsiadapter: 4
 hd68adapter: 1
 hd50adapter: 5

@@ -26,10 +26,10 @@ if( Object.keys( cart ).length != 0 ) {
     if( name.toUpperCase().includes('WITHOUT') ) {
       totals[ 'WITHOUT' ] += cart[ item ];
     } else {
-      totals[ lastWord ] += cart[ item ];
+      if( totals[ lastWord ] !== undefined ) {
+  			totals[ lastWord ] += cart[ item ];
+			}
     }
-    
-    console.log( total );
   }
   
   if( totals[ 'US' ] >= 2 ) { discount_percentage = 4; }
@@ -79,15 +79,14 @@ function drawCart(){
 			items.push({
 				name: catalog[item].name,
 				sku: item,
-				unit_amount: {value: catalog[item].price.toString(), currency_code: "GBP"},
+				unit_amount: {value: catalog[item].price.toFixed(2), currency_code: "GBP"},
 				quantity: cart[item],
 				category:"PHYSICAL_GOODS"
 			});
 			total += catalog[item].price * cart[item];
 		}		
 
-    
-		invoice_id = Date.now();
+		const invoice_id = String(Date.now());
     							
     let total_with_discount = total - discount_total;
         
@@ -114,7 +113,7 @@ function drawCart(){
 					cartHtml = `<h2>Thank you for your order!</h2><h4>Please check your Paypal email address for receipt.</h4>`;
 					document.getElementById("paypalbutton").innerHTML = "";
 					document.getElementById("cartcontent").innerHTML = cartHtml;
-					localStorage.clear();
+					localStorage.removeItem('cart');
 				});
 			},
 			onError: function(err) {

@@ -78,4 +78,4 @@ This two files, located in the `assets` folder contain the code for maintaining 
 
 ## Generating a Catalog Page
 
-The `uk.md` in this repository has a sample for how to generate a single page that has all of your items on the page. 
+The `amiga.md` in this repository has a sample for how to generate a single page that has all of your items on the page. 

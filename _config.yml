@@ -39,6 +39,7 @@ icon: "&#128722;"
 db25: 28
 desktop: 14
 powerbook: 14
+blinken: 7
 pico2w: 3
 picogus: 19
 picomem: 10
@@ -55,7 +56,7 @@ cpu: 3
 dac: 23
 rtc: 8
 juicebox: 7
-juicest: 21
+juicest: 20
 scsiadapter: 4
 hd68adapter: 1
 hd50adapter: 5

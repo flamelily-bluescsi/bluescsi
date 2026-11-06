@@ -5,21 +5,24 @@ permalink: /juicest
 cart_name: "JuiceST kit"
 cart_description: "Atari ST USB-C power - JuiceST"
 cart_itemid: juicest
-cart_price: 45
-cart_price_uk: 45
-cart_price_us: 58
-cart_price_row: 55
+cart_price: 43.50
+cart_price_uk: 43.50
+cart_price_us: 54.50
+cart_price_row: 52
 cart_image: "assets/img/juicest1.webp"
 cart_image1: "assets/img/juicest2.webp"
 tags: 
   - atari
 ---
 
-##### 🇬🇧🌍🇺🇸 JuiceST: USB-C Power Supply Kit for the Atari ST 🇬🇧🌍🇺🇸
+##### 🇬🇧🌍🇺🇸 JuiceST: USB-C PSU Kit for the Atari ST - PREORDER 🇬🇧🌍🇺🇸
 
 {% include carousel2.html %}
 
 {% if site.juicest > 0 %}
+<br>
+###### This is a PREORDER. Please understand there will be a wait!
+
 Designed by Andi of the YouTube channel Hack Build Restore (HBR), JuiceST is a compact, modern USB-C powered replacement for the original Atari ST power supply. It fits neatly into the existing power supply tray. After plenty of development and testing, it’s now available as a kit.
 
 Easy to build<br>
@@ -34,13 +37,11 @@ Basic soldering skills and tools are enough. Step-by-step assembly instructions 
 How the pre-order works:<br>
 This is the first production batch, so it’s a limited pre-order. Once at least 25 orders are placed, the pre-order window closes and manufacturing begins. Expect a wait of a few weeks to around a month, depending on takeup, manufacturing and shipping times. You’ll be kept updated on production progress and expected dispatch dates.
 
-###### Please choose your region below: Price difference is shipping cost - Pre-Orders Left: {{site.juicest}}
+###### Please choose your region below. Pre-Orders Left: {{site.juicest}}
 
-UK Buyers: pre-order here [https://pay.tide.co/products/juicest-kit-KyIQMIDi/](https://pay.tide.co/products/juicest-kit-KyIQMIDi/){:target="_blank"}
+{% include price.md %}
 
-Rest of the World Buyers: pre-order here [https://pay.tide.co/products/juicest-kit-VD4ktTnM/](https://pay.tide.co/products/juicest-kit-VD4ktTnM/){:target="_blank"}
-
-Thanks to customers for their patience and support with this first batch.
+Thanks to customers for their patience and support with this first pre-order batch. Please don't order if you can't wait weeks for this product.
 
 Check out Andi's video here [https://youtu.be/JnuOpCTVtKk](https://youtu.be/JnuOpCTVtKk){:target="_blank"}
 

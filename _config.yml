@@ -52,7 +52,7 @@ cffloppy: 6
 powershark: 0
 powersharkbk: 0
 vgaadapter: 1
-cpu: 0
+cpu: 1
 dac: 23
 rtc: 8
 juicebox: 7

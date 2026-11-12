@@ -45,7 +45,7 @@ picogus: 19
 picomem: 10
 picomem2: 39
 adlib: 8
-denise: 2
+denise: 10
 alicia: 6
 nic: 0
 cffloppy: 6
@@ -66,7 +66,7 @@ denisepanel: 5
 aliciapanel: 0
 t2adapter: 17
 ultranarrow50: 17
-ultrawide68: 9
+ultrawide68: 1
 ultrawide80: 24
 narrowexpander: 16
 audionarrowwide: 18

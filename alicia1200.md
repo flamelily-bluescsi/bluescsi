@@ -7,8 +7,8 @@ cart_description: "Amiga Alicia 1200 PCB Kit - Mini-ITX sized Amiga"
 cart_itemid: alicia1200
 cart_price: 240
 cart_price_uk: 240
-cart_price_us: 310
-cart_price_row: 260
+cart_price_us: 270
+cart_price_row: 255
 cart_image: "assets/img/Alicia-top.webp"
 cart_image1: "assets/img/Alicia-bottom.webp"
 cart_image2: "assets/img/ics.webp"

@@ -52,7 +52,7 @@ cffloppy: 6
 powershark: 0
 powersharkbk: 0
 vgaadapter: 1
-cpu: 1
+cpu: 5
 dac: 23
 rtc: 8
 juicebox: 7
@@ -71,9 +71,9 @@ ultrawide80: 24
 narrowexpander: 16
 audionarrowwide: 18
 frontpanel: 28
-picogx: 4
-misterfloppy: 9
-slimlinefloppy: 9
+picogx: 9
+misterfloppy: 6
+slimlinefloppy: 5
 molex: 18
 
 # Exclude from processing.

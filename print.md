@@ -1,7 +1,7 @@
 ---
 title: 3D Prints for sale
 layout: default
-note: false
+note: true
 permalink: /print
 ---
 <div class="container">

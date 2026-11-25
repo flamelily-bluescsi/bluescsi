@@ -25,7 +25,7 @@ tags:
 ##### DISPATCH FOR NEW ORDERS will be week commencing 25th June 2026
 {% endif %}
 
-The PicoGX is cartridge emulator for the Amstrad GX4000 and Amstrad Plus range, based on the Raspberry Pi Pico microcontroller.  It offers a range of features and aims to be an all-in-one solution for running your games for your GX console and Amstrad Plus computers. It comes fully assembled in a resin factory printed case and a lovely sticker with a homage to the original cartridge design from back in the day. It's creator Rodrik has a video showing the features here [https://youtu.be/3OqgBA5MhvY](https://youtu.be/3OqgBA5MhvY){:target="_blank"} (English AI voice)
+The PicoGX is cartridge emulator for the Amstrad GX4000 and Amstrad Plus range, based on the Raspberry Pi Pico microcontroller.  It offers a range of features and aims to be an all-in-one solution for running your games for your GX console and Amstrad Plus computers. It comes fully assembled in a resin factory printed case and a lovely sticker with a homage to the original cartridge design from back in the day. It's creator Rodrik has a video showing the features here [https://youtu.be/3OqgBA5MhvY](https://youtu.be/3OqgBA5MhvY){:target="_blank"} (English AI voice). See the Time Extension article about the PicoGX [here.](https://www.timeextension.com/reviews/the-pico-gx-makes-one-of-console-gamings-most-infamous-flops-infinitely-more-appealing)
 
 We are the registered UK reseller and the project creator will get a share of every purchase. Github link for firmware updates is [https://github.com/Neo2003/PicoGX](https://github.com/Neo2003/PicoGX){:target="_blank"}
 

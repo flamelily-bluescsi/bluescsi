@@ -53,7 +53,7 @@ powershark: 0
 powersharkbk: 0
 vgaadapter: 1
 cpu: 5
-newcpu: 5
+cpu68060: 5
 dac: 23
 rtc: 8
 juicebox: 7
